@@ -1,0 +1,136 @@
+{
+	"Hit Dice": "1d10",
+	"Base Classing": {
+		"Proficiencies": {
+			"Armor": [
+				{
+					"choices": null,
+					"selection": [
+						"light armor",
+						"medium armor",
+						"heavy armor",
+						"shields"
+					]
+				}
+			],
+			"Weapons": [
+				{
+					"choices": null,
+					"selection": [
+						"simple weapons",
+						"martial weapons"
+					]
+				}
+			],
+			"Saving Throws": [
+				{
+					"choices": null,
+					"selection": [
+						"Strength",
+						"Constitution"
+					]
+				}
+			],
+			"Skills": [
+				{
+					"choices": 2,
+					"selection": [
+						"acrobatics",
+						"animal handling",
+						"athletics",
+						"history",
+						"insight",
+						"intimidation",
+						"perception",
+						"survival"
+					]
+				}
+			],
+			"Tools": [
+				{
+					"choices": null,
+					"selection": []
+				}
+			],
+			"Languages": [
+				{
+					"choices": null,
+					"selection": []
+				}
+			]
+		},
+		"Starting Equipment": [
+			{
+				"choices": 1,
+				"selection": [
+					"hide armor",
+					[
+						"padded armor",
+						"a dagger",
+						"a longbow",
+						"a leather quiver",
+						"20 arrows"
+					]
+				]
+			},
+			{
+				"choices": 1,
+				"selection": [
+					[
+						"a martial weapon",
+						"a shield"
+					],
+					"2 martial weapons"
+				]
+			},
+			{
+				"choices": 1,
+				"selection": [
+					[
+						"a simple crossbow",
+						"20 bolts"
+					],
+					"2 handaxes"
+				]
+			},
+			{
+				"choices": 1,
+				"selection": [
+					"a dungeoneer's pack",
+					"an explorer's pack"
+				]
+			}
+		],
+		"Initial Funds": "5d4 × 10"
+	},
+	"Multiclassing": {
+		"Prerequisites": {
+			"Sum of Strength and Dexterity": 24
+		},
+		"Proficiencies": {
+			"Armor": [
+				{
+					"choices": null,
+					"selection": [
+						"light armor",
+						"medium armor",
+						"shields"
+					]
+				}
+			],
+			"Weapons": [
+				{
+					"choices": null,
+					"selection": [
+						"simple weapons",
+						"martial weapons"
+					]
+				}
+			],
+			"Saving Throws": [],
+			"Skills": [],
+			"Tools": [],
+			"Languages": []
+		}
+	}
+}
