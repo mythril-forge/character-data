@@ -1,0 +1,128 @@
+[
+	{
+		"Level": 1,
+		"Features": [
+			"Fighting Style",
+			"Called Shots"
+		]
+	},
+	{
+		"Level": 2,
+		"Features": [
+			"Action Surge (1/rest)",
+			"Field Training"
+		]
+	},
+	{
+		"Level": 3,
+		"Features": [
+			"Martial Archetype",
+			"Second Wind (1/rest)"
+		]
+	},
+	{
+		"Level": 4,
+		"Features": [
+			"Ability Score Improvement"
+		]
+	},
+	{
+		"Level": 5,
+		"Features": [
+			"Extra Attack (1 extra)"
+		]
+	},
+	{
+		"Level": 6,
+		"Features": [
+			"Ability Score Improvement"
+		]
+	},
+	{
+		"Level": 7,
+		"Features": [
+			"Martial Archetype Feature"
+		]
+	},
+	{
+		"Level": 8,
+		"Features": [
+			"Ability Score Improvement"
+		]
+	},
+	{
+		"Level": 9,
+		"Features": [
+			"Indomitable (1/rest)"
+		]
+	},
+	{
+		"Level": 10,
+		"Features": [
+			"Weapon Mastery"
+		]
+	},
+	{
+		"Level": 11,
+		"Features": [
+			"Martial Archetype Feature",
+			"Extra Attack (2 extra)"
+		]
+	},
+	{
+		"Level": 12,
+		"Features": [
+			"Ability Score Improvement"
+		]
+	},
+	{
+		"Level": 13,
+		"Features": [
+			"Indomitable (2/rest)"
+		]
+	},
+	{
+		"Level": 14,
+		"Features": [
+			"Ability Score Improvement"
+		]
+	},
+	{
+		"Level": 15,
+		"Features": [
+			"Martial Archetype Feature"
+		]
+	},
+	{
+		"Level": 16,
+		"Features": [
+			"Ability Score Improvement"
+		]
+	},
+	{
+		"Level": 17,
+		"Features": [
+			"Extra Attack (3 extra)"
+		]
+	},
+	{
+		"Level": 18,
+		"Features": [
+			"Warrior's Spirit"
+		]
+	},
+	{
+		"Level": 19,
+		"Features": [
+			"Martial Archetype Feature",
+			"Second Wind (2/rest)"
+		]
+	},
+	{
+		"Level": 20,
+		"Features": [
+			"Ability Score Improvement",
+			"Action Surge (2/rest)"
+		]
+	}
+]
