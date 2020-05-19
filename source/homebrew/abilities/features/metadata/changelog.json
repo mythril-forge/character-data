@@ -3,8 +3,15 @@
 		"Called Shots",
 		"Field Training",
 		"Weapon Mastery",
-		"Warrior's Spirit"
+		"Warrior's Spirit",
+		"Muscle Memory",
+		"Reservoir of Wrath"
 	],
-	"deleted-features": [],
-	"renamed-features": {}
+	"deleted-features": [
+		"Indomitable Might"
+	],
+	"renamed-features": {
+		"Relentless Rage": "Refute Fatality",
+		"Persistant Rage": "Unending Anger"
+	}
 }

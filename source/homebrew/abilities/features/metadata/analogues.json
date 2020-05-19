@@ -1,5 +1,6 @@
 {
 	"Martial Archetype Feature": "Martial Archetype",
+	"Primal Path Feature": "Primal Path",
 	"Extra Attack (1 extra)": "Extra Attack",
 	"Extra Attack (2 extra)": "Extra Attack",
 	"Extra Attack (3 extra)": "Extra Attack",
@@ -8,5 +9,8 @@
 	"Second Wind (1/rest)": "Second Wind",
 	"Second Wind (2/rest)": "Second Wind",
 	"Indomitable (1/rest)": "Indomitable",
-	"Indomitable (2/rest)": "Indomitable"
+	"Indomitable (2/rest)": "Indomitable",
+	"Brutal Critical (+1 multiplier)": "Brutal Critical",
+	"Brutal Critical (+2 multiplier)": "Brutal Critical",
+	"Brutal Critical (+3 multiplier)": "Brutal Critical"
 }
