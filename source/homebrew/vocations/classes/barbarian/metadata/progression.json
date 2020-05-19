@@ -1,0 +1,128 @@
+[
+	{
+		"Level": 1,
+		"Features": [
+			"Rage",
+			"Unarmored Defense",
+			"Muscle Memory"
+		]
+	},
+	{
+		"Level": 2,
+		"Features": [
+			"Fast Movement",
+			"Reckless Attack",
+			"Danger Sense"
+		]
+	},
+	{
+		"Level": 3,
+		"Features": [
+			"Primal Path"
+		]
+	},
+	{
+		"Level": 4,
+		"Features": [
+			"Ability Score Improvement"
+		]
+	},
+	{
+		"Level": 5,
+		"Features": [
+			"Extra Attack"
+		]
+	},
+	{
+		"Level": 6,
+		"Features": [
+			"Feral Instinct"
+		]
+	},
+	{
+		"Level": 7,
+		"Features": [
+			"Primal Path Feature"
+		]
+	},
+	{
+		"Level": 8,
+		"Features": [
+			"Ability Score Improvement"
+		]
+	},
+	{
+		"Level": 9,
+		"Features": [
+			"Brutal Critical (+1 multiplier)"
+		]
+	},
+	{
+		"Level": 10,
+		"Features": [
+			"Refute Fatality"
+		]
+	},
+	{
+		"Level": 11,
+		"Features": [
+			"Primal Path Feature"
+		]
+	},
+	{
+		"Level": 12,
+		"Features": [
+			"Ability Score Improvement"
+		]
+	},
+	{
+		"Level": 13,
+		"Features": [
+			"Brutal Critical (+2 multiplier)"
+		]
+	},
+	{
+		"Level": 14,
+		"Features": [
+			"Unending Anger"
+		]
+	},
+	{
+		"Level": 15,
+		"Features": [
+			"Primal Path Feature"
+		]
+	},
+	{
+		"Level": 16,
+		"Features": [
+			"Ability Score Improvement"
+		]
+	},
+	{
+		"Level": 17,
+		"Features": [
+			"Brutal Critical (+3 multiplier)"
+		]
+	},
+	{
+		"Level": 18,
+		"Features": [
+			"Reservoir of Wrath"
+		]
+	},
+	{
+		"Level": 19,
+		"Features": [
+			"Primal Path Feature"
+		]
+	},
+	{
+		"Level": 20,
+		"Features": [
+			"Ability Score Improvement",
+			"Primal Champion",
+			"Unmatched Fortitude"
+		]
+	}
+]
