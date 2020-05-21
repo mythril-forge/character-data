@@ -1,0 +1,102 @@
+{
+	"Hit Dice": "1d12",
+	"Base Classing": {
+		"Proficiencies": {
+			"Armor": [
+				{
+					"choices": null,
+					"selection": [
+						"light armor",
+						"medium armor",
+						"shields"
+					]
+				}
+			],
+			"Weapons": [
+				{
+					"choices": null,
+					"selection": [
+						"simple weapons",
+						"martial weapons"
+					]
+				}
+			],
+			"Saving Throws": [
+				{
+					"choices": null,
+					"selection": [
+						"Strength",
+						"Constitution"
+					]
+				}
+			],
+			"Skills": [
+				{
+					"choices": 2,
+					"selection": [
+						"animal handling",
+						"athletics",
+						"intimidation",
+						"nature",
+						"perception",
+						"survival"
+					]
+				}
+			],
+			"Tools": [],
+			"Languages": []
+		},
+		"Starting Equipment": [
+			{
+				"choices": 1,
+				"selection": [
+					"a greataxe",
+					"any martial weapon"
+				]
+			},
+			{
+				"choices": 1,
+				"selection": [
+					"2 handaxes",
+					"any simple weapon"
+				]
+			},
+			{
+				"choices": null,
+				"selection": [
+					"an explorer's pack",
+					"4 javelins"
+				]
+			}
+		],
+		"Initial Funds": "2d4 × 10"
+	},
+	"Multiclassing": {
+		"Prerequisites": {
+			"Strength": 15
+		},
+		"Proficiencies": {
+			"Armor": [
+				{
+					"choices": null,
+					"selection": [
+						"shields"
+					]
+				}
+			],
+			"Weapons": [
+				{
+					"choices": null,
+					"selection": [
+						"simple weapons",
+						"martial weapons"
+					]
+				}
+			],
+			"Saving Throws": [],
+			"Skills": [],
+			"Tools": [],
+			"Languages": []
+		}
+	}
+}
