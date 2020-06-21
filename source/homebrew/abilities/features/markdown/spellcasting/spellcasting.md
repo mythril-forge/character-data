@@ -5,22 +5,19 @@ For more context on the rules for magic, refer to [the general rules of spellcas
 1. [spellcasting]
 1. [spellcasting ability]
 1. [spell slots]
-1. Variable:
-	- Prepared Caster:
-		1. [preparing spells]
-	- Learned Caster:
-		1. [spells known of 1st level and higher]
-1. [spellbook]
+1. [preparing spells]
+1. [learning spells]
+1. [cataloguing spells]
 1. [ritual casting]
 1. [spellcasting focus]
 
+[cataloguing spells]: ./cataloguing-spells.md
+[learning spells]: ./learning-spells.md
 [preparing spells]: ./preparing-spells.md
 [ritual casting]: ./ritual-casting.md
 [spell slots]: ./spell-slots.md
-[spellbook]: ./learning-spells-of-1st-level-and-higher.md
 [spellcasting]: ./spellcasting.md
 [spellcasting ability]: ./spellcasting-ability.md
 [spellcasting focus]: ./spellcasting-focus.md
-[spells known of 1st level and higher]: ./spells-known-of-1st-level-and-higher.md
 [the {@class} spell list]: #
 [the general rules of spellcasting]: #
