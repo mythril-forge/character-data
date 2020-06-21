@@ -5,7 +5,6 @@ For more context on the rules for magic, refer to [the general rules of spellcas
 1. [spellcasting]
 1. [spellcasting ability]
 1. [spell slots]
-1. [cantrips]
 1. Variable:
 	- Prepared Caster:
 		1. [preparing spells]
@@ -15,7 +14,6 @@ For more context on the rules for magic, refer to [the general rules of spellcas
 1. [ritual casting]
 1. [spellcasting focus]
 
-[cantrips]: ./cantrips.md
 [preparing spells]: ./preparing-spells.md
 [ritual casting]: ./ritual-casting.md
 [spell slots]: ./spell-slots.md
