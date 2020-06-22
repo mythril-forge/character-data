@@ -1,28 +1,28 @@
 # Spellbook
-At 1st level, you have a spellbook containing six 1st-level {@class} spells of your choice.
-Your spellbook is the repository of the {@class} spells you know, except your cantrips, which are fixed in your mind.
+Your spellbook is an extended repository of the {@class} spells you know.
+While your mind can only keep track of so many spells at a time, your spellbook can contain neigh infinite information.
 
 ## Copying a Spell into the Book
-When you find a {@class} spell of 1st level or higher, you can add it to your spellbook if it is of a spell level you can prepare and if you can spare the time to decipher and copy it.
-Copying a spell into your spellbook involves reproducing the basic form of the spell, then deciphering the unique system of notation used by the {@class} who wrote it.
-You must practice the spell until you understand the sounds or gestures required, then transcribe it into your spellbook using your own notation.
+Whenever you learn a new {@class} spell, you can immediately add it to your spellbook (no additional action required).
+Otherwise, you must spend the time and money necessary to author a new entry into your spellbook.
 
-For each level of the spell, the process takes 2 hours and costs 50 gp.
-The cost represents material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it.
-Once you have spent this time and money, you can prepare the spell just like your other spells.
+Adding a {@class} spell that you know to your spellbook involves transcribing its description and casting instructions, and illustrating its arcane designs and sigils&mdash;using a notation that is unique to you.
+The process takes at least 30 minutes and costs at least 50 silver pieces.
+For each level of the spell, it takes an additional 30 minutes and costs an additional 50 silver pieces.
+The cost represents {@material-components}.
+You will have properly catalogued the spell into your spellbook once you have spent this time and money.
 
-A {@class} spell on a spell scroll can be copied just as spells in spellbooks can be copied.
-When you copy a spell from a spell scroll, you must succeed on an Intelligence (Arcana) check with a DC equal to 10 + the spell's level.
-If the check succeeds, the spell is successfully copied.
-Whether the check succeeds or fails, the spell scroll is destroyed.
-
-## Replacing the Book
-You can copy a spell from your own spellbook into another book&mdash;for example, if you want to make a backup copy of your spellbook.
-This is just like copying a new spell into your spellbook, but faster and easier, since you understand your own notation and already know how to cast the spell.
-You need spend only 1 hour and 10 gp for each level of the copied spell.
-If you lose your spellbook, you can use the same procedure to transcribe the spells that you have prepared into a new spellbook.
+If you lose your spellbook, you can use this same procedure to transcribe the spells that you know into a new spellbook.
 Filling out the remainder of your spellbook requires you to find new spells to do so, as normal.
-For this reason, many {@class}s keep backup spellbooks in a safe place.
+Because of this, you might wish to produce multiple volumes of your spellbook to keep their contents safe, whether they contain duplicate copies of your spells or unique ones.
+
+## Reviewing Spells from the Book
+While you have access to the contents of your spellbook, you can spend time reviewing the spells that it contains to relearn them.
+Reviewing a {@class} spell requires time spent perusing its respective entry: at least 5 minutes, plus an additional 5 minutes per level of the spell.
+You must repeat this process for each spell that you wish to review.
+Once you have spent this time studying, you know the spell(s) and can prepare them as normal.
+
+You can study and relearn multiple spells per long rest in this way.
 
 ## The Book's Appearance
 Your spellbook is a unique compilation of spells, with its own decorative flourishes and margin notes.
