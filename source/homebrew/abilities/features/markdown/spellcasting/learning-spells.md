@@ -12,10 +12,10 @@ You know one spell of your choice from the {@class} spell list when you first ob
 ## Learning a New Spell
 As a {@class}, you have the capacity to learn new spells, choosing from [the {@class} spell list].
 
-Learning a new {@class} spell involves {@learning-spells}.
-The proceses takes at least 3 hours and costs at least 3 gold pieces.
-For each level of the spell, it takes an additional 3 hours and costs an additional 3 gold pieces.
-The cost represents {@costly-magical-components}.
+Learning a new {@class} spell involves {@learning spells}.
+The proceses takes at least 3 hours and costs at least 300 silver pieces.
+For each level of the spell, it takes an additional 3 hours and costs an additional 300 silver pieces.
+The cost represents {@costly materials}.
 Once you have spent this time and money, you know the spell and can prepare it.
 You must then finish a long rest before you can begin to learn another spell.
 

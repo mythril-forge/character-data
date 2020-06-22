@@ -1,2 +1,4 @@
 # Spellcasting Focus
-You can use a {@spellcasting-focus} (found in chapter 5) as a spellcasting focus for your {@class} spells.
+You can use **{@spellcasting focus}** as a [spellcasting focus] for your {@class} spells.
+
+[spellcasting focus]: #

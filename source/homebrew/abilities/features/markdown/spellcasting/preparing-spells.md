@@ -6,7 +6,7 @@ To prepare a spell is to intimately connect with it: you must accept the spell's
 You have the magical wherewithal to prepare a list of spells, choosing from the {@class} spells that you know.
 You cannot prepare a spell if you do not know it.
 
-Preparing a {@class} spell requires time spent {@preparing-spells}: at least 5 minutes, plus an additional 5 minutes per level of the spell.
+Preparing a {@class} spell requires time spent {@preparing spells}: at least 5 minutes, plus an additional 5 minutes per level of the spell.
 You must repeat this process for each spell that you wish to prepare.
 To finish preparing your spells, you need to complete a long rest.
 
