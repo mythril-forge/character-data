@@ -1,12 +1,22 @@
 # Preparing Spells
-You prepare the list of {@class} spells that are available for you to cast, choosing from the {@class} spell list.
-When you do so, choose a number of {@class} spells equal to your Wisdom modifier + your {@class} level (minimum of one spell).
-The spells must be of a level for which you have spell slots.
+You have a list of prepared spells&mdash;spells that are available for you to cast on a whim.
+To prepare a spell is to intimately connect with it: you must accept the spell's presence and meaning into your mind, and allow your body to become a conduit for its magic.
 
-For example, if you are a {@certain-level} {@class}, you have {@amount-of-spell-slots}.
-With a {@ability} of 16, your list of prepared spells can include {@amount-of-spells} spells of 1st or 2nd level, in any combination.
-If you prepare the 1st-level spell {@example-spell}, you can cast it using a 1st-level or 2nd-level slot.
-Casting the spell doesn't remove it from your list of prepared spells.
+## Preparing One or More Spells
+You have the magical wherewithal to prepare a list of spells, choosing from the {@class} spells that you know.
+You cannot prepare a spell if you do not know it.
 
-You can change your list of prepared spells when you finish a long rest.
-Preparing a new list of {@class} spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
+Preparing a {@class} spell requires time spent {@preparing-spells}: at least 5 minutes, plus an additional 5 minutes per level of the spell.
+You must repeat this process for each spell that you wish to prepare.
+To finish preparing your spells, you need to complete a long rest.
+
+## Limit of Spells Prepared
+The spells prepared column of the {@class} table shows the maximum number of {@class} spells that you can have prepared at a given level.
+You can choose to have fewer, but the number of {@class} spells that you have prepared can never exceed this number.
+
+## Removing Prepared Spells
+You can choose to remove one or more {@class} spells that you have prepared whenever you finish a long rest.
+Likewise, you can choose to remove a spell whenever you prepare a new one, effectively replacing it.
+If a prepared spell that you know is forgotten, it ceases to be prepared.
+
+Casting a spell doesn't remove it from your list of prepared spells.
