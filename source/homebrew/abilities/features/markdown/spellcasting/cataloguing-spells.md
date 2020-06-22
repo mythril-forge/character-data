@@ -2,18 +2,6 @@
 At 1st level, you have a spellbook containing six 1st-level {@class} spells of your choice.
 Your spellbook is the repository of the {@class} spells you know, except your cantrips, which are fixed in your mind.
 
-# Learning Spells of 1st Level and Higher
-Each time you gain a {@class} level, you can add two {@class} spells of your choice to your spellbook.
-Each of these spells must be of a level for which you have spell slots, as shown on the {@class} table.
-On your adventures, you might find other spells that you can add to your spellbook (see "Your Spellbook").
-
-# Your Spellbook
-The spells that you add to your spellbook as you gain levels reflect the arcane research you conduct on your own, as well as intellectual breakthroughs you have had about the nature of the multiverse.
-You might find other spells during your adventures.
-You could discover a spell recorded on a scroll in an evil {@class}'s chest, for example, or in a dusty tome in an ancient library.
-
-A spellbook doesn't contain cantrips.
-
 ## Copying a Spell into the Book
 When you find a {@class} spell of 1st level or higher, you can add it to your spellbook if it is of a spell level you can prepare and if you can spare the time to decipher and copy it.
 Copying a spell into your spellbook involves reproducing the basic form of the spell, then deciphering the unique system of notation used by the {@class} who wrote it.
