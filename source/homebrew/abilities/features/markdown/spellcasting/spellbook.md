@@ -10,7 +10,7 @@ Otherwise, you must spend the time and money necessary to author a new entry int
 Adding a {@class} spell that you know to your spellbook involves transcribing its description and casting instructions, and illustrating its arcane designs and sigils&mdash;using a notation that is unique to you.
 The process takes at least 30 minutes and costs at least 50 silver pieces.
 For each level of the spell, it takes an additional 30 minutes and costs an additional 50 silver pieces.
-The cost represents {@costly materials}.
+The cost represents {@costly-materials}.
 You will have properly catalogued the spell into your spellbook once you have spent this time and money.
 
 If you lose your spellbook, you can use this same procedure to transcribe the spells that you know into a new spellbook.

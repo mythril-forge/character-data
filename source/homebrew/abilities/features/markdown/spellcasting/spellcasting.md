@@ -1,5 +1,5 @@
 # Spellcasting
-{@introduction}.
+{@spellcasting-introduction}.
 For more context on the rules for magic, refer to [the general rules of spellcasting] and [the {@class} spell list].
 
 1. [spellcasting]
