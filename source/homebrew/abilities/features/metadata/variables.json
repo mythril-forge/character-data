@@ -7,6 +7,24 @@
 			"wizard": "transcribing its description and casting instructions, and illustrating its arcane designs and sigils&mdash;using a notation that is unique to you"
 		}
 	},
+	"preparing-spells": {
+		"class": {
+			"artificer": "reconfiguring your arcane equipment",
+			"bard": "receiting and refining your handiwork",
+			"cleric": "in prayer and meditation",
+			"druid": "in prayer and meditation",
+			"mystic": "in a state of superactive thought",
+			"paladin": "in prayer and meditation",
+			"ranger": "energizing objects from nature with mana",
+			"sorcerer": "focusing your magical energies",
+			"warlock": "memorizing incantations and gestures",
+			"wizard": "memorizing incantations and gestures",
+			"arcane-trickster": "memorizing incantations and gestures",
+			"eldritch-knight": "memorizing incantations and gestures",
+			"four-elements": "in prayer and meditation",
+			"totem-warrior": "in prayer and meditation"
+		}
+	},
 	"cost-cataloguing": {
 		"class": {
 			"artificer": "the fine inks you need to record the spell",
