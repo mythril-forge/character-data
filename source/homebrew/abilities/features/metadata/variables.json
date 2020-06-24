@@ -37,6 +37,24 @@
 			"wizard": "the magical oddities necessary to practice the underlying form of the spell"
 		}
 	},
+	"spellcasting-ability": {
+		"class": {
+			"artificer": "intelligence",
+			"bard": "charisma",
+			"cleric": "wisdom",
+			"druid": "wisdom",
+			"mystic": "intelligence",
+			"paladin": "charisma",
+			"ranger": "wisdom",
+			"sorcerer": "charisma",
+			"warlock": "intelligence",
+			"wizard": "intelligence",
+			"arcane-trickster": "intelligence",
+			"eldritch-knight": "intelligence",
+			"four-elements": "wisdom",
+			"totem-warrior": "wisdom"
+		}
+	},
 	"spellcasting-focus": {
 		"class": {
 			"artificer": "an artificer's device",
