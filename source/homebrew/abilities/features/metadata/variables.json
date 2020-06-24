@@ -7,4 +7,19 @@
 			"wizard": "transcribing its description and casting instructions, and illustrating its arcane designs and sigils&mdash;using a notation that is unique to you."
 		}
 	},
+	"spellcasting-focus": {
+		"class": {
+			"artificer": "an artificer's device",
+			"bard": "a musical instrument",
+			"cleric": "a holy symbol",
+			"druid": "a druidic totem",
+			"mystic": "an arcane anchor",
+			"paladin": "a holy symbol",
+			"sorcerer": "an arcane anchor",
+			"warlock": "an arcane anchor",
+			"wizard": "an arcane anchor",
+			"four-elements": "a druidic totem",
+			"totem-warrior": "a druidic totem"
+		}
+	}
 }
