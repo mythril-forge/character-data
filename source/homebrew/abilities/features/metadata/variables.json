@@ -13,6 +13,12 @@
 			"wizard": "the fine inks you need to record the spell"
 		}
 	},
+	"cost-deciphering": {
+		"class": {
+			"artificer": "the miscellaneous gadgets needed to craft a proof-of-concept for the spell",
+			"wizard": "the magical oddities necessary to practice the underlying form of the spell"
+		}
+	},
 	"spellcasting-focus": {
 		"class": {
 			"artificer": "an artificer's device",
