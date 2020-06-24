@@ -6,5 +6,15 @@
 		"Great Weapon Fighting",
 		"Protection",
 		"Two-Weapon Fighting"
+	],
+	"Spellcasting": [
+		"Spellcasting Ability",
+		"Spell Slots and Casting Spells",
+		"Preparing Spells",
+		"Learning Spells",
+		"Deciphering Spells",
+		"Spellbook",
+		"Ritual Casting",
+		"Spellcasting Focus"
 	]
 }
