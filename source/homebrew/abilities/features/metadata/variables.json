@@ -3,8 +3,14 @@
 	"levels": null,
 	"transcribing-spells": {
 		"class": {
-			"artificer": "transcribing its description, drafting blueprints for its apparatus, and illustrating its arcane sigils&mdash;using a notation that is unique to you.",
-			"wizard": "transcribing its description and casting instructions, and illustrating its arcane designs and sigils&mdash;using a notation that is unique to you."
+			"artificer": "transcribing its description, drafting blueprints for its apparatus, and illustrating its arcane sigils&mdash;using a notation that is unique to you",
+			"wizard": "transcribing its description and casting instructions, and illustrating its arcane designs and sigils&mdash;using a notation that is unique to you"
+		}
+	},
+	"cost-cataloguing": {
+		"class": {
+			"artificer": "the fine inks you need to record the spell",
+			"wizard": "the fine inks you need to record the spell"
 		}
 	},
 	"spellcasting-focus": {
