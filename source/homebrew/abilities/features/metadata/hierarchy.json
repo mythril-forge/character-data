@@ -16,5 +16,8 @@
 		"Spellbook",
 		"Ritual Casting",
 		"Spellcasting Focus"
+	],
+	"Channel Divinity: Turn Undead": [
+		"Destroy Undead"
 	]
 }
