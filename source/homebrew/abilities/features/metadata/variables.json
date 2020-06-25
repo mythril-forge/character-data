@@ -1,6 +1,24 @@
 {
 	"class": null,
 	"levels": null,
+	"learning-spells": {
+		"class": {
+			"artificer": "marrying technology and magic into a miraculous invention through careful study and hard work",
+			"bard": "drafting and rehearsing a powerful artisanal twist, then adding a flare of your brilliant magic",
+			"cleric": "an intensive period of symbolic interaction with the powers that be, such as prayer, prose, and sacrifice",
+			"druid": "becoming one with the nature through meditation and introspection, and wielding the powerful mana found in that connection",
+			"mystic": "contemplating deeply on hypothetical scenarios; attempting to manifest power by escorting those thoughts into reality",
+			"paladin": "triggering divine inspiration by actively supporting the ideals that you preach&mdash;through practical action",
+			"ranger": "scavenging for mystical components and utilities in the environments around you, and using them to commune with nature",
+			"sorcerer": "focusing your energies on gemstones and other conduits of magic until you discover something new",
+			"warlock": "soliciting your patron for secrets, researching your discoveries, and testing them with arcane equipment",
+			"wizard": "research and development&mdash;involving reading, taking notes, and understanding magical formulae",
+			"arcane-trickster": "research and development&mdash;involving reading, taking notes, and understanding magical formulae",
+			"eldritch-knight": "research and development&mdash;involving reading, taking notes, and understanding magical formulae",
+			"four-elements": "entering a deep and profound state of meditation, underscored by repetitive practice of the spell's form",
+			"totem-warrior": "finding tranquility; channeling your most earnest emotions of grief and forgiveness into the mana around you"
+		}
+	},
 	"preparing-spells": {
 		"class": {
 			"artificer": "reconfiguring your arcane equipment",
