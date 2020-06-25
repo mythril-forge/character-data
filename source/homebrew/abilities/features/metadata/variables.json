@@ -1,4 +1,145 @@
 {
 	"class": null,
-	"levels": null
+	"levels": null,
+	"spellcasting-introduction": {
+		"class": {
+			"artificer": "By {@level}, you have studied the workings of magic and how to channel it through objects.\nAs a result, you have gained the ability to cast spells.\nTo observers, you don't appear to be casting spells in a conventional way; you look as if you're producing wonders using mundane items or outlandish inventions",
+			"bard": "You have learned to untangle and reshape the fabric of reality in harmony with your wishes and music.\nYour spells are part of your vast repertoire, magic that you can tune to different situations",
+			"cleric": "As a conduit for divine power, you can cast spells",
+			"druid": "Drawing on the divine essence of nature itself, you can cast spells to shape that essence to your will",
+			"mystic": "As a student of psionics, you can master and use psionic talents and disciplines.\nYour knowledge allows you to cast spells",
+			"paladin": "By {@level}, you have learned to draw on divine magic through meditation and prayer to cast spells as a cleric does",
+			"ranger": "By the time you reach {@level}, you have learned to use the magical essence of nature to cast spells, much as a druid does",
+			"sorcerer": "An event in your past, or in the life of a parent or ancestor, left an indelible mark on you, infusing you with arcane magic.\nThis font of magic, whatever its origin, fuels your spells",
+			"warlock": "Your arcane research and the magic bestowed on you by your patron have given you facility with spells",
+			"wizard": "As a student of arcane magic, you have a spellbook containing the research that shows the first glimmerings of your true power",
+			"arcane-trickster": "When you reach {@level}, you gain the ability to cast spells",
+			"eldritch-knight": "When you reach {@level}, you augment your martial prowess with the ability to cast spells",
+			"four-elements": "At {@level}, you learn magical disciplines that harness the power of the four elements, allowing you to cast spells",
+			"totem-warrior": "Yours is a path that seeks emotional attunement with the natural world, granting you a limited capacity to cast spells"
+		}
+	},
+	"source-of-magic": {
+		"class": {
+			"artificer": "Your understanding of the theory behind magic allows you to wield these spells with superior skill",
+			"bard": "Your magic comes from the heart and soul you pour into the performance of your music or oration",
+			"cleric": "The power of your spells comes from your devotion to your deity",
+			"druid": "Your magic draws upon your devotion and attunement to nature",
+			"mystic": "Your power comes from your ability to calculate new realities",
+			"paladin": "Their power derives from the strength of your convictions",
+			"ranger": "Their power draws on your attunement to nature",
+			"sorcerer": "The power of your magic relies on your ability to project your will into the world",
+			"warlock": "This magic is powered by your comprehension of weird magical secrets",
+			"wizard": "You learn your spells through dedicated study and memorization",
+			"arcane-trickster": "You learn your spells through dedicated study and memorization",
+			"eldritch-knight": "You learn your spells through dedicated study and memorization",
+			"four-elements": "Your spells are an extention of your ki",
+			"totem-warrior": "Their power derives from the depth of your empathy"
+		}
+	},
+	"learning-spells": {
+		"class": {
+			"artificer": "marrying technology and magic into a miraculous invention through careful study and hard work",
+			"bard": "drafting and rehearsing a powerful artisanal twist, then adding a flare of your brilliant magic",
+			"cleric": "an intensive period of symbolic interaction with the powers that be, such as prayer, prose, and sacrifice",
+			"druid": "becoming one with the nature through meditation and introspection, and wielding the powerful mana found in that connection",
+			"mystic": "contemplating deeply on hypothetical scenarios; attempting to manifest power by escorting those thoughts into reality",
+			"paladin": "triggering divine inspiration by actively supporting the ideals that you preach&mdash;through practical action",
+			"ranger": "scavenging for mystical components and utilities in the environments around you, and using them to commune with nature",
+			"sorcerer": "focusing your energies on gemstones and other conduits of magic until you discover something new",
+			"warlock": "soliciting your patron for secrets, researching your discoveries, and testing them with arcane equipment",
+			"wizard": "research and development&mdash;involving reading, taking notes, and understanding magical formulae",
+			"arcane-trickster": "research and development&mdash;involving reading, taking notes, and understanding magical formulae",
+			"eldritch-knight": "research and development&mdash;involving reading, taking notes, and understanding magical formulae",
+			"four-elements": "entering a deep and profound state of meditation, underscored by repetitive practice of the spell's form",
+			"totem-warrior": "finding tranquility; channeling your most earnest emotions of grief and forgiveness into the mana around you"
+		}
+	},
+	"preparing-spells": {
+		"class": {
+			"artificer": "reconfiguring your arcane equipment",
+			"bard": "receiting and refining your handiwork",
+			"cleric": "in prayer and meditation",
+			"druid": "in prayer and meditation",
+			"mystic": "in a state of superactive thought",
+			"paladin": "in prayer and meditation",
+			"ranger": "energizing objects from nature with mana",
+			"sorcerer": "focusing your magical energies",
+			"warlock": "memorizing incantations and gestures",
+			"wizard": "memorizing incantations and gestures",
+			"arcane-trickster": "memorizing incantations and gestures",
+			"eldritch-knight": "memorizing incantations and gestures",
+			"four-elements": "in prayer and meditation",
+			"totem-warrior": "in prayer and meditation"
+		}
+	},
+	"cost-learning": {
+		"class": {
+			"artificer": "the fine inks, mechanical parts, and magical components that you need throughout the process",
+			"bard": "the luxuries that help you get into the mindset of creation, such as fine food and fabulous costumes",
+			"cleric": "the expensive ceremonies that you participate in, and the fine candles and incenses that are consumed by the process",
+			"druid": "the rare herbal remedies you consume to help you ease into your deep, spiritual connections with the natural world",
+			"mystic": "focal points, such as gemstones, that you spend to heighten the depth of your thoughts and calculate potential realities",
+			"paladin": "the costs of various activities that you perform to uphold your ideals, such as donating to various organizations and sponsoring public events",
+			"ranger": "the rare plants and materials that you use to channel the natural magics around you and learn of its wonders",
+			"sorcerer": "gemstones and other magical oddities that you use for expirementation, trying to find an extention of your power",
+			"warlock": "the magical objects you spend to communicate with your patron, and the costly research materials that are suggested to you",
+			"wizard": "the fine inks and paper that you use to take notes and record arcane sigils, and the various magical components used in your research",
+			"arcane-trickster": "the textbooks and materials needed to learn about the spell",
+			"eldritch-knight": "the textbooks and materials needed to learn about the spell",
+			"four-elements": "the research materials, herbal remedies, and personal training needed to learn the spell",
+			"totem-warrior": "the herbal remedies and spiritual components needed to learn the spell"
+		}
+	},
+	"transcribing-spells": {
+		"class": {
+			"artificer": "transcribing its description, drafting blueprints for its apparatus, and illustrating its arcane sigils&mdash;using a notation that is unique to you",
+			"wizard": "transcribing its description and casting instructions, and illustrating its arcane designs and sigils&mdash;using a notation that is unique to you"
+		}
+	},
+	"cost-cataloguing": {
+		"class": {
+			"artificer": "the fine inks you need to record the spell",
+			"wizard": "the fine inks you need to record the spell"
+		}
+	},
+	"cost-deciphering": {
+		"class": {
+			"artificer": "the miscellaneous gadgets needed to craft a proof-of-concept for the spell",
+			"wizard": "the magical oddities necessary to practice the underlying form of the spell"
+		}
+	},
+	"spellcasting-ability": {
+		"class": {
+			"artificer": "intelligence",
+			"bard": "charisma",
+			"cleric": "wisdom",
+			"druid": "wisdom",
+			"mystic": "intelligence",
+			"paladin": "charisma",
+			"ranger": "wisdom",
+			"sorcerer": "charisma",
+			"warlock": "intelligence",
+			"wizard": "intelligence",
+			"arcane-trickster": "intelligence",
+			"eldritch-knight": "intelligence",
+			"four-elements": "wisdom",
+			"totem-warrior": "wisdom"
+		}
+	},
+	"spellcasting-focus": {
+		"class": {
+			"artificer": "an artificer's device",
+			"bard": "a musical instrument",
+			"cleric": "a holy symbol",
+			"druid": "a druidic totem",
+			"mystic": "an arcane anchor",
+			"paladin": "a holy symbol",
+			"sorcerer": "an arcane anchor",
+			"warlock": "an arcane anchor",
+			"wizard": "an arcane anchor",
+			"four-elements": "a druidic totem",
+			"totem-warrior": "a druidic totem"
+		}
+	}
 }
