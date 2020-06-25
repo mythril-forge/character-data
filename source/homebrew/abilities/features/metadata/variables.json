@@ -1,6 +1,24 @@
 {
 	"class": null,
 	"levels": null,
+	"spellcasting-introduction": {
+		"class": {
+			"artificer": "By {@level}, you have studied the workings of magic and how to channel it through objects.\nAs a result, you have gained the ability to cast spells.\nTo observers, you don't appear to be casting spells in a conventional way; you look as if you're producing wonders using mundane items or outlandish inventions",
+			"bard": "You have learned to untangle and reshape the fabric of reality in harmony with your wishes and music.\nYour spells are part of your vast repertoire, magic that you can tune to different situations",
+			"cleric": "As a conduit for divine power, you can cast spells",
+			"druid": "Drawing on the divine essence of nature itself, you can cast spells to shape that essence to your will",
+			"mystic": "As a student of psionics, you can master and use psionic talents and disciplines.\nYour knowledge allows you to cast spells",
+			"paladin": "By {@level}, you have learned to draw on divine magic through meditation and prayer to cast spells as a cleric does",
+			"ranger": "By the time you reach {@level}, you have learned to use the magical essence of nature to cast spells, much as a druid does",
+			"sorcerer": "An event in your past, or in the life of a parent or ancestor, left an indelible mark on you, infusing you with arcane magic.\nThis font of magic, whatever its origin, fuels your spells.",
+			"warlock": "Your arcane research and the magic bestowed on you by your patron have given you facility with spells.",
+			"wizard": "As a student of arcane magic, you have a spellbook containing the research that shows the first glimmerings of your true power.",
+			"arcane-trickster": "When you reach {@level}, you gain the ability to cast spells",
+			"eldritch-knight": "When you reach {@level}, you augment your martial prowess with the ability to cast spells",
+			"four-elements": "At {@level}, you learn magical disciplines that harness the power of the four elements, allowing you to cast spells",
+			"totem-warrior": "Yours is a path that seeks emotional attunement with the natural world, granting you a limited capacity to cast spells"
+		}
+	},
 	"learning-spells": {
 		"class": {
 			"artificer": "marrying technology and magic into a miraculous invention through careful study and hard work",
