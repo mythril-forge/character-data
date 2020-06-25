@@ -10,9 +10,9 @@
 			"mystic": "As a student of psionics, you can master and use psionic talents and disciplines.\nYour knowledge allows you to cast spells",
 			"paladin": "By {@level}, you have learned to draw on divine magic through meditation and prayer to cast spells as a cleric does",
 			"ranger": "By the time you reach {@level}, you have learned to use the magical essence of nature to cast spells, much as a druid does",
-			"sorcerer": "An event in your past, or in the life of a parent or ancestor, left an indelible mark on you, infusing you with arcane magic.\nThis font of magic, whatever its origin, fuels your spells.",
-			"warlock": "Your arcane research and the magic bestowed on you by your patron have given you facility with spells.",
-			"wizard": "As a student of arcane magic, you have a spellbook containing the research that shows the first glimmerings of your true power.",
+			"sorcerer": "An event in your past, or in the life of a parent or ancestor, left an indelible mark on you, infusing you with arcane magic.\nThis font of magic, whatever its origin, fuels your spells",
+			"warlock": "Your arcane research and the magic bestowed on you by your patron have given you facility with spells",
+			"wizard": "As a student of arcane magic, you have a spellbook containing the research that shows the first glimmerings of your true power",
 			"arcane-trickster": "When you reach {@level}, you gain the ability to cast spells",
 			"eldritch-knight": "When you reach {@level}, you augment your martial prowess with the ability to cast spells",
 			"four-elements": "At {@level}, you learn magical disciplines that harness the power of the four elements, allowing you to cast spells",
@@ -71,6 +71,24 @@
 			"eldritch-knight": "memorizing incantations and gestures",
 			"four-elements": "in prayer and meditation",
 			"totem-warrior": "in prayer and meditation"
+		}
+	},
+	"cost-learning": {
+		"class": {
+			"artificer": "the fine inks, mechanical parts, and magical components that you need throughout the process",
+			"bard": "the luxuries that help you get into the mindset of creation, such as fine food and fabulous costumes",
+			"cleric": "the expensive ceremonies that you participate in, and the fine candles and incenses that are consumed by the process",
+			"druid": "the rare herbal remedies you consume to help you ease into your deep, spiritual connections with the natural world",
+			"mystic": "focal points, such as gemstones, that you spend to heighten the depth of your thoughts and calculate potential realities",
+			"paladin": "the costs of various activities that you perform to uphold your ideals, such as donating to various organizations and sponsoring public events",
+			"ranger": "the rare plants and materials that you use to channel the natural magics around you and learn of its wonders",
+			"sorcerer": "gemstones and other magical oddities that you use for expirementation, trying to find an extention of your power",
+			"warlock": "the magical objects you spend to communicate with your patron, and the costly research materials that are suggested to you",
+			"wizard": "the fine inks and paper that you use to take notes and record arcane sigils, and the various magical components used in your research",
+			"arcane-trickster": "the textbooks and materials needed to learn about the spell",
+			"eldritch-knight": "the textbooks and materials needed to learn about the spell",
+			"four-elements": "the research materials, herbal remedies, and personal training needed to learn the spell",
+			"totem-warrior": "the herbal remedies and spiritual components needed to learn the spell"
 		}
 	},
 	"transcribing-spells": {
