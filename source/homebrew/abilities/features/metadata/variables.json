@@ -19,6 +19,24 @@
 			"totem-warrior": "Yours is a path that seeks emotional attunement with the natural world, granting you a limited capacity to cast spells"
 		}
 	},
+	"source-of-magic": {
+		"class": {
+			"artificer": "Your understanding of the theory behind magic allows you to wield these spells with superior skill",
+			"bard": "Your magic comes from the heart and soul you pour into the performance of your music or oration",
+			"cleric": "The power of your spells comes from your devotion to your deity",
+			"druid": "Your magic draws upon your devotion and attunement to nature",
+			"mystic": "Your power comes from your ability to calculate new realities",
+			"paladin": "Their power derives from the strength of your convictions",
+			"ranger": "Their power draws on your attunement to nature",
+			"sorcerer": "The power of your magic relies on your ability to project your will into the world",
+			"warlock": "This magic is powered by your comprehension of weird magical secrets",
+			"wizard": "You learn your spells through dedicated study and memorization",
+			"arcane-trickster": "You learn your spells through dedicated study and memorization",
+			"eldritch-knight": "You learn your spells through dedicated study and memorization",
+			"four-elements": "Your spells are an extention of your ki",
+			"totem-warrior": "Their power derives from the depth of your empathy"
+		}
+	},
 	"learning-spells": {
 		"class": {
 			"artificer": "marrying technology and magic into a miraculous invention through careful study and hard work",
