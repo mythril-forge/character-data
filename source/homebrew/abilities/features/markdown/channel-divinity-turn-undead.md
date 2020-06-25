@@ -7,7 +7,3 @@ If the creature fails its Saving Throw, it is frightened by you for 5 minutes or
 While frightened in this way, a creature must spend its movement trying to move as far away from you as it can.
 It can't willingly move to a space within 30 feet of you, and it can't take any bonus actions or reactions.
 When it takes an action, it can only use the dash action or try to escape from an effect that prevents it from moving.
-
-## Destroy Undead
-When an undead fails its Saving Throw against your Turn Undead feature, the creature is instantly destroyed if its Challenge Rating is at or below 0.
-This Challenge Rating threshold increases as you level up, as shown on the {@class} table.
