@@ -1,0 +1,111 @@
+{
+	"Hit Dice": "1d8",
+	"Base Classing": {
+		"Proficiencies": {
+			"Armor": [
+				{
+					"choices": null,
+					"selection": [
+						"light armor",
+						"medium armor",
+						"shields"
+					]
+				}
+			],
+			"Weapons": [
+				{
+					"choices": null,
+					"selection": [
+						"simple weapons"
+					]
+				}
+			],
+			"Saving Throws": [
+				{
+					"choices": null,
+					"selection": [
+						"Wisdom",
+						"Charisma"
+					]
+				}
+			],
+			"Skills": [
+				{
+					"choices": 2,
+					"selection": [
+						"history",
+						"insight",
+						"medicine",
+						"persuasion",
+						"religion"
+					]
+				}
+			],
+			"Tools": [],
+			"Languages": []
+		},
+		"Starting Equipment": [
+			{
+				"choices": 1,
+				"selection": [
+					"a mace",
+					"a warhammer"
+				]
+			},
+			{
+				"choices": 1,
+				"selection": [
+					"padded armor",
+					"hide armor"
+				]
+			},
+			{
+				"choices": 1,
+				"selection": [
+					[
+						"a basic crossbow",
+						"20 bolts"
+					],
+					"any simple weapon"
+				]
+			},
+			{
+				"choices": 1,
+				"selection": [
+					"a priest's pack",
+					"an explorer's pack"
+				]
+			},
+			{
+				"choices": null,
+				"selection": [
+					"a shield",
+					"a holy symbol (one of your choice)"
+				]
+			}
+		],
+		"Initial Funds": "5d4 × 10"
+	},
+	"Multiclassing": {
+		"Prerequisites": {
+			"Wisdom": 15
+		},
+		"Proficiencies": {
+			"Armor": [
+				{
+					"choices": null,
+					"selection": [
+						"light armor",
+						"medium armor",
+						"shields"
+					]
+				}
+			],
+			"Weapons": [],
+			"Saving Throws": [],
+			"Skills": [],
+			"Tools": [],
+			"Languages": []
+		}
+	}
+}

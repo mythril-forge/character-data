@@ -5,10 +5,14 @@
 		"Weapon Mastery",
 		"Warrior's Spirit",
 		"Muscle Memory",
-		"Reservoir of Wrath"
+		"Reservoir of Wrath",
+		"Channel Divinity: Turn Undead",
+		"Divine Strike",
+		"Blessed Vessel"
 	],
 	"deleted-features": [
-		"Indomitable Might"
+		"Indomitable Might",
+		"Destroy Undead"
 	],
 	"renamed-features": {
 		"Relentless Rage": "Refute Fatality",

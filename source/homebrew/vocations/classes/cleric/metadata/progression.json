@@ -1,0 +1,114 @@
+[
+	{
+		"Level": 1,
+		"Features": [
+			"Spellcasting",
+			"Divine Domain"
+		]
+	},
+	{
+		"Level": 2,
+		"Features": [
+			"Divine Domain Feature",
+			"Channel Divinity (1/rest)",
+			"Channel Divinity: Turn Undead"
+		]
+	},
+	{
+		"Level": 3,
+		"Features": []
+	},
+	{
+		"Level": 4,
+		"Features": [
+			"Ability Score Improvement"
+		]
+	},
+	{
+		"Level": 5,
+		"Features": []
+	},
+	{
+		"Level": 6,
+		"Features": [
+			"Divine Domain Feature",
+			"Channel Divinity (2/rest)"
+		]
+	},
+	{
+		"Level": 7,
+		"Features": []
+	},
+	{
+		"Level": 8,
+		"Features": [
+			"Ability Score Improvement",
+			"Divine Strike"
+		]
+	},
+	{
+		"Level": 9,
+		"Features": []
+	},
+	{
+		"Level": 10,
+		"Features": [
+			"Divine Domain Feature",
+			"Divine Intervention"
+		]
+	},
+	{
+		"Level": 11,
+		"Features": []
+	},
+	{
+		"Level": 12,
+		"Features": [
+			"Ability Score Improvement"
+		]
+	},
+	{
+		"Level": 13,
+		"Features": []
+	},
+	{
+		"Level": 14,
+		"Features": [
+			"Divine Domain Feature",
+			"Improved Divine Strike",
+			"Blessed Vessel"
+		]
+	},
+	{
+		"Level": 15,
+		"Features": []
+	},
+	{
+		"Level": 16,
+		"Features": [
+			"Ability Score Improvement"
+		]
+	},
+	{
+		"Level": 17,
+		"Features": []
+	},
+	{
+		"Level": 18,
+		"Features": [
+			"Divine Domain Feature",
+			"Channel Divinity (3/rest)"
+		]
+	},
+	{
+		"Level": 19,
+		"Features": []
+	},
+	{
+		"Level": 20,
+		"Features": [
+			"Ability Score Improvement",
+			"Improved Divine Intervention"
+		]
+	}
+]
