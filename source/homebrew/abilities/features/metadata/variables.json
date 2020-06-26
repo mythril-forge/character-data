@@ -1,6 +1,4 @@
 {
-	"class": null,
-	"levels": null,
 	"spellcasting-introduction": {
 		"class": {
 			"artificer": "By {@level}, you have studied the workings of magic and how to channel it through objects.\nAs a result, you have gained the ability to cast spells.\nTo observers, you don't appear to be casting spells in a conventional way; you look as if you're producing wonders using mundane items or outlandish inventions",
@@ -140,6 +138,11 @@
 			"wizard": "an arcane anchor",
 			"four-elements": "a druidic totem",
 			"totem-warrior": "a druidic totem"
+		}
+	},
+	"extra-attack": {
+		"class": {
+			"fighter": "The number of attacks increases to three when you reach {@level} in this class, and to four when you reach {@level} in this class."
 		}
 	}
 }
