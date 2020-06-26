@@ -4,7 +4,8 @@
 		"Features": [
 			"Spellcasting",
 			"Divine Domain"
-		]
+		],
+		"Destroy Undead": "&mdash;"
 	},
 	{
 		"Level": 2,
@@ -12,64 +13,76 @@
 			"Divine Domain Feature",
 			"Channel Divinity (1/rest)",
 			"Channel Divinity: Turn Undead"
-		]
+		],
+		"Destroy Undead": "CR 0"
 	},
 	{
 		"Level": 3,
-		"Features": []
+		"Features": [],
+		"Destroy Undead": "CR 0"
 	},
 	{
 		"Level": 4,
 		"Features": [
 			"Ability Score Improvement"
-		]
+		],
+		"Destroy Undead": "CR 0"
 	},
 	{
 		"Level": 5,
-		"Features": []
+		"Features": [],
+		"Destroy Undead": "CR &frac12"
 	},
 	{
 		"Level": 6,
 		"Features": [
 			"Divine Domain Feature",
 			"Channel Divinity (2/rest)"
-		]
+		],
+		"Destroy Undead": "CR &frac12"
 	},
 	{
 		"Level": 7,
-		"Features": []
+		"Features": [],
+		"Destroy Undead": "CR &frac12"
 	},
 	{
 		"Level": 8,
 		"Features": [
 			"Ability Score Improvement",
 			"Divine Strike"
-		]
+		],
+		"Destroy Undead": "CR 1"
 	},
 	{
 		"Level": 9,
-		"Features": []
+		"Features": [],
+		"Destroy Undead": "CR 1"
 	},
 	{
 		"Level": 10,
 		"Features": [
 			"Divine Domain Feature",
 			"Divine Intervention"
-		]
+		],
+		"Destroy Undead": "CR 1"
 	},
 	{
 		"Level": 11,
-		"Features": []
+		"Features": [],
+		"Destroy Undead": "CR 2"
 	},
 	{
 		"Level": 12,
 		"Features": [
 			"Ability Score Improvement"
-		]
+		],
+		"Destroy Undead": "CR 2"
 	},
 	{
 		"Level": 13,
-		"Features": []
+		"Features": [],
+		"Destroy Undead": "CR 2"
 	},
 	{
 		"Level": 14,
@@ -77,38 +90,45 @@
 			"Divine Domain Feature",
 			"Improved Divine Strike",
 			"Blessed Vessel"
-		]
+		],
+		"Destroy Undead": "CR 3"
 	},
 	{
 		"Level": 15,
-		"Features": []
+		"Features": [],
+		"Destroy Undead": "CR 3"
 	},
 	{
 		"Level": 16,
 		"Features": [
 			"Ability Score Improvement"
-		]
+		],
+		"Destroy Undead": "CR 3"
 	},
 	{
 		"Level": 17,
-		"Features": []
+		"Features": [],
+		"Destroy Undead": "CR 4"
 	},
 	{
 		"Level": 18,
 		"Features": [
 			"Divine Domain Feature",
 			"Channel Divinity (3/rest)"
-		]
+		],
+		"Destroy Undead": "CR 4"
 	},
 	{
 		"Level": 19,
-		"Features": []
+		"Features": [],
+		"Destroy Undead": "CR 4"
 	},
 	{
 		"Level": 20,
 		"Features": [
 			"Ability Score Improvement",
 			"Improved Divine Intervention"
-		]
+		],
+		"Destroy Undead": "CR 5"
 	}
 ]
