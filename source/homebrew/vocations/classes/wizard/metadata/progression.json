@@ -1,0 +1,132 @@
+[
+	{
+		"Level": 1,
+		"Features": [
+			"Spellcasting",
+			"Arcane Recovery"
+		],
+		"Arcana Points": 1
+	},
+	{
+		"Level": 2,
+		"Features": [
+			"Arcane Tradition",
+			"Ritual Practitioner"
+		],
+		"Arcana Points": 2
+	},
+	{
+		"Level": 3,
+		"Features": [],
+		"Arcana Points": 3
+	},
+	{
+		"Level": 4,
+		"Features": [
+			"Ability Score Improvement"
+		],
+		"Arcana Points": 4
+	},
+	{
+		"Level": 5,
+		"Features": [],
+		"Arcana Points": 5
+	},
+	{
+		"Level": 6,
+		"Features": [
+			"Ability Score Improvement",
+			"Arcane Tradition Feature"
+		],
+		"Arcana Points": 6
+	},
+	{
+		"Level": 7,
+		"Features": [],
+		"Arcana Points": 7
+	},
+	{
+		"Level": 8,
+		"Features": [
+			"Ability Score Improvement",
+			"Developer of Magic"
+		],
+		"Arcana Points": 8
+	},
+	{
+		"Level": 9,
+		"Features": [],
+		"Arcana Points": 9
+	},
+	{
+		"Level": 10,
+		"Features": [
+			"Arcane Tradition Feature",
+			"Spell Mastery"
+		],
+		"Arcana Points": 10
+	},
+	{
+		"Level": 11,
+		"Features": [],
+		"Arcana Points": 11
+	},
+	{
+		"Level": 12,
+		"Features": [
+			"Ability Score Improvement"
+		],
+		"Arcana Points": 12
+	},
+	{
+		"Level": 13,
+		"Features": [],
+		"Arcana Points": 13
+	},
+	{
+		"Level": 14,
+		"Features": [
+			"Ability Score Improvement",
+			"Arcane Tradition Feature"
+		],
+		"Arcana Points": 14
+	},
+	{
+		"Level": 15,
+		"Features": [],
+		"Arcana Points": 15
+	},
+	{
+		"Level": 16,
+		"Features": [
+			"Ability Score Improvement"
+		],
+		"Arcana Points": 16
+	},
+	{
+		"Level": 17,
+		"Features": [],
+		"Arcana Points": 17
+	},
+	{
+		"Level": 18,
+		"Features": [
+			"Arcane Tradition Feature",
+			"Improved Spell Mastery"
+		],
+		"Arcana Points": 18
+	},
+	{
+		"Level": 19,
+		"Features": [],
+		"Arcana Points": 19
+	},
+	{
+		"Level": 20,
+		"Features": [
+			"Ability Score Improvement",
+			"Signature Spell"
+		],
+		"Arcana Points": 20
+	}
+]

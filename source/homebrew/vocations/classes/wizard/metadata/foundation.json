@@ -1,0 +1,87 @@
+{
+	"Hit Dice": "1d4",
+	"Base Classing": {
+		"Proficiencies": {
+			"Armor": [],
+			"Weapons": [
+				{
+					"choices": null,
+					"selection": [
+						"daggers",
+						"darts",
+						"slings",
+						"quarterstaffs",
+						"simple crossbows"
+					]
+				}
+			],
+			"Saving Throws": [
+				{
+					"choices": null,
+					"selection": [
+						"Intelligence",
+						"Wisdom"
+					]
+				}
+			],
+			"Skills": [
+				{
+					"choices": 2,
+					"selection": [
+						"arcana",
+						"history",
+						"insight",
+						"investigation",
+						"medicine",
+						"religion"
+					]
+				}
+			],
+			"Tools": [],
+			"Languages": []
+		},
+		"Starting Equipment": [
+			{
+				"choices": 1,
+				"selection": [
+					"a quarterstaff",
+					"a dagger"
+				]
+			},
+			{
+				"choices": 1,
+				"selection": [
+					"an arcane anchor",
+					"a component pouch "
+				]
+			},
+			{
+				"choices": 1,
+				"selection": [
+					"a scholar's pack",
+					"an explorer's pack"
+				]
+			},
+			{
+				"choices": null,
+				"selection": [
+					"a spellbook"
+				]
+			}
+		],
+		"Initial Funds": "4d4 × 10"
+	},
+	"Multiclassing": {
+		"Prerequisites": {
+			"Intelligence": 13
+		},
+		"Proficiencies": {
+			"Armor": [],
+			"Weapons": [],
+			"Saving Throws": [],
+			"Skills": [],
+			"Tools": [],
+			"Languages": []
+		}
+	}
+}
