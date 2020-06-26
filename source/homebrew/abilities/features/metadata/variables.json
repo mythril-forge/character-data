@@ -144,5 +144,10 @@
 		"class": {
 			"fighter": "The number of attacks increases to three when you reach {@level} in this class, and to four when you reach {@level} in this class."
 		}
+	},
+	"channel-divinity": {
+		"class": {
+			"cleric": "By {@level}, you can use it three times between rests."
+		}
 	}
 }
