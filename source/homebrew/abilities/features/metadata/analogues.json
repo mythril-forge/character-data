@@ -3,6 +3,7 @@
 	"Divine Domain Feature": "Divine Domain",
 	"Martial Archetype Feature": "Martial Archetype",
 	"Primal Path Feature": "Primal Path",
+	"Roguish Archetype Feature": "Roguish Archetype",
 	"Improved Divine Strike": "Divine Strike",
 	"Improved Divine Intervention": "Divine Intervention",
 	"Improved Spell Mastery": "Spell Mastery",
@@ -20,5 +21,8 @@
 	"Channel Divinity (3/rest)": "Channel Divinity",
 	"Brutal Critical (+1 multiplier)": "Brutal Critical",
 	"Brutal Critical (+2 multiplier)": "Brutal Critical",
-	"Brutal Critical (+3 multiplier)": "Brutal Critical"
+	"Brutal Critical (+3 multiplier)": "Brutal Critical",
+	"Stroke of Luck (1/rest)": "Stroke of Luck",
+	"Stroke of Luck (2/rest)": "Stroke of Luck",
+	"Stroke of Luck (3/rest)": "Stroke of Luck"
 }
