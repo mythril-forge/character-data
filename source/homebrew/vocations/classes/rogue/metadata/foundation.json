@@ -147,14 +147,7 @@
 					]
 				}
 			],
-			"Languages": [
-				{
-					"choices": null,
-					"selection": [
-						"thieves' cant"
-					]
-				}
-			]
+			"Languages": []
 		}
 	}
 }
