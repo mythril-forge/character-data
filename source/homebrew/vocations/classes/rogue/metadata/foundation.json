@@ -1,0 +1,153 @@
+{
+	"Hit Dice": "1d8",
+	"Base Classing": {
+		"Proficiencies": {
+			"Armor": [
+				{
+					"choices": null,
+					"selection": [
+						"light armor"
+					]
+				}
+			],
+			"Weapons": [
+				{
+					"choices": null,
+					"selection": [
+						"simple weapons",
+						"longswords",
+						"rapiers",
+						"shortswords",
+						"wrist crossbows"
+					]
+				}
+			],
+			"Saving Throws": [
+				{
+					"choices": null,
+					"selection": [
+						"Dexterity",
+						"Intelligence"
+					]
+				}
+			],
+			"Skills": [
+				{
+					"choices": 4,
+					"selection": [
+						"acrobatics",
+						"athletics",
+						"deception",
+						"insight",
+						"intimidation",
+						"investigation",
+						"perception",
+						"performance",
+						"persuasion",
+						"sleight of hand",
+						"stealth"
+					]
+				}
+			],
+			"Tools": [
+				{
+					"choices": null,
+					"selection": [
+						"thieves' tools"
+					]
+				}
+			],
+			"Languages": [
+				{
+					"choices": null,
+					"selection": [
+						"thieves' cant"
+					]
+				}
+			]
+		},
+		"Starting Equipment": [
+			{
+				"choices": 1,
+				"selection": [
+					"a rapier",
+					"a shortsword"
+				]
+			},
+			{
+				"choices": 1,
+				"selection": [
+					[
+						"a shortbow",
+						"a leather quiver",
+						"20 arrows"
+					],
+					"a shortsword",
+					"2 daggers"
+				]
+			},
+			{
+				"choices": 1,
+				"selection": [
+					"a burglar's pack",
+					"a dungeoneer's pack",
+					"an explorer's pack"
+				]
+			},
+			{
+				"choices": null,
+				"selection": [
+					"a hooded cloak",
+					"a set of common clothes",
+					"2 daggers",
+					"thieves' tools"
+				]
+			}
+		],
+		"Initial Funds": "4d4 × 10"
+	},
+	"Multiclassing": {
+		"Prerequisites": {
+			"Dexterity": 15
+		},
+		"Proficiencies": {
+			"Armor": [
+				{
+					"choices": null,
+					"selection": [
+						"light armor"
+					]
+				}
+			],
+			"Weapons": [],
+			"Saving Throws": [],
+			"Skills": [
+				{
+					"choices": 1,
+					"selection": [
+						"acrobatics",
+						"athletics",
+						"deception",
+						"insight",
+						"intimidation",
+						"investigation",
+						"perception",
+						"performance",
+						"persuasion",
+						"sleight of hand",
+						"stealth"
+					]
+				}
+			],
+			"Tools": [
+				{
+					"choices": null,
+					"selection": [
+						"thieves' tools"
+					]
+				}
+			],
+			"Languages": []
+		}
+	}
+}
