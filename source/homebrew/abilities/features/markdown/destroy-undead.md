@@ -1,3 +1,3 @@
 # Destroy Undead
-When an undead fails its Saving Throw against your Turn Undead feature, the creature is instantly destroyed if its Challenge Rating is at or below 0.
-This Challenge Rating threshold increases as you level up, as shown on the {@class} table.
+If an undead fails its saving throw against your *Turn Undead* feature, the creature is instantly destroyed if its challenge rating is at or below a certain threshold.
+The threshold increases when you gain levels as a {@class}, as shown in the *"Destroy Undead"* column of the {@class} table.
