@@ -1,6 +1,6 @@
 # Brutal Critical
-Beginning at {@level}, you get to roll extra dice when you score a critical hit with a melee weapon attack.
-Your critical hit multiplier increases by one.
-When you score a critical hit, roll all of the attack's damage dice one extra time with any damage modifiers.
+Beginning at {@level} level, you deal massive damage when your weapon strikes true.
+Whenever you score a critical hit with an attack that uses strength, you can roll all of the attack's damage dice one additional time plus any damage modifiers.
+This counts for determining the extra damage for your critical hit.
 
-This feature increases your critical hit multiplier increases by a total of two when you reach {@level}, and by a total of three at {@level}.
+This increases to two additional damage rolls at {@level} and three additional damage rolls at {@level}.
