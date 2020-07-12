@@ -1,3 +1,3 @@
 # Slippery Mind
-By {@level}, you have acquired greater mental strength.
-You have advantage on all mental saving throws: Intelligence, Wisdom, and Charisma.
+By {@level}, you have acquired superior mental acuity.
+You have advantage on intelligence, wisdom, and charisma saving throws.
