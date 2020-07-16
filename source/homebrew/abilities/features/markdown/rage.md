@@ -4,7 +4,7 @@ You can enter a rage by taking a bonus action.
 
 While raging, you gain the following effects:
 - You have advantage on strength ability checks.
-- When you make an attack using strength, you gain a bonus to the damage roll that increases when you gain levels as a {@class}, as shown in the *"Rage Damage"* column of the {@class} table.
+- When you hit with an attack using strength, you gain a bonus to the damage roll that increases when you gain levels as a {@class}, as shown in the *"Rage Damage"* column of the {@class} table.
 - You have resistance to bludgeoning, piercing, and slashing damage.
 - If you are able to cast spells, you can't cast them while raging.
 - Raging doesn't break your concentration on a spell you've already cast, however, or prevent you from taking actions that are part of a spell&mdash;such as heat metal&mdash;that you've already cast.
