@@ -1,4 +1,3 @@
-# Darkvision
-By {@level}, you have acclimated yourself to darkness by lurking in the shadows.
-You have darkvision.
-Your darkvision is neither magical nor biological: you simply use the senses that you have to their fullest capacity.
+# Shadowsense
+Starting at {@level}, you can rely on your ability to hear to gauge your surroundings.
+You now have blindsense, and so long as you are able to hear, you automatically detect the location of any hidden or invisible creature within 5 feet of you.

@@ -39,6 +39,7 @@
 		"Sneak Attack": "5d6"
 	},
 	{
+		"Level": 6,
 		"Features": [
 			"Ability Score Improvement"
 		],
@@ -84,7 +85,8 @@
 	{
 		"Level": 12,
 		"Features": [
-			"Ability Score Improvement"
+			"Ability Score Improvement",
+			"Shadowsense"
 		],
 		"Sneak Attack": "12d6"
 	},
