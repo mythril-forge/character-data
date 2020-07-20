@@ -1,4 +1,4 @@
 # Fighting Style
-When you reach {@level}, you adopt a particular style of fighting as your specialty.
+At {@level}, you adopt a particular style of fighting as your specialty.
 Choose a *Fighting Style* option from the list below.
-You can't take the same *Fighting Style* option more than once, even if you get to choose again.
+You can't take the same option more than once, even if you later get to choose again.
