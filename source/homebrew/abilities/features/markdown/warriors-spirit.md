@@ -1,8 +1,8 @@
 # Warrior's Spirit
-At {@level}, you have reached the pinnacle of gritty determination.
+At {@level}, you have embraced gritty determination.
 Your fighting spirit can delay the very clutches of death.
-When you start dying, you can choose to retain your consciousness (no action required).
-When you do so, you are able to act as normal&mdash;even as you draw your last breath.
-Taking damage causes death saving throw failures as normal, and three death saving throw failures can still kill you.
+When you start dying, you can choose to retain your consciousness and act as normal&mdash;even as you draw your last breath.
+You must continue to make death saving throws at the beginning of your turn, however, and taking damage causes death saving throw failures as normal.
+Three failed death saving throws can still kill you.
 
-While you are dying, you can choose to fall unconscious at any time on your turn (no action required).
+While you are dying, you can choose to fall unconscious at any moment (no action required).

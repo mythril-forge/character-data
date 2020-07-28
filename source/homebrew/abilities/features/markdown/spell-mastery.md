@@ -1,11 +1,10 @@
 # Spell Mastery
-At {@level}, you have achieved such mastery over your low-level spells that you can cast them at will.
+At {@level}, you have gain mastery over certain low-level spells, and can learn to cast them at will.
+To master a spell, you must undergo a process of meticulous research, punctuated by finishing a long rest.
+For each level of the spell, the process takes 12 hours in study and consumes 4 spell component kits.
+Once mastered, this spell counts as a cantrip for you, and you don't have to expend a spell slot to cast it.
+By following this procedure again, you can exchange the mastery over one spell for another.
 
-By spending the duration of a short rest in study, you can memorize up to one {@class} spell that is in your spellbook.
-Once you have a spell memorized, it counts as a cantrip for you, and it doesn't count against the maximum number of spells you can know or prepare.
-You can only memorize 1st-level spells in this way.
-
-You can exchange a spell that you have memorized in this way for another by spending the duration of an additional short rest in study.
-
-Once you reach {@level}, you can memorize up to two {@class} spells that are in your spellbook.
-One of these spells can be of 2nd-level.
+You can master only one 1st-level {@class} spell.
+Once you reach {@level}, you can master a total of two {@class} spells, one of which can be of 1st or 2nd-level.
+Your mastery of magic is limited to 1st-level {@class} spells otherwise.
