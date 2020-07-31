@@ -3,126 +3,146 @@
 		"Level": 1,
 		"Features": [
 			"Fighting Style",
-			"Called Shots"
-		]
+			"Field Training"
+		],
+		"Second Wind": "&mdash;"
 	},
 	{
 		"Level": 2,
 		"Features": [
 			"Action Surge (1/rest)",
-			"Field Training"
-		]
+			"Called Shots"
+		],
+		"Second Wind": "&mdash;"
 	},
 	{
 		"Level": 3,
 		"Features": [
 			"Martial Archetype",
 			"Second Wind (1/rest)"
-		]
+		],
+		"Second Wind": "3d4"
 	},
 	{
 		"Level": 4,
 		"Features": [
 			"Ability Score Improvement"
-		]
+		],
+		"Second Wind": "4d4"
 	},
 	{
 		"Level": 5,
 		"Features": [
 			"Extra Attack (1 extra)"
-		]
+		],
+		"Second Wind": "5d4"
 	},
 	{
 		"Level": 6,
 		"Features": [
 			"Ability Score Improvement"
-		]
+		],
+		"Second Wind": "6d4"
 	},
 	{
 		"Level": 7,
 		"Features": [
 			"Martial Archetype Feature"
-		]
+		],
+		"Second Wind": "7d4"
 	},
 	{
 		"Level": 8,
 		"Features": [
 			"Ability Score Improvement"
-		]
+		],
+		"Second Wind": "8d4"
 	},
 	{
 		"Level": 9,
 		"Features": [
 			"Indomitable (1/rest)"
-		]
+		],
+		"Second Wind": "9d4"
 	},
 	{
 		"Level": 10,
 		"Features": [
-			"Weapon Mastery"
-		]
+			"Martial Archetype Feature"
+		],
+		"Second Wind": "10d4"
 	},
 	{
 		"Level": 11,
 		"Features": [
-			"Martial Archetype Feature",
-			"Extra Attack (2 extra)"
-		]
+			"Extra Attack (2 extra)",
+			"Weapon Mastery"
+		],
+		"Second Wind": "11d4"
 	},
 	{
 		"Level": 12,
 		"Features": [
 			"Ability Score Improvement"
-		]
+		],
+		"Second Wind": "12d4"
 	},
 	{
 		"Level": 13,
 		"Features": [
 			"Indomitable (2/rest)"
-		]
+		],
+		"Second Wind": "13d4"
 	},
 	{
 		"Level": 14,
 		"Features": [
 			"Ability Score Improvement"
-		]
+		],
+		"Second Wind": "14d4"
 	},
 	{
 		"Level": 15,
 		"Features": [
 			"Martial Archetype Feature"
-		]
+		],
+		"Second Wind": "15d4"
 	},
 	{
 		"Level": 16,
 		"Features": [
 			"Ability Score Improvement"
-		]
+		],
+		"Second Wind": "16d4"
 	},
 	{
 		"Level": 17,
 		"Features": [
 			"Extra Attack (3 extra)"
-		]
+		],
+		"Second Wind": "17d4"
 	},
 	{
 		"Level": 18,
 		"Features": [
 			"Warrior's Spirit"
-		]
+		],
+		"Second Wind": "18d4"
 	},
 	{
 		"Level": 19,
 		"Features": [
 			"Martial Archetype Feature",
 			"Second Wind (2/rest)"
-		]
+		],
+		"Second Wind": "19d4"
 	},
 	{
 		"Level": 20,
 		"Features": [
 			"Ability Score Improvement",
 			"Action Surge (2/rest)"
-		]
+		],
+		"Second Wind": "20d4"
 	}
 ]

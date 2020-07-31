@@ -5,7 +5,7 @@
 			"Armor": [],
 			"Weapons": [
 				{
-					"choices": null,
+					"choose": null,
 					"selection": [
 						"daggers",
 						"darts",
@@ -17,7 +17,7 @@
 			],
 			"Saving Throws": [
 				{
-					"choices": null,
+					"choose": null,
 					"selection": [
 						"Intelligence",
 						"Wisdom"
@@ -26,7 +26,7 @@
 			],
 			"Skills": [
 				{
-					"choices": 2,
+					"choose": 2,
 					"selection": [
 						"arcana",
 						"history",
@@ -42,28 +42,28 @@
 		},
 		"Starting Equipment": [
 			{
-				"choices": 1,
+				"choose": 1,
 				"selection": [
 					"a quarterstaff",
 					"a dagger"
 				]
 			},
 			{
-				"choices": 1,
+				"choose": 1,
 				"selection": [
 					"an arcane anchor",
 					"a component pouch "
 				]
 			},
 			{
-				"choices": 1,
+				"choose": 1,
 				"selection": [
 					"a scholar's pack",
 					"an explorer's pack"
 				]
 			},
 			{
-				"choices": null,
+				"choose": null,
 				"selection": [
 					"a spellbook"
 				]

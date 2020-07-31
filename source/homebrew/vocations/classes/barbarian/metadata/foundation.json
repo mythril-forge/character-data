@@ -4,7 +4,7 @@
 		"Proficiencies": {
 			"Armor": [
 				{
-					"choices": null,
+					"choose": null,
 					"selection": [
 						"light armor",
 						"medium armor",
@@ -14,7 +14,7 @@
 			],
 			"Weapons": [
 				{
-					"choices": null,
+					"choose": null,
 					"selection": [
 						"simple weapons",
 						"martial weapons"
@@ -23,7 +23,7 @@
 			],
 			"Saving Throws": [
 				{
-					"choices": null,
+					"choose": null,
 					"selection": [
 						"Strength",
 						"Constitution"
@@ -32,7 +32,7 @@
 			],
 			"Skills": [
 				{
-					"choices": 2,
+					"choose": 2,
 					"selection": [
 						"animal handling",
 						"athletics",
@@ -48,21 +48,21 @@
 		},
 		"Starting Equipment": [
 			{
-				"choices": 1,
+				"choose": 1,
 				"selection": [
 					"a greataxe",
 					"any martial weapon"
 				]
 			},
 			{
-				"choices": 1,
+				"choose": 1,
 				"selection": [
 					"2 handaxes",
 					"any simple weapon"
 				]
 			},
 			{
-				"choices": null,
+				"choose": null,
 				"selection": [
 					"an explorer's pack",
 					"4 javelins"
@@ -78,7 +78,7 @@
 		"Proficiencies": {
 			"Armor": [
 				{
-					"choices": null,
+					"choose": null,
 					"selection": [
 						"shields"
 					]
@@ -86,7 +86,7 @@
 			],
 			"Weapons": [
 				{
-					"choices": null,
+					"choose": null,
 					"selection": [
 						"simple weapons",
 						"martial weapons"

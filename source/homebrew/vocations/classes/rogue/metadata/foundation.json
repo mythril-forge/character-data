@@ -4,7 +4,7 @@
 		"Proficiencies": {
 			"Armor": [
 				{
-					"choices": null,
+					"choose": null,
 					"selection": [
 						"light armor"
 					]
@@ -12,7 +12,7 @@
 			],
 			"Weapons": [
 				{
-					"choices": null,
+					"choose": null,
 					"selection": [
 						"simple weapons",
 						"longswords",
@@ -24,7 +24,7 @@
 			],
 			"Saving Throws": [
 				{
-					"choices": null,
+					"choose": null,
 					"selection": [
 						"Dexterity",
 						"Intelligence"
@@ -33,7 +33,7 @@
 			],
 			"Skills": [
 				{
-					"choices": 4,
+					"choose": 4,
 					"selection": [
 						"acrobatics",
 						"athletics",
@@ -51,7 +51,7 @@
 			],
 			"Tools": [
 				{
-					"choices": null,
+					"choose": null,
 					"selection": [
 						"thieves' tools"
 					]
@@ -59,7 +59,7 @@
 			],
 			"Languages": [
 				{
-					"choices": null,
+					"choose": null,
 					"selection": [
 						"thieves' cant"
 					]
@@ -68,14 +68,14 @@
 		},
 		"Starting Equipment": [
 			{
-				"choices": 1,
+				"choose": 1,
 				"selection": [
 					"a rapier",
 					"a shortsword"
 				]
 			},
 			{
-				"choices": 1,
+				"choose": 1,
 				"selection": [
 					[
 						"a shortbow",
@@ -87,7 +87,7 @@
 				]
 			},
 			{
-				"choices": 1,
+				"choose": 1,
 				"selection": [
 					"a burglar's pack",
 					"a dungeoneer's pack",
@@ -95,7 +95,7 @@
 				]
 			},
 			{
-				"choices": null,
+				"choose": null,
 				"selection": [
 					"a hooded cloak",
 					"a set of common clothes",
@@ -113,7 +113,7 @@
 		"Proficiencies": {
 			"Armor": [
 				{
-					"choices": null,
+					"choose": null,
 					"selection": [
 						"light armor"
 					]
@@ -123,7 +123,7 @@
 			"Saving Throws": [],
 			"Skills": [
 				{
-					"choices": 1,
+					"choose": 1,
 					"selection": [
 						"acrobatics",
 						"athletics",
@@ -141,7 +141,7 @@
 			],
 			"Tools": [
 				{
-					"choices": null,
+					"choose": null,
 					"selection": [
 						"thieves' tools"
 					]

@@ -4,7 +4,7 @@
 		"Proficiencies": {
 			"Armor": [
 				{
-					"choices": null,
+					"choose": null,
 					"selection": [
 						"light armor",
 						"medium armor",
@@ -15,7 +15,7 @@
 			],
 			"Weapons": [
 				{
-					"choices": null,
+					"choose": null,
 					"selection": [
 						"simple weapons",
 						"martial weapons"
@@ -24,7 +24,7 @@
 			],
 			"Saving Throws": [
 				{
-					"choices": null,
+					"choose": null,
 					"selection": [
 						"Strength",
 						"Constitution"
@@ -33,7 +33,7 @@
 			],
 			"Skills": [
 				{
-					"choices": 2,
+					"choose": 2,
 					"selection": [
 						"acrobatics",
 						"animal handling",
@@ -48,20 +48,20 @@
 			],
 			"Tools": [
 				{
-					"choices": null,
+					"choose": null,
 					"selection": []
 				}
 			],
 			"Languages": [
 				{
-					"choices": null,
+					"choose": null,
 					"selection": []
 				}
 			]
 		},
 		"Starting Equipment": [
 			{
-				"choices": 1,
+				"choose": 1,
 				"selection": [
 					"hide armor",
 					[
@@ -74,7 +74,7 @@
 				]
 			},
 			{
-				"choices": 1,
+				"choose": 1,
 				"selection": [
 					[
 						"a martial weapon",
@@ -84,7 +84,7 @@
 				]
 			},
 			{
-				"choices": 1,
+				"choose": 1,
 				"selection": [
 					[
 						"a simple crossbow",
@@ -94,7 +94,7 @@
 				]
 			},
 			{
-				"choices": 1,
+				"choose": 1,
 				"selection": [
 					"a dungeoneer's pack",
 					"an explorer's pack"
@@ -110,7 +110,7 @@
 		"Proficiencies": {
 			"Armor": [
 				{
-					"choices": null,
+					"choose": null,
 					"selection": [
 						"light armor",
 						"medium armor",
@@ -120,7 +120,7 @@
 			],
 			"Weapons": [
 				{
-					"choices": null,
+					"choose": null,
 					"selection": [
 						"simple weapons",
 						"martial weapons"

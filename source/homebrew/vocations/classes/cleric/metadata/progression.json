@@ -1,3 +1,4 @@
+
 [
 	{
 		"Level": 1,
@@ -5,33 +6,43 @@
 			"Spellcasting",
 			"Divine Domain"
 		],
-		"Destroy Undead": "&mdash;"
+		"Destroy Undead": "&mdash;",
+		"Max. Spells Known": "infinite",
+		"Max. Spells Prepared": "1 + wisdom modifier"
 	},
 	{
 		"Level": 2,
 		"Features": [
-			"Divine Domain Feature",
 			"Channel Divinity (1/rest)",
-			"Channel Divinity: Turn Undead"
+			"Turn Undead"
 		],
-		"Destroy Undead": "CR 0"
+		"Destroy Undead": "CR 0",
+		"Max. Spells Known": "infinite",
+		"Max. Spells Prepared": "3 + wisdom modifier"
 	},
 	{
 		"Level": 3,
 		"Features": [],
-		"Destroy Undead": "CR 0"
+		"Destroy Undead": "CR 0",
+		"Max. Spells Known": "infinite",
+		"Max. Spells Prepared": "4 + wisdom modifier"
 	},
 	{
 		"Level": 4,
 		"Features": [
-			"Ability Score Improvement"
+			"Ability Score Improvement",
+			"Divine Domain Feature"
 		],
-		"Destroy Undead": "CR 0"
+		"Destroy Undead": "CR 0",
+		"Max. Spells Known": "infinite",
+		"Max. Spells Prepared": "6 + wisdom modifier"
 	},
 	{
 		"Level": 5,
 		"Features": [],
-		"Destroy Undead": "CR &frac12"
+		"Destroy Undead": "CR &frac12;",
+		"Max. Spells Known": "infinite",
+		"Max. Spells Prepared": "7 + wisdom modifier"
 	},
 	{
 		"Level": 6,
@@ -39,12 +50,16 @@
 			"Divine Domain Feature",
 			"Channel Divinity (2/rest)"
 		],
-		"Destroy Undead": "CR &frac12"
+		"Destroy Undead": "CR &frac12;",
+		"Max. Spells Known": "infinite",
+		"Max. Spells Prepared": "8 + wisdom modifier"
 	},
 	{
 		"Level": 7,
 		"Features": [],
-		"Destroy Undead": "CR &frac12"
+		"Destroy Undead": "CR &frac12;",
+		"Max. Spells Known": "infinite",
+		"Max. Spells Prepared": "9 + wisdom modifier"
 	},
 	{
 		"Level": 8,
@@ -52,63 +67,82 @@
 			"Ability Score Improvement",
 			"Divine Strike"
 		],
-		"Destroy Undead": "CR 1"
+		"Destroy Undead": "CR 1",
+		"Max. Spells Known": "infinite",
+		"Max. Spells Prepared": "11 + wisdom modifier"
 	},
 	{
 		"Level": 9,
 		"Features": [],
-		"Destroy Undead": "CR 1"
+		"Destroy Undead": "CR 1",
+		"Max. Spells Known": "infinite",
+		"Max. Spells Prepared": "12 + wisdom modifier"
 	},
 	{
 		"Level": 10,
 		"Features": [
-			"Divine Domain Feature",
 			"Divine Intervention"
 		],
-		"Destroy Undead": "CR 1"
+		"Destroy Undead": "CR 1",
+		"Max. Spells Known": "infinite",
+		"Max. Spells Prepared": "14 + wisdom modifier"
 	},
 	{
 		"Level": 11,
 		"Features": [],
-		"Destroy Undead": "CR 2"
+		"Destroy Undead": "CR 2",
+		"Max. Spells Known": "infinite",
+		"Max. Spells Prepared": "15 + wisdom modifier"
 	},
 	{
 		"Level": 12,
 		"Features": [
-			"Ability Score Improvement"
+			"Ability Score Improvement",
+			"Divine Domain Feature"
 		],
-		"Destroy Undead": "CR 2"
+		"Destroy Undead": "CR 2",
+		"Max. Spells Known": "infinite",
+		"Max. Spells Prepared": "16 + wisdom modifier"
 	},
 	{
 		"Level": 13,
 		"Features": [],
-		"Destroy Undead": "CR 2"
+		"Destroy Undead": "CR 2",
+		"Max. Spells Known": "infinite",
+		"Max. Spells Prepared": "17 + wisdom modifier"
 	},
 	{
 		"Level": 14,
 		"Features": [
-			"Divine Domain Feature",
 			"Improved Divine Strike",
 			"Blessed Vessel"
 		],
-		"Destroy Undead": "CR 3"
+		"Destroy Undead": "CR 3",
+		"Max. Spells Known": "infinite",
+		"Max. Spells Prepared": "18 + wisdom modifier"
 	},
 	{
 		"Level": 15,
 		"Features": [],
-		"Destroy Undead": "CR 3"
+		"Destroy Undead": "CR 3",
+		"Max. Spells Known": "infinite",
+		"Max. Spells Prepared": "19 + wisdom modifier"
 	},
 	{
 		"Level": 16,
 		"Features": [
 			"Ability Score Improvement"
 		],
-		"Destroy Undead": "CR 3"
+		"Destroy Undead": "CR 3",
+		"Max. Spells Known": "infinite",
+		"Max. Spells Prepared": "20 + wisdom modifier"
 	},
 	{
 		"Level": 17,
 		"Features": [],
-		"Destroy Undead": "CR 4"
+		"Destroy Undead": "CR 4",
+		"Max. Spells Known": "infinite",
+		"Max. Spells Prepared": "21 + wisdom modifier"
 	},
 	{
 		"Level": 18,
@@ -116,12 +150,16 @@
 			"Divine Domain Feature",
 			"Channel Divinity (3/rest)"
 		],
-		"Destroy Undead": "CR 4"
+		"Destroy Undead": "CR 4",
+		"Max. Spells Known": "infinite",
+		"Max. Spells Prepared": "22 + wisdom modifier"
 	},
 	{
 		"Level": 19,
 		"Features": [],
-		"Destroy Undead": "CR 4"
+		"Destroy Undead": "CR 4",
+		"Max. Spells Known": "infinite",
+		"Max. Spells Prepared": "23 + wisdom modifier"
 	},
 	{
 		"Level": 20,
@@ -129,6 +167,8 @@
 			"Ability Score Improvement",
 			"Improved Divine Intervention"
 		],
-		"Destroy Undead": "CR 5"
+		"Destroy Undead": "CR 5",
+		"Max. Spells Known": "infinite",
+		"Max. Spells Prepared": "24 + wisdom modifier"
 	}
 ]
