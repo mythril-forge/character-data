@@ -11,7 +11,7 @@ You must repeat this process for each spell that you wish to prepare.
 To finish preparing your spells, you need to complete a long rest.
 
 ## Limit of Spells Prepared
-The spells prepared column of the {@class} table shows the maximum number of {@class} spells that you can have prepared at a given level.
+The *"Max. Spells Prepared"* column of the *"{@class}"* table shows the maximum number of {@class} spells that you can have prepared at a given level.
 You can choose to have fewer, but the number of {@class} spells that you have prepared can never exceed this number.
 
 ## Removing Prepared Spells
