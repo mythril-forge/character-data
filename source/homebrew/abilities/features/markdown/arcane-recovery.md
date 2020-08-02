@@ -11,7 +11,7 @@ An arcana point is a type of spell point.
 You can expend arcana points for any feature that uses spell points.
 
 ## Creating Spell Slots
-You can transform unexpended spell points into one or more spell slots at the end of a short or long rest.
+You can transform unexpended spell points into one or more spell slots at the end of a short rest.
 The *"Conversion Rates"* table shows the cost of creating a spell slot of a given level.
 You can use this feature to create spell slots no higher in level than 5th.
 

@@ -71,40 +71,10 @@
 			"totem-warrior": "in prayer and meditation"
 		}
 	},
-	"cost-learning": {
-		"class": {
-			"artificer": "the fine inks, mechanical parts, and magical components that you need throughout the process",
-			"bard": "the luxuries that help you get into the mindset of creation, such as fine food and fabulous costumes",
-			"cleric": "the expensive ceremonies that you participate in, and the fine candles and incenses that are consumed by the process",
-			"druid": "the rare herbal remedies you consume to help you ease into your deep, spiritual connections with the natural world",
-			"mystic": "focal points, such as gemstones, that you spend to heighten the depth of your thoughts and calculate potential realities",
-			"paladin": "the costs of various activities that you perform to uphold your ideals, such as donating to various organizations and sponsoring public events",
-			"ranger": "the rare plants and materials that you use to channel the natural magics around you and learn of its wonders",
-			"sorcerer": "gemstones and other magical oddities that you use for expirementation, trying to find an extention of your power",
-			"warlock": "the magical objects you spend to communicate with your patron, and the costly research materials that are suggested to you",
-			"wizard": "the fine inks and paper that you use to take notes and record arcane sigils, and the various magical components used in your research",
-			"arcane-trickster": "the textbooks and materials needed to learn about the spell",
-			"eldritch-knight": "the textbooks and materials needed to learn about the spell",
-			"four-elements": "the research materials, herbal remedies, and personal training needed to learn the spell",
-			"totem-warrior": "the herbal remedies and spiritual components needed to learn the spell"
-		}
-	},
 	"transcribing-spells": {
 		"class": {
 			"artificer": "transcribing its description, drafting blueprints for its apparatus, and illustrating its arcane sigils&mdash;using a notation that is unique to you",
 			"wizard": "transcribing its description and casting instructions, and illustrating its arcane designs and sigils&mdash;using a notation that is unique to you"
-		}
-	},
-	"cost-cataloguing": {
-		"class": {
-			"artificer": "the fine inks you need to record the spell",
-			"wizard": "the fine inks you need to record the spell"
-		}
-	},
-	"cost-deciphering": {
-		"class": {
-			"artificer": "the miscellaneous gadgets needed to craft a proof-of-concept for the spell",
-			"wizard": "the magical oddities necessary to practice the underlying form of the spell"
 		}
 	},
 	"spellcasting-ability": {

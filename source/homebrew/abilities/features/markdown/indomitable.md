@@ -1,5 +1,5 @@
 # Indomitable
-By {@level}, you have learned to focus through even the harshest of punishment.
+By {@level}, you have learned to focus through even the fiercest of onslaughts.
 If you fail a saving throw, you can choose to succeed instead.
 Likewise, if an attack hits you, you can choose to avoid the attack, causing it to miss instead.
 

@@ -1,10 +1,20 @@
 # Spell Mastery
-At {@level}, you have gain mastery over certain low-level spells, and can learn to cast them at will.
-To master a spell, you must undergo a process of meticulous research, punctuated by finishing a long rest.
-For each level of the spell, the process takes 12 hours in study and consumes 4 spell component kits.
-Once mastered, this spell counts as a cantrip for you, and you don't have to expend a spell slot to cast it.
-By following this procedure again, you can exchange the mastery over one spell for another.
+At {@level}, you have achieved such mastery over your spells that you can make one your signature spell.
 
-You can master only one 1st-level {@class} spell.
-Once you reach {@level}, you can master a total of two {@class} spells, one of which can be of 1st or 2nd-level.
-Your mastery of magic is limited to 1st-level {@class} spells otherwise.
+A signature spell counts as a cantrip but retains its casting level.
+When upcast, its casting level increases by the expended spell slot's level.
+You always know your signature spell, and it still counts against your number of spells known.
+
+You can master one wizard spell that you know by spending 30 hours in study and using 60 component kits, punctuated by finishing a long rest.
+It becomes your signature spell when you complete this process.
+
+You can have up to one signature spell, and it must be of 1st level.
+By level {@level}, you have achieved further mastery over your magic such that you can have a second signature spell of 2nd level.
+Finally, when you become a level {@level} {@class}, you can have a third signature spell of 3rd level.
+
+> ## Variant: Low-Magic Mastery
+> You can use this variant rule to have enhanced lower-level signature spells.
+> Whenever the *Spell Mastery* feature says that you can master a spell of a certain level, you can choose one of that level or lower.
+> A lower-leveled signature spell has a casting level of its maximum allowed level, meaning it is upcast to that level.
+>
+> For example, rather than mastering a 1st-level spell&mdash;like Burning Hands&mdash;you could choose a cantrip that can be upcast to 1st level&mdash;like Firebolt.

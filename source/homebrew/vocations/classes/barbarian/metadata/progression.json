@@ -7,7 +7,8 @@
 			"Muscle Memory"
 		],
 		"Rages": 2,
-		"Rage Damage": 2
+		"Rage Damage": 2,
+		"Fast Movement": "&mdash;"
 	},
 	{
 		"Level": 2,
@@ -17,7 +18,8 @@
 			"Danger Sense"
 		],
 		"Rages": 2,
-		"Rage Damage": 2
+		"Rage Damage": 2,
+		"Fast Movement": "+5 feet"
 	},
 	{
 		"Level": 3,
@@ -25,7 +27,8 @@
 			"Primal Path"
 		],
 		"Rages": 3,
-		"Rage Damage": 2
+		"Rage Damage": 2,
+		"Fast Movement": "+5 feet"
 	},
 	{
 		"Level": 4,
@@ -33,7 +36,8 @@
 			"Ability Score Improvement"
 		],
 		"Rages": 3,
-		"Rage Damage": 2
+		"Rage Damage": 2,
+		"Fast Movement": "+5 feet"
 	},
 	{
 		"Level": 5,
@@ -41,23 +45,26 @@
 			"Extra Attack"
 		],
 		"Rages": 3,
-		"Rage Damage": 2
+		"Rage Damage": 2,
+		"Fast Movement": "+5 feet"
 	},
 	{
 		"Level": 6,
 		"Features": [
-			"Feral Instinct"
+			"Primal Path Feature"
 		],
 		"Rages": 4,
-		"Rage Damage": 3
+		"Rage Damage": 3,
+		"Fast Movement": "+5 feet"
 	},
 	{
 		"Level": 7,
 		"Features": [
-			"Primal Path Feature"
+			"Feral Instinct"
 		],
 		"Rages": 4,
-		"Rage Damage": 3
+		"Rage Damage": 3,
+		"Fast Movement": "+5 feet"
 	},
 	{
 		"Level": 8,
@@ -65,7 +72,8 @@
 			"Ability Score Improvement"
 		],
 		"Rages": 4,
-		"Rage Damage": 3
+		"Rage Damage": 3,
+		"Fast Movement": "+10 feet"
 	},
 	{
 		"Level": 9,
@@ -73,23 +81,26 @@
 			"Brutal Critical (+1 multiplier)"
 		],
 		"Rages": 4,
-		"Rage Damage": 3
+		"Rage Damage": 3,
+		"Fast Movement": "+10 feet"
 	},
 	{
 		"Level": 10,
 		"Features": [
-			"Refute Fatality"
+			"Primal Path Feature"
 		],
 		"Rages": 5,
-		"Rage Damage": 3
+		"Rage Damage": 3,
+		"Fast Movement": "+10 feet"
 	},
 	{
 		"Level": 11,
 		"Features": [
-			"Primal Path Feature"
+			"Defy Death"
 		],
 		"Rages": 5,
-		"Rage Damage": 4
+		"Rage Damage": 4,
+		"Fast Movement": "+10 feet"
 	},
 	{
 		"Level": 12,
@@ -97,7 +108,8 @@
 			"Ability Score Improvement"
 		],
 		"Rages": 5,
-		"Rage Damage": 4
+		"Rage Damage": 4,
+		"Fast Movement": "+10 feet"
 	},
 	{
 		"Level": 13,
@@ -105,23 +117,26 @@
 			"Brutal Critical (+2 multiplier)"
 		],
 		"Rages": 5,
-		"Rage Damage": 4
+		"Rage Damage": 4,
+		"Fast Movement": "+10 feet"
 	},
 	{
 		"Level": 14,
 		"Features": [
-			"Unending Anger"
+			"Primal Path Feature"
 		],
 		"Rages": 5,
-		"Rage Damage": 4
+		"Rage Damage": 4,
+		"Fast Movement": "+15 feet"
 	},
 	{
 		"Level": 15,
 		"Features": [
-			"Primal Path Feature"
+			"Unending Anger"
 		],
 		"Rages": 6,
-		"Rage Damage": 4
+		"Rage Damage": 4,
+		"Fast Movement": "+15 feet"
 	},
 	{
 		"Level": 16,
@@ -129,7 +144,8 @@
 			"Ability Score Improvement"
 		],
 		"Rages": 6,
-		"Rage Damage": 5
+		"Rage Damage": 5,
+		"Fast Movement": "+15 feet"
 	},
 	{
 		"Level": 17,
@@ -137,7 +153,8 @@
 			"Brutal Critical (+3 multiplier)"
 		],
 		"Rages": 6,
-		"Rage Damage": 5
+		"Rage Damage": 5,
+		"Fast Movement": "+15 feet"
 	},
 	{
 		"Level": 18,
@@ -145,7 +162,8 @@
 			"Reservoir of Wrath"
 		],
 		"Rages": 6,
-		"Rage Damage": 5
+		"Rage Damage": 5,
+		"Fast Movement": "+15 feet"
 	},
 	{
 		"Level": 19,
@@ -153,7 +171,8 @@
 			"Primal Path Feature"
 		],
 		"Rages": 6,
-		"Rage Damage": 5
+		"Rage Damage": 5,
+		"Fast Movement": "+15 feet"
 	},
 	{
 		"Level": 20,
@@ -163,6 +182,7 @@
 			"Unmatched Fortitude"
 		],
 		"Rages": 6,
-		"Rage Damage": 5
+		"Rage Damage": 5,
+		"Fast Movement": "+20 feet"
 	}
 ]

@@ -4,7 +4,7 @@
 		"Features": [
 			"Expertise",
 			"Sneak Attack",
-			"Street Sense"
+			"Thieves' Cant"
 		],
 		"Sneak Attack": "1d6"
 	},
@@ -39,15 +39,15 @@
 		"Sneak Attack": "5d6"
 	},
 	{
+		"Level": 6,
 		"Features": [
-			"Ability Score Improvement"
+			"Roguish Archetype Feature"
 		],
 		"Sneak Attack": "6d6"
 	},
 	{
 		"Level": 7,
 		"Features": [
-			"Roguish Archetype Feature",
 			"Evasion"
 		],
 		"Sneak Attack": "7d6"
@@ -69,8 +69,8 @@
 	{
 		"Level": 10,
 		"Features": [
-			"Roguish Archetype Feature",
-			"Blindsense"
+			"Ability Score Improvement",
+			"Roguish Archetype Feature"
 		],
 		"Sneak Attack": "10d6"
 	},
@@ -84,7 +84,8 @@
 	{
 		"Level": 12,
 		"Features": [
-			"Ability Score Improvement"
+			"Ability Score Improvement",
+			"Shadowsense"
 		],
 		"Sneak Attack": "12d6"
 	},
@@ -98,14 +99,13 @@
 	{
 		"Level": 14,
 		"Features": [
-			"Ability Score Improvement"
+			"Roguish Archetype Feature"
 		],
 		"Sneak Attack": "14d6"
 	},
 	{
 		"Level": 15,
 		"Features": [
-			"Roguish Archetype Feature",
 			"Slippery Mind"
 		],
 		"Sneak Attack": "15d6"
@@ -120,14 +120,15 @@
 	{
 		"Level": 17,
 		"Features": [
-			"Stroke of Luck (3/rest)"
+			"Stroke of Luck (3/rest)",
+			"Elusive"
 		],
 		"Sneak Attack": "17d6"
 	},
 	{
 		"Level": 18,
 		"Features": [
-			"Elusive"
+			"Ability Score Improvement"
 		],
 		"Sneak Attack": "18d6"
 	},
@@ -142,7 +143,7 @@
 		"Level": 20,
 		"Features": [
 			"Ability Score Improvement",
-			"Mastercraft Rogue"
+			"Master of the Trade"
 		],
 		"Sneak Attack": "20d6"
 	}

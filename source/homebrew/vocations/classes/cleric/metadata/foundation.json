@@ -4,7 +4,7 @@
 		"Proficiencies": {
 			"Armor": [
 				{
-					"choices": null,
+					"choose": null,
 					"selection": [
 						"light armor",
 						"medium armor",
@@ -14,7 +14,7 @@
 			],
 			"Weapons": [
 				{
-					"choices": null,
+					"choose": null,
 					"selection": [
 						"simple weapons"
 					]
@@ -22,7 +22,7 @@
 			],
 			"Saving Throws": [
 				{
-					"choices": null,
+					"choose": null,
 					"selection": [
 						"Wisdom",
 						"Charisma"
@@ -31,7 +31,7 @@
 			],
 			"Skills": [
 				{
-					"choices": 2,
+					"choose": 2,
 					"selection": [
 						"history",
 						"insight",
@@ -46,21 +46,21 @@
 		},
 		"Starting Equipment": [
 			{
-				"choices": 1,
+				"choose": 1,
 				"selection": [
 					"a mace",
 					"a warhammer"
 				]
 			},
 			{
-				"choices": 1,
+				"choose": 1,
 				"selection": [
 					"padded armor",
 					"hide armor"
 				]
 			},
 			{
-				"choices": 1,
+				"choose": 1,
 				"selection": [
 					[
 						"a basic crossbow",
@@ -70,14 +70,14 @@
 				]
 			},
 			{
-				"choices": 1,
+				"choose": 1,
 				"selection": [
 					"a priest's pack",
 					"an explorer's pack"
 				]
 			},
 			{
-				"choices": null,
+				"choose": null,
 				"selection": [
 					"a shield",
 					"a holy symbol (one of your choice)"
@@ -93,7 +93,7 @@
 		"Proficiencies": {
 			"Armor": [
 				{
-					"choices": null,
+					"choose": null,
 					"selection": [
 						"light armor",
 						"medium armor",
