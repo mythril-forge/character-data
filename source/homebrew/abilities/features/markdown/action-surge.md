@@ -1,3 +1,24 @@
+---
+{
+	"generic": {
+		"name": "Action Surge"
+	},
+	"classes": {
+		"fighter": {
+			"progression": [
+				{
+					"Level": 2,
+					"Features": "Action Surge (1/rest)"
+				},
+				{
+					"Level": 20,
+					"Features": "Action Surge (2/rest)"
+				}
+			]
+		}
+	}
+}
+---
 # Action Surge
 Starting at {@level}, you can push yourself beyond your normal limits for a moment.
 On your turn, you can use this feature to take one additional action and bonus action.

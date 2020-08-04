@@ -1,3 +1,10 @@
+---
+{
+	"generic": {
+		"name": "Preparing Spells"
+	}
+}
+---
 # Preparing Spells
 You have a list of prepared spells&mdash;spells that are available for you to cast on a whim.
 To prepare a spell is to intimately connect with it: you must accept the spell's presence and meaning into your mind, and allow your body to become a conduit for its magic.

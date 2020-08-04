@@ -1,3 +1,20 @@
+---
+{
+	"generic": {
+		"name": "Warrior's Spirit"
+	},
+	"classes": {
+		"fighter": {
+			"progression": [
+				{
+					"Level": 18,
+					"Features": "Warrior's Spirit"
+				}
+			]
+		}
+	}
+}
+---
 # Warrior's Spirit
 At {@level}, you have embraced gritty determination.
 Your fighting spirit can delay the very clutches of death.

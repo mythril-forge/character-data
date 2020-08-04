@@ -1,3 +1,52 @@
+---
+{
+	"generic": {
+		"name": "Rage"
+	},
+	"classes": {
+		"barbarian": {
+			"progression": [
+				{
+					"Level": 1,
+					"Features": "Rage",
+					"Rages": "2",
+					"Rage Damage": "+2"
+				},
+				{
+					"Level": 3,
+					"Rages": "3",
+					"Rage Damage": "+2"
+				},
+				{
+					"Level": 6,
+					"Rages": "4",
+					"Rage Damage": "+3"
+				},
+				{
+					"Level": 10,
+					"Rages": "5",
+					"Rage Damage": "+3"
+				},
+				{
+					"Level": 11,
+					"Rages": "5",
+					"Rage Damage": "+4"
+				},
+				{
+					"Level": 15,
+					"Rages": "6",
+					"Rage Damage": "+4"
+				},
+				{
+					"Level": 16,
+					"Rages": "6",
+					"Rage Damage": "+5"
+				}
+			]
+		}
+	}
+}
+---
 # Rage
 In battle, you fight with primal ferocity.
 You can enter a rage by taking a bonus action.

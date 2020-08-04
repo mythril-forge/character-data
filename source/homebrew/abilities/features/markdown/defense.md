@@ -1,2 +1,9 @@
+---
+{
+	"generic": {
+		"name": "Defense"
+	}
+}
+---
 # Defense
 While you are wearing armor, you gain a +1 bonus to your armor class.

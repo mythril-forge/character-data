@@ -1,3 +1,28 @@
+---
+{
+	"generic": {
+		"name": "Spell Mastery"
+	},
+	"classes": {
+		"wizard": {
+			"progression": [
+				{
+					"Level": 16,
+					"Features": "Spell Mastery (level 1)"
+				},
+				{
+					"Level": 18,
+					"Features": "Spell Mastery (level 2)"
+				},
+				{
+					"Level": 20,
+					"Features": "Spell Mastery (level 3)"
+				}
+			]
+		}
+	}
+}
+---
 # Spell Mastery
 At {@level}, you have achieved such mastery over your spells that you can make one your signature spell.
 

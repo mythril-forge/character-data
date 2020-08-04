@@ -1,3 +1,15 @@
+---
+{
+	"generic": {
+		"name": "Spellbook"
+	},
+	"classes": {
+		"wizard": {
+			"transcribing-spells": "transcribing its description and casting instructions, and illustrating its arcane designs and sigils&mdash;using a notation that is unique to you"
+		}
+	}
+}
+---
 # Spellbook
 Your spellbook is an extended repository of your {@class} spells.
 There is no hard limit to how many spells a spellbook can contain.

@@ -1,3 +1,10 @@
+---
+{
+	"generic": {
+		"name": "Deciphering Spells"
+	}
+}
+---
 # Deciphering Spells
 You might find spells written in books and on scrolls during your adventures.
 If you find a written {@class} spell, then you can study it and learn at an accelerated rate.

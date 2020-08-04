@@ -1,3 +1,20 @@
+---
+{
+	"generic": {
+		"name": "Called Shots"
+	},
+	"classes": {
+		"barbarian": {
+			"progression": [
+				{
+					"Level": 2,
+					"Features": "Called Shots"
+				}
+			]
+		}
+	}
+}
+---
 # Called Shots
 Once you reach {@level}, you learn to spot and exploit weaknesses in an opponent's form&mdash;hitting them where it hurts most.
 When you make an attack, you can declare a number between 1 and your {@class} level to take as a penalty to hit.

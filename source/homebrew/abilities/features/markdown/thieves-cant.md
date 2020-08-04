@@ -1,3 +1,20 @@
+---
+{
+	"generic": {
+		"name": "Thieves' Cant"
+	},
+	"classes": {
+		"rogue": {
+			"progression": [
+				{
+					"Level": 1,
+					"Features": "Thieves' Cant"
+				}
+			]
+		}
+	}
+}
+---
 # Thieves' Cant
 During your training you learned thieves' cant, a secret mix of dialect, jargon, and code that allows you to hide messages in seemingly normal conversation.
 Only another creature that understands the language spoken and knows thieves' cant is able to recognize such secret messages.

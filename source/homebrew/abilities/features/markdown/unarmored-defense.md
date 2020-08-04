@@ -1,3 +1,20 @@
+---
+{
+	"generic": {
+		"name": "Unarmored Defense"
+	},
+	"classes": {
+		"barbarian": {
+			"progression": [
+				{
+					"Level": 1,
+					"Features": "Unarmored Defense"
+				}
+			]
+		}
+	}
+}
+---
 # Unarmored Defense
 You are able to shrug off the pain caused by grazing hits.
 While you are not wearing any armor, you can add your constitution modifier when setting your armor class.

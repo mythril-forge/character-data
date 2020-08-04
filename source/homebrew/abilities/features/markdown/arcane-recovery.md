@@ -1,3 +1,85 @@
+---
+{
+	"generic": {
+		"name": "Arcane Recovery"
+	},
+	"classes": {
+		"wizard": {
+			"progression": [
+				{
+					"Level": 4,
+					"Features": "Arcane Recovery",
+					"Arcana Points": "6"
+				},
+				{
+					"Level": 5,
+					"Arcana Points": "7"
+				},
+				{
+					"Level": 6,
+					"Arcana Points": "8"
+				},
+				{
+					"Level": 7,
+					"Arcana Points": "9"
+				},
+				{
+					"Level": 8,
+					"Arcana Points": "10"
+				},
+				{
+					"Level": 9,
+					"Arcana Points": "11"
+				},
+				{
+					"Level": 10,
+					"Arcana Points": "12"
+				},
+				{
+					"Level": 11,
+					"Arcana Points": "13"
+				},
+				{
+					"Level": 12,
+					"Arcana Points": "14"
+				},
+				{
+					"Level": 13,
+					"Arcana Points": "15"
+				},
+				{
+					"Level": 14,
+					"Arcana Points": "16"
+				},
+				{
+					"Level": 15,
+					"Arcana Points": "17"
+				},
+				{
+					"Level": 16,
+					"Arcana Points": "18"
+				},
+				{
+					"Level": 17,
+					"Arcana Points": "19"
+				},
+				{
+					"Level": 18,
+					"Arcana Points": "21"
+				},
+				{
+					"Level": 19,
+					"Arcana Points": "23"
+				},
+				{
+					"Level": 20,
+					"Arcana Points": "25"
+				}
+			]
+		}
+	}
+}
+---
 # Arcane Recovery
 You have learned how to regain some of your magical energy by pulling magic out of certain objects that are familiar to you, such as your spellbook, your spellcasting focus, and your spell components.
 This capacity is represented by arcana points, which extend to you a degree of flexibility in your magic.

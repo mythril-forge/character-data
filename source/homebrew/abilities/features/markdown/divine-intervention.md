@@ -1,3 +1,24 @@
+---
+{
+	"generic": {
+		"name": "Divine Intervention"
+	},
+	"classes": {
+		"cleric": {
+			"progression": [
+				{
+					"Level": 10,
+					"Features": "Divine Intervention"
+				},
+				{
+					"Level": 20,
+					"Features": "Divine Intervention Feature"
+				}
+			]
+		}
+	}
+}
+---
 # Divine Intervention
 Beginning at {@level}, you can call upon the greater powers of your faith to intervene on your behalf when your need is great.
 

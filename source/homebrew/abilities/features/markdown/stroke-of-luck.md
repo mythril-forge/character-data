@@ -1,3 +1,28 @@
+---
+{
+	"generic": {
+		"name": "Stroke of Luck"
+	},
+	"classes": {
+		"rogue": {
+			"progression": [
+				{
+					"Level": 9,
+					"Features": "Stroke of Luck (1/rest)"
+				},
+				{
+					"Level": 13,
+					"Features": "Stroke of Luck (2/rest)"
+				},
+				{
+					"Level": 17,
+					"Features": "Stroke of Luck (3/rest)"
+				}
+			]
+		}
+	}
+}
+---
 # Stroke of Luck
 Starting at {@level}, you have an uncanny knack for succeeding when you need to.
 You gain one luck point.
