@@ -1,10 +1,3 @@
----
-{
-	"generic": {
-		"name": "Learning Spells"
-	}
-}
----
 # Learning Spells
 You have familiarity with an array of spells.
 You may not be able to produce all of these spells at a moment's notice, but given some time to prepare, you can cast any of them.

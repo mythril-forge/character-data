@@ -1,0 +1,20 @@
+{
+	"generic": {
+		"name": "Indomitable",
+		"slug": "indomitable"
+	},
+	"classes": {
+		"fighter": {
+			"progression": [
+				{
+					"Level": 9,
+					"Features": "Indomitable (1/rest)"
+				},
+				{
+					"Level": 13,
+					"Features": "Indomitable (2/rest)"
+				}
+			]
+		}
+	}
+}

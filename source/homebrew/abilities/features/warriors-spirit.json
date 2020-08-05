@@ -1,0 +1,16 @@
+{
+	"generic": {
+		"name": "Warrior's Spirit",
+		"slug": "warriors-spirit"
+	},
+	"classes": {
+		"fighter": {
+			"progression": [
+				{
+					"Level": 18,
+					"Features": "Warrior's Spirit"
+				}
+			]
+		}
+	}
+}

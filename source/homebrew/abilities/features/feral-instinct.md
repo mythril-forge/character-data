@@ -1,20 +1,3 @@
----
-{
-	"generic": {
-		"name": "Feral Instinct"
-	},
-	"classes": {
-		"barbarian": {
-			"progression": [
-				{
-					"Level": 7,
-					"Features": "Feral Instinct"
-				}
-			]
-		}
-	}
-}
----
 # Feral Instinct
 By {@level}, your instincts are so honed that you have advantage on initiative rolls if you aren't wearing heavy armor.
 

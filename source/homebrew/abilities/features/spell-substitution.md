@@ -1,10 +1,3 @@
----
-{
-	"generic": {
-		"name": "Spell Substitution"
-	}
-}
----
 # Spell Substitution
 You don't accept the fact that once spells are prepared, they can't be exchanged for other spells without undertaking a bothersome spellcasting cooldown period.
 Indeed, you have come to the conclusion that this cooldown period is emphatically *not* necessary.

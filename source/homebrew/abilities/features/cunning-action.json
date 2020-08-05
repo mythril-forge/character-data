@@ -1,0 +1,16 @@
+{
+	"generic": {
+		"name": "Cunning Action",
+		"slug": "cunning-action"
+	},
+	"classes": {
+		"rogue": {
+			"progression": [
+				{
+					"Level": 2,
+					"Features": "Cunning Action"
+				}
+			]
+		}
+	}
+}

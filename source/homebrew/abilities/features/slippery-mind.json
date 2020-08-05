@@ -1,0 +1,16 @@
+{
+	"generic": {
+		"name": "Slippery Mind",
+		"slug": "slippery-mind"
+	},
+	"classes": {
+		"rogue": {
+			"progression": [
+				{
+					"Level": 15,
+					"Features": "Slippery Mind"
+				}
+			]
+		}
+	}
+}

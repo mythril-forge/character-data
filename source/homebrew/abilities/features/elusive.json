@@ -1,0 +1,16 @@
+{
+	"generic": {
+		"name": "Elusive",
+		"slug": "elusive"
+	},
+	"classes": {
+		"rogue": {
+			"progression": [
+				{
+					"Level": 17,
+					"Features": "Elusive"
+				}
+			]
+		}
+	}
+}

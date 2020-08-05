@@ -1,10 +1,3 @@
----
-{
-	"generic": {
-		"name": "Soulbonding"
-	}
-}
----
 # Soulbonding
 You've long held that you could fine-tune the generic magic that bonds a mage with their familiar, improving the mystic connection.
 Having unraveled the technique for doing so, you gain more advantages from your familiar than most mages.

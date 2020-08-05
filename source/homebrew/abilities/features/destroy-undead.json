@@ -1,0 +1,40 @@
+{
+	"generic": {
+		"name": "Destroy Undead",
+		"slug": "destroy-undead"
+	},
+	"classes": {
+		"cleric": {
+			"progression": [
+				{
+					"Level": 2,
+					"Destroy Undead": "CR 0"
+				},
+				{
+					"Level": 5,
+					"Destroy Undead": "CR &frac12;"
+				},
+				{
+					"Level": 8,
+					"Destroy Undead": "CR 1"
+				},
+				{
+					"Level": 11,
+					"Destroy Undead": "CR 2"
+				},
+				{
+					"Level": 14,
+					"Destroy Undead": "CR 3"
+				},
+				{
+					"Level": 17,
+					"Destroy Undead": "CR 4"
+				},
+				{
+					"Level": 20,
+					"Destroy Undead": "CR 5"
+				}
+			]
+		}
+	}
+}

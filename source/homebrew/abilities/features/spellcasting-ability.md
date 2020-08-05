@@ -1,20 +1,3 @@
----
-{
-	"generic": {
-		"name": "Spellcasting Ability"
-	},
-	"classes": {
-		"cleric": {
-			"spellcasting-ability": "wisdom",
-			"source-of-magic": "The power of your spells comes from your devotion to your deity"
-		},
-		"wizard": {
-			"spellcasting-ability": "intelligence",
-			"source-of-magic": "You learn your spells through dedicated study and memorization"
-		}
-	}
-}
----
 # Spellcasting Ability
 {@spellcasting-ability} is your spellcasting ability for your {@class} spells.
 {@source-of-magic}.

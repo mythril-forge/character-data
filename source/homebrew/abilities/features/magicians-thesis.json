@@ -1,0 +1,21 @@
+{
+	"generic": {
+		"name": "Magician's Thesis",
+		"slug": "magicians-thesis"
+	},
+	"classes": {
+		"wizard": {
+			"children": [
+				"Power Blending",
+				"Soulbonding",
+				"Spell Substitution"
+			],
+			"progression": [
+				{
+					"Level": 6,
+					"Features": "Magician's Thesis"
+				}
+			]
+		}
+	}
+}

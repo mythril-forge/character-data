@@ -1,0 +1,16 @@
+{
+	"generic": {
+		"name": "Ritual Practitioner",
+		"slug": "ritual-practitioner"
+	},
+	"classes": {
+		"wizard": {
+			"progression": [
+				{
+					"Level": 2,
+					"Features": "Ritual Practitioner"
+				}
+			]
+		}
+	}
+}

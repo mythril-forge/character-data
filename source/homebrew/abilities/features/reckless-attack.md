@@ -1,20 +1,3 @@
----
-{
-	"generic": {
-		"name": "Reckless Attack"
-	},
-	"classes": {
-		"barbarian": {
-			"progression": [
-				{
-					"Level": 2,
-					"Features": "Reckless Attack"
-				}
-			]
-		}
-	}
-}
----
 # Reckless Attack
 Starting at {@level}, you can throw aside all concern for defense to attack with fierce desperation.
 When you make an attack on your turn, you can decide to attack recklessly.

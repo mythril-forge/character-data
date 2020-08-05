@@ -1,0 +1,16 @@
+{
+	"generic": {
+		"name": "Danger Sense",
+		"slug": "danger-sense"
+	},
+	"classes": {
+		"barbarian": {
+			"progression": [
+				{
+					"Level": 2,
+					"Features": "Danger Sense"
+				}
+			]
+		}
+	}
+}

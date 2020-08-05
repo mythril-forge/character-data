@@ -1,0 +1,16 @@
+{
+	"generic": {
+		"name": "Unmatched Fortitude",
+		"slug": "unmatched-fortitude"
+	},
+	"classes": {
+		"barbarian": {
+			"progression": [
+				{
+					"Level": 20,
+					"Features": "Unmatched Fortitude"
+				}
+			]
+		}
+	}
+}

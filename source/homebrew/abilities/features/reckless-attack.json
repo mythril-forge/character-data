@@ -1,0 +1,16 @@
+{
+	"generic": {
+		"name": "Reckless Attack",
+		"slug": "reckless-attack"
+	},
+	"classes": {
+		"barbarian": {
+			"progression": [
+				{
+					"Level": 2,
+					"Features": "Reckless Attack"
+				}
+			]
+		}
+	}
+}

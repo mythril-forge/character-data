@@ -1,0 +1,24 @@
+{
+	"generic": {
+		"name": "Brutal Critical",
+		"slug": "brutal-critical"
+	},
+	"classes": {
+		"barbarian": {
+			"progression": [
+				{
+					"Level": 9,
+					"Features": "Brutal Critical (+1 multiplier)"
+				},
+				{
+					"Level": 13,
+					"Features": "Brutal Critical (+2 multiplier)"
+				},
+				{
+					"Level": 17,
+					"Features": "Brutal Critical (+3 multiplier)"
+				}
+			]
+		}
+	}
+}

@@ -1,0 +1,32 @@
+{
+	"generic": {
+		"name": "Roguish Archetype",
+		"slug": "roguish-archetype"
+	},
+	"classes": {
+		"rogue": {
+			"progression": [
+				{
+					"Level": 3,
+					"Features": "Roguish Archetype"
+				},
+				{
+					"Level": 6,
+					"Features": "Roguish Archetype Feature"
+				},
+				{
+					"Level": 10,
+					"Features": "Roguish Archetype Feature"
+				},
+				{
+					"Level": 14,
+					"Features": "Roguish Archetype Feature"
+				},
+				{
+					"Level": 19,
+					"Features": "Roguish Archetype Feature"
+				}
+			]
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"generic": {
+		"name": "Blessed Vessel",
+		"slug": "blessed-vessel"
+	},
+	"classes": {
+		"cleric": {
+			"progression": [
+				{
+					"Level": 14,
+					"Features": "Blessed Vessel"
+				}
+			]
+		}
+	}
+}

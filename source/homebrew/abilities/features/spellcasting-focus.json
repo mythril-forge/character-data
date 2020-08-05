@@ -1,0 +1,14 @@
+{
+	"generic": {
+		"name": "Spellcasting Focus",
+		"slug": "spellcasting-focus"
+	},
+	"classes": {
+		"cleric": {
+			"spellcasting-focus": "a holy symbol"
+		},
+		"wizard": {
+			"spellcasting-focus": "an arcane focus"
+		}
+	}
+}

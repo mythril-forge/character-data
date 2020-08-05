@@ -1,10 +1,3 @@
----
-{
-	"generic": {
-		"name": "Spell Slots and Casting Spells"
-	}
-}
----
 # Spell Slots and Casting Spells
 The *"{@class}"* table shows how many spell slots you have to cast your spells at each level.
 To cast a spell that you have prepared, you must expend a slot of the spell's level or higher.

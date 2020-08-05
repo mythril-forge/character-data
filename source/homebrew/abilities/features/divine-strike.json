@@ -1,0 +1,20 @@
+{
+	"generic": {
+		"name": "Divine Strike",
+		"slug": "divine-strike"
+	},
+	"classes": {
+		"cleric": {
+			"progression": [
+				{
+					"Level": 8,
+					"Features": "Divine Strike"
+				},
+				{
+					"Level": 14,
+					"Features": "Improved Divine Strike"
+				}
+			]
+		}
+	}
+}

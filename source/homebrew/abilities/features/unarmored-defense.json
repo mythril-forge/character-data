@@ -1,0 +1,16 @@
+{
+	"generic": {
+		"name": "Unarmored Defense",
+		"slug": "unarmored-defense"
+	},
+	"classes": {
+		"barbarian": {
+			"progression": [
+				{
+					"Level": 1,
+					"Features": "Unarmored Defense"
+				}
+			]
+		}
+	}
+}

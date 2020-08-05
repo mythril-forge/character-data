@@ -1,23 +1,3 @@
----
-{
-	"generic": {
-		"name": "Turn Undead"
-	},
-	"classes": {
-		"cleric": {
-			"children": [
-				"Destroy Undead"
-			],
-			"progression": [
-				{
-					"Level": 1,
-					"Features": "Turn Undead"
-				}
-			]
-		}
-	}
-}
----
 # Turn Undead
 At {@level}, you have gained the ability to use your *Channel Divinity* to fend off menacing undead.
 You can take an action to present your holy symbol and speak a prayer censuring the undead.

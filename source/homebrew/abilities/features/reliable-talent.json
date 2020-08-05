@@ -1,0 +1,16 @@
+{
+	"generic": {
+		"name": "Reliable Talent",
+		"slug": "reliable-talent"
+	},
+	"classes": {
+		"rogue": {
+			"progression": [
+				{
+					"Level": 11,
+					"Features": "Reliable Talent"
+				}
+			]
+		}
+	}
+}

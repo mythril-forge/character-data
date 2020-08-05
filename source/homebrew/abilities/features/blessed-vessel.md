@@ -1,20 +1,3 @@
----
-{
-	"generic": {
-		"name": "Blessed Vessel"
-	},
-	"classes": {
-		"cleric": {
-			"progression": [
-				{
-					"Level": 14,
-					"Features": "Blessed Vessel"
-				}
-			]
-		}
-	}
-}
----
 # Blessed Vessel
 By {@level}, your body has become a conduit for raw divine energy.
 You gain resistance to radiant damage.

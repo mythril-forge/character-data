@@ -1,0 +1,26 @@
+{
+	"generic": {
+		"name": "Spellcasting",
+		"slug": "spellcasting"
+	},
+	"classes": {
+		"cleric": {
+			"progression": [
+				{
+					"Level": 1,
+					"Features": "Spellcasting"
+				}
+			],
+			"spellcasting-introduction": "As a conduit for divine power, you can cast spells"
+		},
+		"wizard": {
+			"progression": [
+				{
+					"Level": 1,
+					"Features": "Spellcasting"
+				}
+			],
+			"spellcasting-introduction": "As a student of arcane magic, you have a spellbook containing the research that shows the first glimmerings of your true power"
+		}
+	}
+}

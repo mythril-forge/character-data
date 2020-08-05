@@ -1,0 +1,16 @@
+{
+	"generic": {
+		"name": "Thieves' Cant",
+		"slug": "thieves-cant"
+	},
+	"classes": {
+		"rogue": {
+			"progression": [
+				{
+					"Level": 1,
+					"Features": "Thieves' Cant"
+				}
+			]
+		}
+	}
+}

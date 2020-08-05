@@ -1,0 +1,16 @@
+{
+	"generic": {
+		"name": "Feral Instinct",
+		"slug": "feral-instinct"
+	},
+	"classes": {
+		"barbarian": {
+			"progression": [
+				{
+					"Level": 7,
+					"Features": "Feral Instinct"
+				}
+			]
+		}
+	}
+}

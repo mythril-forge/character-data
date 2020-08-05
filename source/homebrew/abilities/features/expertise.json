@@ -1,0 +1,20 @@
+{
+	"generic": {
+		"name": "Expertise",
+		"slug": "expertise"
+	},
+	"classes": {
+		"rogue": {
+			"progression": [
+				{
+					"Level": 1,
+					"Features": "Expertise"
+				},
+				{
+					"Level": 5,
+					"Features": "Expertise"
+				}
+			]
+		}
+	}
+}

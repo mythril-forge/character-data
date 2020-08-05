@@ -1,0 +1,16 @@
+{
+	"generic": {
+		"name": "Muscle Memory",
+		"slug": "muscle-memory"
+	},
+	"classes": {
+		"barbarian": {
+			"progression": [
+				{
+					"Level": 1,
+					"Features": "Muscle Memory"
+				}
+			]
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"generic": {
+		"name": "Field Training",
+		"slug": "field-training"
+	},
+	"classes": {
+		"fighter": {
+			"progression": [
+				{
+					"Level": 1,
+					"Features": "Field Training"
+				}
+			]
+		}
+	}
+}

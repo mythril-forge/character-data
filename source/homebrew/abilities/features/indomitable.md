@@ -1,24 +1,3 @@
----
-{
-	"generic": {
-		"name": "Indomitable"
-	},
-	"classes": {
-		"fighter": {
-			"progression": [
-				{
-					"Level": 9,
-					"Features": "Indomitable (1/rest)"
-				},
-				{
-					"Level": 13,
-					"Features": "Indomitable (2/rest)"
-				}
-			]
-		}
-	}
-}
----
 # Indomitable
 By {@level}, you have learned to focus through even the fiercest of onslaughts.
 If you fail a saving throw, you can choose to succeed instead.

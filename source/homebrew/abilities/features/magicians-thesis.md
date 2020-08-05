@@ -1,25 +1,3 @@
----
-{
-	"generic": {
-		"name": "Magician's Thesis"
-	},
-	"classes": {
-		"wizard": {
-			"children": [
-				"Power Blending",
-				"Soulbonding",
-				"Spell Substitution"
-			],
-			"progression": [
-				{
-					"Level": 6,
-					"Features": "Magician's Thesis"
-				}
-			]
-		}
-	}
-}
----
 # Magician's Thesis
 By the time you reach {@level}, you will have produced a thesis of unique magical research on one of a variety of topics from your studies in becoming a full-fledged mage.
 By virtue of composing this essay, you gain a special benefit depending on the topic of your thesis research.

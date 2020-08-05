@@ -1,0 +1,16 @@
+{
+	"generic": {
+		"name": "Underhanded",
+		"slug": "underhanded"
+	},
+	"classes": {
+		"rogue": {
+			"progression": [
+				{
+					"Level": 2,
+					"Features": "Underhanded"
+				}
+			]
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"generic": {
+		"name": "Evasion",
+		"slug": "evasion"
+	},
+	"classes": {
+		"rogue": {
+			"progression": [
+				{
+					"Level": 7,
+					"Features": "Evasion"
+				}
+			]
+		}
+	}
+}

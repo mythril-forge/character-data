@@ -1,0 +1,16 @@
+{
+	"generic": {
+		"name": "Unending Anger",
+		"slug": "unending-anger"
+	},
+	"classes": {
+		"barbarian": {
+			"progression": [
+				{
+					"Level": 15,
+					"Features": "Unending Anger"
+				}
+			]
+		}
+	}
+}

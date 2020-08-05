@@ -1,28 +1,3 @@
----
-{
-	"generic": {
-		"name": "Channel Divinity"
-	},
-	"classes": {
-		"cleric": {
-			"progression": [
-				{
-					"Level": 2,
-					"Features": "Channel Divinity (1/rest)"
-				},
-				{
-					"Level": 6,
-					"Features": "Channel Divinity (2/rest)"
-				},
-				{
-					"Level": 18,
-					"Features": "Channel Divinity (3/rest)"
-				}
-			]
-		}
-	}
-}
----
 # Channel Divinity
 At {@level}, you gain the ability to channel divine energy and use it to fuel magical effects.
 You will have been granted a {@class} feature that details such an effect.

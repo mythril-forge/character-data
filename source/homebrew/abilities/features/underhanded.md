@@ -1,20 +1,3 @@
----
-{
-	"generic": {
-		"name": "Underhanded"
-	},
-	"classes": {
-		"rogue": {
-			"progression": [
-				{
-					"Level": 2,
-					"Features": "Underhanded"
-				}
-			]
-		}
-	}
-}
----
 # Underhanded
 By {@level}, you have learned about the arts of subterfuge.
 Once on each of your turns, you can either draw a light one-handed weapon or issue a small item (&le;5 pounds) without using a bonus action.
