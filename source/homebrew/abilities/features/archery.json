@@ -1,6 +1,4 @@
 {
-	"generic": {
-		"name": "Archery",
-		"slug": "archery"
-	}
+	"name": "Archery",
+	"slug": "archery"
 }

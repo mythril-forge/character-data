@@ -1,16 +1,18 @@
 {
-	"generic": {
-		"name": "Spellcasting Ability",
-		"slug": "spellcasting-ability"
-	},
+	"name": "Spellcasting Ability",
+	"slug": "spellcasting-ability",
 	"classes": {
 		"cleric": {
-			"spellcasting-ability": "wisdom",
-			"source-of-magic": "The power of your spells comes from your devotion to your deity"
+			"variables": {
+				"spellcasting-ability": "wisdom",
+				"source-of-magic": "The power of your spells comes from your devotion to your deity"
+			}
 		},
 		"wizard": {
-			"spellcasting-ability": "intelligence",
-			"source-of-magic": "You learn your spells through dedicated study and memorization"
+			"variables": {
+				"spellcasting-ability": "intelligence",
+				"source-of-magic": "You learn your spells through dedicated study and memorization"
+			}
 		}
 	}
 }

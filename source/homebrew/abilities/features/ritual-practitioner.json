@@ -1,8 +1,6 @@
 {
-	"generic": {
-		"name": "Ritual Practitioner",
-		"slug": "ritual-practitioner"
-	},
+	"name": "Ritual Practitioner",
+	"slug": "ritual-practitioner",
 	"classes": {
 		"wizard": {
 			"progression": [

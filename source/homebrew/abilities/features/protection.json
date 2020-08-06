@@ -1,6 +1,4 @@
 {
-	"generic": {
-		"name": "Protection",
-		"slug": "protection"
-	}
+	"name": "Protection",
+	"slug": "protection"
 }

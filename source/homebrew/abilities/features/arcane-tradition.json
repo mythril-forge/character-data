@@ -1,8 +1,6 @@
 {
-	"generic": {
-		"name": "Arcane Tradition",
-		"slug": "arcane-tradition"
-	},
+	"name": "Arcane Tradition",
+	"slug": "arcane-tradition",
 	"classes": {
 		"wizard": {
 			"progression": [

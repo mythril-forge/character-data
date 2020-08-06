@@ -1,8 +1,6 @@
 {
-	"generic": {
-		"name": "Primal Path",
-		"slug": "primal-path"
-	},
+	"name": "Primal Path",
+	"slug": "primal-path",
 	"classes": {
 		"barbarian": {
 			"progression": [

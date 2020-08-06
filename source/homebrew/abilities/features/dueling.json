@@ -1,6 +1,4 @@
 {
-	"generic": {
-		"name": "Dueling",
-		"slug": "dueling"
-	}
+	"name": "Dueling",
+	"slug": "dueling"
 }

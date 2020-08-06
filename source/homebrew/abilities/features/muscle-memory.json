@@ -1,8 +1,6 @@
 {
-	"generic": {
-		"name": "Muscle Memory",
-		"slug": "muscle-memory"
-	},
+	"name": "Muscle Memory",
+	"slug": "muscle-memory",
 	"classes": {
 		"barbarian": {
 			"progression": [

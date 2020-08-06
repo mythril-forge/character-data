@@ -1,8 +1,6 @@
 {
-	"generic": {
-		"name": "Channel Divinity",
-		"slug": "channel-divinity"
-	},
+	"name": "Channel Divinity",
+	"slug": "channel-divinity",
 	"classes": {
 		"cleric": {
 			"progression": [

@@ -1,14 +1,16 @@
 {
-	"generic": {
-		"name": "Spellcasting Focus",
-		"slug": "spellcasting-focus"
-	},
+	"name": "Spellcasting Focus",
+	"slug": "spellcasting-focus",
 	"classes": {
 		"cleric": {
-			"spellcasting-focus": "a holy symbol"
+			"variables": {
+				"spellcasting-focus": "a holy symbol"
+			}
 		},
 		"wizard": {
-			"spellcasting-focus": "an arcane focus"
+			"variables": {
+				"spellcasting-focus": "an arcane focus"
+			}
 		}
 	}
 }

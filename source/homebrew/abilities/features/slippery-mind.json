@@ -1,8 +1,6 @@
 {
-	"generic": {
-		"name": "Slippery Mind",
-		"slug": "slippery-mind"
-	},
+	"name": "Slippery Mind",
+	"slug": "slippery-mind",
 	"classes": {
 		"rogue": {
 			"progression": [

@@ -1,8 +1,6 @@
 {
-	"generic": {
-		"name": "Blessed Vessel",
-		"slug": "blessed-vessel"
-	},
+	"name": "Blessed Vessel",
+	"slug": "blessed-vessel",
 	"classes": {
 		"cleric": {
 			"progression": [

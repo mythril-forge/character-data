@@ -1,8 +1,6 @@
 {
-	"generic": {
-		"name": "Divine Strike",
-		"slug": "divine-strike"
-	},
+	"name": "Divine Strike",
+	"slug": "divine-strike",
 	"classes": {
 		"cleric": {
 			"progression": [

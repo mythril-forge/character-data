@@ -1,8 +1,6 @@
 {
-	"generic": {
-		"name": "Stroke of Luck",
-		"slug": "stroke-of-luck"
-	},
+	"name": "Stroke of Luck",
+	"slug": "stroke-of-luck",
 	"classes": {
 		"rogue": {
 			"progression": [

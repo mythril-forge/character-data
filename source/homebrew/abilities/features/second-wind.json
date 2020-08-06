@@ -1,8 +1,6 @@
 {
-	"generic": {
-		"name": "Second Wind",
-		"slug": "second-wind"
-	},
+	"name": "Second Wind",
+	"slug": "second-wind",
 	"classes": {
 		"fighter": {
 			"progression": [

@@ -1,8 +1,6 @@
 {
-	"generic": {
-		"name": "Spell Mastery",
-		"slug": "spell-mastery"
-	},
+	"name": "Spell Mastery",
+	"slug": "spell-mastery",
 	"classes": {
 		"wizard": {
 			"progression": [

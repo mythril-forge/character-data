@@ -1,8 +1,6 @@
 {
-	"generic": {
-		"name": "Cunning Action",
-		"slug": "cunning-action"
-	},
+	"name": "Cunning Action",
+	"slug": "cunning-action",
 	"classes": {
 		"rogue": {
 			"progression": [

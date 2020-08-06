@@ -1,8 +1,6 @@
 {
-	"generic": {
-		"name": "Shadowsense",
-		"slug": "shadowsense"
-	},
+	"name": "Shadowsense",
+	"slug": "shadowsense",
 	"classes": {
 		"rogue": {
 			"progression": [

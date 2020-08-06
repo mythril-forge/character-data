@@ -1,8 +1,6 @@
 {
-	"generic": {
-		"name": "Called Shots",
-		"slug": "called-shots"
-	},
+	"name": "Called Shots",
+	"slug": "called-shots",
 	"classes": {
 		"fighter": {
 			"progression": [

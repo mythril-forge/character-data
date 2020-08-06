@@ -1,8 +1,6 @@
 {
-	"generic": {
-		"name": "Divine Domain",
-		"slug": "divine-domain"
-	},
+	"name": "Divine Domain",
+	"slug": "divine-domain",
 	"classes": {
 		"cleric": {
 			"progression": [

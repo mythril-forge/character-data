@@ -1,8 +1,6 @@
 {
-	"generic": {
-		"name": "Sneak Attack",
-		"slug": "sneak-attack"
-	},
+	"name": "Sneak Attack",
+	"slug": "sneak-attack",
 	"classes": {
 		"rogue": {
 			"progression": [

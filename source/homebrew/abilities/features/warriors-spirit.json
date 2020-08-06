@@ -1,8 +1,6 @@
 {
-	"generic": {
-		"name": "Warrior's Spirit",
-		"slug": "warriors-spirit"
-	},
+	"name": "Warrior's Spirit",
+	"slug": "warriors-spirit",
 	"classes": {
 		"fighter": {
 			"progression": [

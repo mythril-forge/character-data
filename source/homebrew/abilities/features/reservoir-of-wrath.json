@@ -1,8 +1,6 @@
 {
-	"generic": {
-		"name": "Reservoir of Wrath",
-		"slug": "reservoir-of-wrath"
-	},
+	"name": "Reservoir of Wrath",
+	"slug": "reservoir-of-wrath",
 	"classes": {
 		"barbarian": {
 			"progression": [

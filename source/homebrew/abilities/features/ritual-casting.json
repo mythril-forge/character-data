@@ -1,6 +1,4 @@
 {
-	"generic": {
-		"name": "Ritual Casting",
-		"slug": "ritual-casting"
-	}
+	"name": "Ritual Casting",
+	"slug": "ritual-casting"
 }

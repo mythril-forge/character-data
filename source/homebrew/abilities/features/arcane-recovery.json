@@ -1,8 +1,6 @@
 {
-	"generic": {
-		"name": "Arcane Recovery",
-		"slug": "arcane-recovery"
-	},
+	"name": "Arcane Recovery",
+	"slug": "arcane-recovery",
 	"classes": {
 		"wizard": {
 			"progression": [

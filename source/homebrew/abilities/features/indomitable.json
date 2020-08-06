@@ -1,8 +1,6 @@
 {
-	"generic": {
-		"name": "Indomitable",
-		"slug": "indomitable"
-	},
+	"name": "Indomitable",
+	"slug": "indomitable",
 	"classes": {
 		"fighter": {
 			"progression": [

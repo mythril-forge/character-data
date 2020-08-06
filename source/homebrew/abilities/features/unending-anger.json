@@ -1,8 +1,6 @@
 {
-	"generic": {
-		"name": "Unending Anger",
-		"slug": "unending-anger"
-	},
+	"name": "Unending Anger",
+	"slug": "unending-anger",
 	"classes": {
 		"barbarian": {
 			"progression": [

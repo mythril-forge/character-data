@@ -1,8 +1,6 @@
 {
-	"generic": {
-		"name": "Weapon Mastery",
-		"slug": "weapon-mastery"
-	},
+	"name": "Weapon Mastery",
+	"slug": "weapon-mastery",
 	"classes": {
 		"fighter": {
 			"progression": [

@@ -1,8 +1,6 @@
 {
-	"generic": {
-		"name": "Martial Archetype",
-		"slug": "martial-archetype"
-	},
+	"name": "Martial Archetype",
+	"slug": "martial-archetype",
 	"classes": {
 		"fighter": {
 			"progression": [

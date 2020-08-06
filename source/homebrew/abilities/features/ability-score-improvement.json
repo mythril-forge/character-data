@@ -1,8 +1,6 @@
 {
-	"generic": {
-		"name": "Ability Score Improvement",
-		"slug": "ability-score-improvement"
-	},
+	"name": "Ability Score Improvement",
+	"slug": "ability-score-improvement",
 	"classes": {
 		"barbarian": {
 			"progression": [

@@ -1,8 +1,6 @@
 {
-	"generic": {
-		"name": "Master of the Trade",
-		"slug": "master-of-the-trade"
-	},
+	"name": "Master of the Trade",
+	"slug": "master-of-the-trade",
 	"classes": {
 		"rogue": {
 			"progression": [

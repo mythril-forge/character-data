@@ -1,8 +1,6 @@
 {
-	"generic": {
-		"name": "Uncanny Dodge",
-		"slug": "uncanny-dodge"
-	},
+	"name": "Uncanny Dodge",
+	"slug": "uncanny-dodge",
 	"classes": {
 		"rogue": {
 			"progression": [

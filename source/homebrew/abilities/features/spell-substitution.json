@@ -1,6 +1,4 @@
 {
-	"generic": {
-		"name": "Spell Substitution",
-		"slug": "spell-substitution"
-	}
+	"name": "Spell Substitution",
+	"slug": "spell-substitution"
 }

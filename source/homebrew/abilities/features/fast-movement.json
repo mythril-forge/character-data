@@ -1,8 +1,6 @@
 {
-	"generic": {
-		"name": "Fast Movement",
-		"slug": "fast-movement"
-	},
+	"name": "Fast Movement",
+	"slug": "fast-movement",
 	"classes": {
 		"barbarian": {
 			"progression": [

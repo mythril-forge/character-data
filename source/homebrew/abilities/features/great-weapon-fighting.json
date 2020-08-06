@@ -1,6 +1,4 @@
 {
-	"generic": {
-		"name": "Great Weapon Fighting",
-		"slug": "great-weapon-fighting"
-	}
+	"name": "Great Weapon Fighting",
+	"slug": "great-weapon-fighting"
 }

@@ -1,8 +1,6 @@
 {
-	"generic": {
-		"name": "Divine Intervention",
-		"slug": "divine-intervention"
-	},
+	"name": "Divine Intervention",
+	"slug": "divine-intervention",
 	"classes": {
 		"cleric": {
 			"progression": [

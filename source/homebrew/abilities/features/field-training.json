@@ -1,8 +1,6 @@
 {
-	"generic": {
-		"name": "Field Training",
-		"slug": "field-training"
-	},
+	"name": "Field Training",
+	"slug": "field-training",
 	"classes": {
 		"fighter": {
 			"progression": [

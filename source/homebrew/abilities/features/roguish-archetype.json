@@ -1,8 +1,6 @@
 {
-	"generic": {
-		"name": "Roguish Archetype",
-		"slug": "roguish-archetype"
-	},
+	"name": "Roguish Archetype",
+	"slug": "roguish-archetype",
 	"classes": {
 		"rogue": {
 			"progression": [

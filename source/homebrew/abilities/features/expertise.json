@@ -1,8 +1,6 @@
 {
-	"generic": {
-		"name": "Expertise",
-		"slug": "expertise"
-	},
+	"name": "Expertise",
+	"slug": "expertise",
 	"classes": {
 		"rogue": {
 			"progression": [

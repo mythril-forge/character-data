@@ -1,8 +1,6 @@
 {
-	"generic": {
-		"name": "Brutal Critical",
-		"slug": "brutal-critical"
-	},
+	"name": "Brutal Critical",
+	"slug": "brutal-critical",
 	"classes": {
 		"barbarian": {
 			"progression": [

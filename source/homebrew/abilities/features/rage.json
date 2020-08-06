@@ -1,8 +1,6 @@
 {
-	"generic": {
-		"name": "Rage",
-		"slug": "rage"
-	},
+	"name": "Rage",
+	"slug": "rage",
 	"classes": {
 		"barbarian": {
 			"progression": [

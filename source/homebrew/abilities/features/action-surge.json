@@ -1,8 +1,6 @@
 {
-	"generic": {
-		"name": "Action Surge",
-		"slug": "action-surge"
-	},
+	"name": "Action Surge",
+	"slug": "action-surge",
 	"classes": {
 		"fighter": {
 			"progression": [

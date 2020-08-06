@@ -1,8 +1,6 @@
 {
-	"generic": {
-		"name": "Defy Death",
-		"slug": "defy-death"
-	},
+	"name": "Defy Death",
+	"slug": "defy-death",
 	"classes": {
 		"barbarian": {
 			"progression": [

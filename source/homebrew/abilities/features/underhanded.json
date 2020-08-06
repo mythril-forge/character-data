@@ -1,8 +1,6 @@
 {
-	"generic": {
-		"name": "Underhanded",
-		"slug": "underhanded"
-	},
+	"name": "Underhanded",
+	"slug": "underhanded",
 	"classes": {
 		"rogue": {
 			"progression": [

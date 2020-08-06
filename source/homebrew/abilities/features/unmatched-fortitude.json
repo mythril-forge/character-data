@@ -1,8 +1,6 @@
 {
-	"generic": {
-		"name": "Unmatched Fortitude",
-		"slug": "unmatched-fortitude"
-	},
+	"name": "Unmatched Fortitude",
+	"slug": "unmatched-fortitude",
 	"classes": {
 		"barbarian": {
 			"progression": [

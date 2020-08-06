@@ -1,8 +1,6 @@
 {
-	"generic": {
-		"name": "Destroy Undead",
-		"slug": "destroy-undead"
-	},
+	"name": "Destroy Undead",
+	"slug": "destroy-undead",
 	"classes": {
 		"cleric": {
 			"progression": [

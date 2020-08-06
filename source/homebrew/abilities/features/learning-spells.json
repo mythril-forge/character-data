@@ -1,6 +1,4 @@
 {
-	"generic": {
-		"name": "Learning Spells",
-		"slug": "learning-spells"
-	}
+	"name": "Learning Spells",
+	"slug": "learning-spells"
 }
