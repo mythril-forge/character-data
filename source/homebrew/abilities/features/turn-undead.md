@@ -1,5 +1,5 @@
 # Turn Undead
-At {@level}, you have gained the ability to use your *Channel Divinity* to fend off menacing undead.
+At `{( level )}`, you have gained the ability to use your *Channel Divinity* to fend off menacing undead.
 You can take an action to present your holy symbol and speak a prayer censuring the undead.
 Each undead within 30 feet of you that can see or hear you must make a wisdom saving throw.
 If a creature fails its saving throw, it is turned for 5 minutes or until it faces a malevolent interaction (DM's discretion).

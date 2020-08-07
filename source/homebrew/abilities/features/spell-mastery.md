@@ -1,5 +1,5 @@
 # Spell Mastery
-At {@level}, you have achieved such mastery over your spells that you can make one your signature spell.
+At `{( level )}`, you have achieved such mastery over your spells that you can make one your signature spell.
 
 A signature spell counts as a cantrip but retains its casting level.
 When upcast, its casting level increases by the expended spell slot's level.
@@ -9,8 +9,8 @@ You can master one wizard spell that you know by spending 30 hours in study and 
 It becomes your signature spell when you complete this process.
 
 You can have up to one signature spell, and it must be of 1st level.
-By level {@level}, you have achieved further mastery over your magic such that you can have a second signature spell of 2nd level.
-Finally, when you become a level {@level} {@class}, you can have a third signature spell of 3rd level.
+By level `{( level )}`, you have achieved further mastery over your magic such that you can have a second signature spell of 2nd level.
+Finally, when you become a level `{( level )}` `{( class )}`, you can have a third signature spell of 3rd level.
 
 > ## Variant: Low-Magic Mastery
 > You can use this variant rule to have enhanced lower-level signature spells.

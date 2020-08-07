@@ -1,5 +1,5 @@
 # Stroke of Luck
-Starting at {@level}, you have an uncanny knack for succeeding when you need to.
+Starting at `{( level )}`, you have an uncanny knack for succeeding when you need to.
 You gain one luck point.
 Whenever you make an attack roll, an ability check, or a saving throw, you can spend one luck point to roll the check again.
 You can choose to spend your luck point after you roll the dice, but before the outcome is determined.
@@ -12,4 +12,4 @@ If their new roll is lower, they must use it instead of their other rolls&mdash;
 If more than one creature spends a luck point to influence the outcome of a roll, the points cancel each other out; no additional dice are rolled.
 
 Once you use a luck point, you must finish a long rest to use it again.
-This feature grants you a total of two luck points when you reach {@level}, and a total of three luck points when you reach {@level}.
+This feature grants you a total of two luck points when you reach `{( level )}`, and a total of three luck points when you reach `{( level )}`.

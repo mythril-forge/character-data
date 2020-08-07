@@ -1,5 +1,5 @@
 # Evasion
-Beginning at {@level}, you can nimbly dodge out of the way of certain area effects, such as a red dragon's fiery breath or a lighting bolt spell.
+Beginning at `{( level )}`, you can nimbly dodge out of the way of certain area effects, such as a red dragon's fiery breath or a lighting bolt spell.
 When you fail a dexterity saving throw, you can use a reaction to flip a coin.
 On a heads, you instead succeed on the saving throw.
 

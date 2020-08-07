@@ -3,7 +3,7 @@ You have learned how to regain some of your magical energy by pulling magic out 
 This capacity is represented by arcana points, which extend to you a degree of flexibility in your magic.
 
 ## Arcana Points
-You have a number of arcana points, and you gain more as you reach higher {@class} levels, as shown in the *"Arcana Points"* column of the *"{@class}"* table.
+You have a number of arcana points, and you gain more as you reach higher `{( class )}` levels, as shown in the *"Arcana Points"* column of the *"`{( class )}`"* table.
 However, you can never have more than the amount shown on the table for your level.
 You regain all spent arcana points when you finish a long rest.
 

@@ -1,5 +1,5 @@
 # Blessed Vessel
-By {@level}, your body has become a conduit for raw divine energy.
+By `{( level )}`, your body has become a conduit for raw divine energy.
 You gain resistance to radiant damage.
 
 Once you die, your dead body is protected from decay and can't become undead; this indefinately extends any time limits placed on being raised from the dead.

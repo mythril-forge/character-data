@@ -1,6 +1,6 @@
 # Deciphering Spells
 You might find spells written in books and on scrolls during your adventures.
-If you find a written {@class} spell, then you can study it and learn at an accelerated rate.
+If you find a written `{( class )}` spell, then you can study it and learn at an accelerated rate.
 
 To learn about a written spell, you must decode the unique system of notation used by the spellcaster who wrote it.
 Then, you can practice and reproduce the underlying form of the spell to understand it better.

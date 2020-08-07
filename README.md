@@ -5,7 +5,7 @@ This repository is dedicated to storing information about all sorts of D&D chara
 It is largely composed of both json data files and markdown snippits.
 
 Some of the markdown files have tags; a placeholder for data (such as character levels) to be injected later.
-You can identify a markdown tag through this syntax: `@{tag}`
+You can identify a markdown tag through this syntax: `` `{( tag )}` ``
 
 All the data is stored in the `source/` directory.
 Within the source directory, you will find an overwhelming variety of subdirectories.

@@ -1,13 +1,13 @@
 # Spellbook
-Your spellbook is an extended repository of your {@class} spells.
+Your spellbook is an extended repository of your `{( class )}` spells.
 There is no hard limit to how many spells a spellbook can contain.
-You can defer to your spellbook when you want to change the list of {@class} spells that you know.
+You can defer to your spellbook when you want to change the list of `{( class )}` spells that you know.
 
 ## Cataloguing a Spell
-Whenever you learn a new {@class} spell, you can immediately add it to your spellbook (no additional action required).
+Whenever you learn a new `{( class )}` spell, you can immediately add it to your spellbook (no additional action required).
 Otherwise, you must spend the time and equipment necessary to author a new entry into your spellbook.
 
-Adding a {@class} spell that you know to your spellbook involves {@transcribing-spells}.
+Adding a `{( class )}` spell that you know to your spellbook involves `{( transcribing-spells )}`.
 The process takes at least half an hour and consumes one component kit.
 For each level of the spell, it takes 30 additional minutes and consumes another component kit.
 Once you have spent these resources, you will have properly cataloged the spell into your spellbook.
@@ -18,7 +18,7 @@ Because of this, you might wish to produce multiple volumes of your spellbook to
 
 ## Reviewing One or More Spells
 You can spend time reviewing the spells in your spellbook to relearn them.
-Reviewing a {@class} spell requires time spent perusing its respective entry: at least 5 minutes, plus an additional 5 minutes per level of the spell.
+Reviewing a `{( class )}` spell requires time spent perusing its respective entry: at least 5 minutes, plus an additional 5 minutes per level of the spell.
 You must repeat this process for each spell that you wish to review.
 Once you have spent this time studying, you know the spell(s) and can prepare them as normal.
 
