@@ -6,11 +6,11 @@
 			"progression": [
 				{
 					"Level": 2,
-					"Features": "Action Surge (1/rest)"
+					"Feature": "Action Surge (1/rest)"
 				},
 				{
 					"Level": 20,
-					"Features": "Action Surge (2/rest)"
+					"Feature": "Action Surge (2/rest)"
 				}
 			]
 		}

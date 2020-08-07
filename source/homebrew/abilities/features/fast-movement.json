@@ -6,7 +6,7 @@
 			"progression": [
 				{
 					"Level": 2,
-					"Features": "Fast Movement",
+					"Feature": "Fast Movement",
 					"Fast Movement": "+5 ft."
 				},
 				{

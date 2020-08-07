@@ -6,7 +6,7 @@
 			"progression": [
 				{
 					"Level": 1,
-					"Features": "Unarmored Defense"
+					"Feature": "Unarmored Defense"
 				}
 			]
 		}

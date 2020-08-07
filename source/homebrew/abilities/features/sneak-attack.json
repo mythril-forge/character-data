@@ -6,7 +6,7 @@
 			"progression": [
 				{
 					"Level": 1,
-					"Features": "Sneak Attack",
+					"Feature": "Sneak Attack",
 					"Sneak Attack": "1d6"
 				},
 				{

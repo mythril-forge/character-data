@@ -6,11 +6,11 @@
 			"progression": [
 				{
 					"Level": 8,
-					"Features": "Divine Strike"
+					"Feature": "Divine Strike"
 				},
 				{
 					"Level": 14,
-					"Features": "Improved Divine Strike"
+					"Feature": "Improved Divine Strike"
 				}
 			]
 		}

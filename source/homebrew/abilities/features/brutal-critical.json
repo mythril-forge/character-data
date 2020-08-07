@@ -6,15 +6,15 @@
 			"progression": [
 				{
 					"Level": 9,
-					"Features": "Brutal Critical (+1 multiplier)"
+					"Feature": "Brutal Critical (+1 multiplier)"
 				},
 				{
 					"Level": 13,
-					"Features": "Brutal Critical (+2 multiplier)"
+					"Feature": "Brutal Critical (+2 multiplier)"
 				},
 				{
 					"Level": 17,
-					"Features": "Brutal Critical (+3 multiplier)"
+					"Feature": "Brutal Critical (+3 multiplier)"
 				}
 			]
 		}

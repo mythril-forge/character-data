@@ -6,11 +6,11 @@
 			"progression": [
 				{
 					"Level": 9,
-					"Features": "Indomitable (1/rest)"
+					"Feature": "Indomitable (1/rest)"
 				},
 				{
 					"Level": 13,
-					"Features": "Indomitable (2/rest)"
+					"Feature": "Indomitable (2/rest)"
 				}
 			]
 		}

@@ -6,11 +6,11 @@
 			"progression": [
 				{
 					"Level": 1,
-					"Features": "Expertise"
+					"Feature": "Expertise"
 				},
 				{
 					"Level": 5,
-					"Features": "Expertise"
+					"Feature": "Expertise"
 				}
 			]
 		}

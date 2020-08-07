@@ -6,11 +6,11 @@
 			"progression": [
 				{
 					"Level": 10,
-					"Features": "Divine Intervention"
+					"Feature": "Divine Intervention"
 				},
 				{
 					"Level": 20,
-					"Features": "Divine Intervention Feature"
+					"Feature": "Divine Intervention Feature"
 				}
 			]
 		}

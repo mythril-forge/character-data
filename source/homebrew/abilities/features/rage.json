@@ -6,7 +6,7 @@
 			"progression": [
 				{
 					"Level": 1,
-					"Features": "Rage",
+					"Feature": "Rage",
 					"Rages": "2",
 					"Rage Damage": "+2"
 				},

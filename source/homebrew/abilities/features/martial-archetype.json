@@ -6,23 +6,23 @@
 			"progression": [
 				{
 					"Level": 3,
-					"Features": "Martial Archetype"
+					"Feature": "Martial Archetype"
 				},
 				{
 					"Level": 7,
-					"Features": "Martial Archetype Feature"
+					"Feature": "Martial Archetype Feature"
 				},
 				{
 					"Level": 10,
-					"Features": "Martial Archetype Feature"
+					"Feature": "Martial Archetype Feature"
 				},
 				{
 					"Level": 15,
-					"Features": "Martial Archetype Feature"
+					"Feature": "Martial Archetype Feature"
 				},
 				{
 					"Level": 19,
-					"Features": "Martial Archetype Feature"
+					"Feature": "Martial Archetype Feature"
 				}
 			]
 		}

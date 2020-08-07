@@ -6,7 +6,7 @@
 			"progression": [
 				{
 					"Level": 5,
-					"Features": "Extra Attack"
+					"Feature": "Extra Attack"
 				}
 			]
 		},
@@ -14,15 +14,15 @@
 			"progression": [
 				{
 					"Level": 5,
-					"Features": "Extra Attack (1 extra)"
+					"Feature": "Extra Attack (1 extra)"
 				},
 				{
 					"Level": 11,
-					"Features": "Extra Attack (2 extra)"
+					"Feature": "Extra Attack (2 extra)"
 				},
 				{
 					"Level": 17,
-					"Features": "Extra Attack (3 extra)"
+					"Feature": "Extra Attack (3 extra)"
 				}
 			]
 		}

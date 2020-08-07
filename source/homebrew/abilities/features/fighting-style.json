@@ -6,7 +6,7 @@
 			"progression": [
 				{
 					"Level": 1,
-					"Features": "Fighting Style"
+					"Feature": "Fighting Style"
 				}
 			],
 			"children": [

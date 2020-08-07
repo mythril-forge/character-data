@@ -6,23 +6,23 @@
 			"progression": [
 				{
 					"Level": 3,
-					"Features": "Primal Path"
+					"Feature": "Primal Path"
 				},
 				{
 					"Level": 6,
-					"Features": "Primal Path Feature"
+					"Feature": "Primal Path Feature"
 				},
 				{
 					"Level": 10,
-					"Features": "Primal Path Feature"
+					"Feature": "Primal Path Feature"
 				},
 				{
 					"Level": 14,
-					"Features": "Primal Path Feature"
+					"Feature": "Primal Path Feature"
 				},
 				{
 					"Level": 19,
-					"Features": "Primal Path Feature"
+					"Feature": "Primal Path Feature"
 				}
 			]
 		}

@@ -6,7 +6,7 @@
 			"progression": [
 				{
 					"Level": 1,
-					"Features": "Spellcasting"
+					"Feature": "Spellcasting"
 				}
 			],
 			"variables": {
@@ -17,7 +17,7 @@
 			"progression": [
 				{
 					"Level": 1,
-					"Features": "Spellcasting"
+					"Feature": "Spellcasting"
 				}
 			],
 			"variables": {

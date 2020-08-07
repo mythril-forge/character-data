@@ -6,23 +6,23 @@
 			"progression": [
 				{
 					"Level": 4,
-					"Features": "Ability Score Improvement"
+					"Feature": "Ability Score Improvement"
 				},
 				{
 					"Level": 8,
-					"Features": "Ability Score Improvement"
+					"Feature": "Ability Score Improvement"
 				},
 				{
 					"Level": 12,
-					"Features": "Ability Score Improvement"
+					"Feature": "Ability Score Improvement"
 				},
 				{
 					"Level": 16,
-					"Features": "Ability Score Improvement"
+					"Feature": "Ability Score Improvement"
 				},
 				{
 					"Level": 20,
-					"Features": "Ability Score Improvement"
+					"Feature": "Ability Score Improvement"
 				}
 			]
 		},
@@ -30,23 +30,23 @@
 			"progression": [
 				{
 					"Level": 4,
-					"Features": "Ability Score Improvement"
+					"Feature": "Ability Score Improvement"
 				},
 				{
 					"Level": 8,
-					"Features": "Ability Score Improvement"
+					"Feature": "Ability Score Improvement"
 				},
 				{
 					"Level": 12,
-					"Features": "Ability Score Improvement"
+					"Feature": "Ability Score Improvement"
 				},
 				{
 					"Level": 16,
-					"Features": "Ability Score Improvement"
+					"Feature": "Ability Score Improvement"
 				},
 				{
 					"Level": 20,
-					"Features": "Ability Score Improvement"
+					"Feature": "Ability Score Improvement"
 				}
 			]
 		},
@@ -54,31 +54,31 @@
 			"progression": [
 				{
 					"Level": 4,
-					"Features": "Ability Score Improvement"
+					"Feature": "Ability Score Improvement"
 				},
 				{
 					"Level": 6,
-					"Features": "Ability Score Improvement"
+					"Feature": "Ability Score Improvement"
 				},
 				{
 					"Level": 8,
-					"Features": "Ability Score Improvement"
+					"Feature": "Ability Score Improvement"
 				},
 				{
 					"Level": 12,
-					"Features": "Ability Score Improvement"
+					"Feature": "Ability Score Improvement"
 				},
 				{
 					"Level": 14,
-					"Features": "Ability Score Improvement"
+					"Feature": "Ability Score Improvement"
 				},
 				{
 					"Level": 16,
-					"Features": "Ability Score Improvement"
+					"Feature": "Ability Score Improvement"
 				},
 				{
 					"Level": 20,
-					"Features": "Ability Score Improvement"
+					"Feature": "Ability Score Improvement"
 				}
 			]
 		},
@@ -86,31 +86,31 @@
 			"progression": [
 				{
 					"Level": 4,
-					"Features": "Ability Score Improvement"
+					"Feature": "Ability Score Improvement"
 				},
 				{
 					"Level": 8,
-					"Features": "Ability Score Improvement"
+					"Feature": "Ability Score Improvement"
 				},
 				{
 					"Level": 10,
-					"Features": "Ability Score Improvement"
+					"Feature": "Ability Score Improvement"
 				},
 				{
 					"Level": 12,
-					"Features": "Ability Score Improvement"
+					"Feature": "Ability Score Improvement"
 				},
 				{
 					"Level": 16,
-					"Features": "Ability Score Improvement"
+					"Feature": "Ability Score Improvement"
 				},
 				{
 					"Level": 18,
-					"Features": "Ability Score Improvement"
+					"Feature": "Ability Score Improvement"
 				},
 				{
 					"Level": 20,
-					"Features": "Ability Score Improvement"
+					"Feature": "Ability Score Improvement"
 				}
 			]
 		},
@@ -118,23 +118,23 @@
 			"progression": [
 				{
 					"Level": 4,
-					"Features": "Ability Score Improvement"
+					"Feature": "Ability Score Improvement"
 				},
 				{
 					"Level": 8,
-					"Features": "Ability Score Improvement"
+					"Feature": "Ability Score Improvement"
 				},
 				{
 					"Level": 12,
-					"Features": "Ability Score Improvement"
+					"Feature": "Ability Score Improvement"
 				},
 				{
 					"Level": 16,
-					"Features": "Ability Score Improvement"
+					"Feature": "Ability Score Improvement"
 				},
 				{
 					"Level": 20,
-					"Features": "Ability Score Improvement"
+					"Feature": "Ability Score Improvement"
 				}
 			]
 		}

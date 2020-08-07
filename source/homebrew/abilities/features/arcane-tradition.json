@@ -6,23 +6,23 @@
 			"progression": [
 				{
 					"Level": 2,
-					"Features": "Arcane Tradition"
+					"Feature": "Arcane Tradition"
 				},
 				{
 					"Level": 6,
-					"Features": "Arcane Tradition Feature"
+					"Feature": "Arcane Tradition Feature"
 				},
 				{
 					"Level": 10,
-					"Features": "Arcane Tradition Feature"
+					"Feature": "Arcane Tradition Feature"
 				},
 				{
 					"Level": 14,
-					"Features": "Arcane Tradition Feature"
+					"Feature": "Arcane Tradition Feature"
 				},
 				{
 					"Level": 18,
-					"Features": "Arcane Tradition Feature"
+					"Feature": "Arcane Tradition Feature"
 				}
 			]
 		}

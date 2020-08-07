@@ -6,7 +6,7 @@
 			"progression": [
 				{
 					"Level": 3,
-					"Features": "Second Wind (1/rest)",
+					"Feature": "Second Wind (1/rest)",
 					"Second Wind": "3d4"
 				},
 				{
@@ -71,7 +71,7 @@
 				},
 				{
 					"Level": 19,
-					"Features": "Second Wind (2/rest)",
+					"Feature": "Second Wind (2/rest)",
 					"Second Wind": "19d4"
 				},
 				{
