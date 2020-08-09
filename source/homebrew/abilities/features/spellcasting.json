@@ -9,6 +9,9 @@
 					"Feature": "Spellcasting"
 				}
 			],
+			"children": [
+				"full-casting"
+			],
 			"variables": {
 				"spellcasting-introduction": "As a conduit for divine power, you can cast spells"
 			}
@@ -19,6 +22,9 @@
 					"Level": 1,
 					"Feature": "Spellcasting"
 				}
+			],
+			"children": [
+				"full-casting"
 			],
 			"variables": {
 				"spellcasting-introduction": "As a student of arcane magic, you have a spellbook containing the research that shows the first glimmerings of your true power"
