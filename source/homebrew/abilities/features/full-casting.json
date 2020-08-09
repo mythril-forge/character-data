@@ -6,212 +6,252 @@
 			"progression": [
 				{
 					"Level": 1,
+					"Max. Spells Learned": "infinite",
+					"Max. Spells Prepared": "1 + wis. modifier",
 					"Spell Slots per Slot Level": {
-						"1st-Level Spell Slots": 1
+						"1st": 1
 					}
 				},
 				{
 					"Level": 2,
+					"Max. Spells Learned": "infinite",
+					"Max. Spells Prepared": "3 + wis. modifier",
 					"Spell Slots per Slot Level": {
-						"1st-Level Spell Slots": 2
+						"1st": 2
 					}
 				},
 				{
 					"Level": 3,
+					"Max. Spells Learned": "infinite",
+					"Max. Spells Prepared": "4 + wis. modifier",
 					"Spell Slots per Slot Level": {
-						"1st-Level Spell Slots": 3,
-						"2nd-Level Spell Slots": 1
+						"1st": 3,
+						"2nd": 1
 					}
 				},
 				{
 					"Level": 4,
+					"Max. Spells Learned": "infinite",
+					"Max. Spells Prepared": "6 + wis. modifier",
 					"Spell Slots per Slot Level": {
-						"1st-Level Spell Slots": 3,
-						"2nd-Level Spell Slots": 2
+						"1st": 3,
+						"2nd": 2
 					}
 				},
 				{
 					"Level": 5,
+					"Max. Spells Learned": "infinite",
+					"Max. Spells Prepared": "7 + wis. modifier",
 					"Spell Slots per Slot Level": {
-						"1st-Level Spell Slots": 3,
-						"2nd-Level Spell Slots": 3,
-						"3rd-Level Spell Slots": 1
+						"1st": 3,
+						"2nd": 3,
+						"3rd": 1
 					}
 				},
 				{
 					"Level": 6,
+					"Max. Spells Learned": "infinite",
+					"Max. Spells Prepared": "8 + wis. modifier",
 					"Spell Slots per Slot Level": {
-						"1st-Level Spell Slots": 4,
-						"2nd-Level Spell Slots": 3,
-						"3rd-Level Spell Slots": 1
+						"1st": 4,
+						"2nd": 3,
+						"3rd": 1
 					}
 				},
 				{
 					"Level": 7,
+					"Max. Spells Learned": "infinite",
+					"Max. Spells Prepared": "9 + wis. modifier",
 					"Spell Slots per Slot Level": {
-						"1st-Level Spell Slots": 4,
-						"2nd-Level Spell Slots": 3,
-						"3rd-Level Spell Slots": 2,
-						"4th-Level Spell Slots": 1
+						"1st": 4,
+						"2nd": 3,
+						"3rd": 2,
+						"4th": 1
 					}
 				},
 				{
 					"Level": 8,
+					"Max. Spells Learned": "infinite",
+					"Max. Spells Prepared": "11 + wis. modifier",
 					"Spell Slots per Slot Level": {
-						"1st-Level Spell Slots": 4,
-						"2nd-Level Spell Slots": 4,
-						"3rd-Level Spell Slots": 2,
-						"4th-Level Spell Slots": 1
+						"1st": 4,
+						"2nd": 4,
+						"3rd": 2,
+						"4th": 1
 					}
 				},
 				{
 					"Level": 9,
+					"Max. Spells Learned": "infinite",
+					"Max. Spells Prepared": "12 + wis. modifier",
 					"Spell Slots per Slot Level": {
-						"1st-Level Spell Slots": 4,
-						"2nd-Level Spell Slots": 4,
-						"3rd-Level Spell Slots": 2,
-						"4th-Level Spell Slots": 2,
-						"5th-Level Spell Slots": 1
+						"1st": 4,
+						"2nd": 4,
+						"3rd": 2,
+						"4th": 2,
+						"5th": 1
 					}
 				},
 				{
 					"Level": 10,
+					"Max. Spells Learned": "infinite",
+					"Max. Spells Prepared": "14 + wis. modifier",
 					"Spell Slots per Slot Level": {
-						"1st-Level Spell Slots": 4,
-						"2nd-Level Spell Slots": 4,
-						"3rd-Level Spell Slots": 3,
-						"4th-Level Spell Slots": 2,
-						"5th-Level Spell Slots": 1
+						"1st": 4,
+						"2nd": 4,
+						"3rd": 3,
+						"4th": 2,
+						"5th": 1
 					}
 				},
 				{
 					"Level": 11,
+					"Max. Spells Learned": "infinite",
+					"Max. Spells Prepared": "15 + wis. modifier",
 					"Spell Slots per Slot Level": {
-						"1st-Level Spell Slots": 4,
-						"2nd-Level Spell Slots": 4,
-						"3rd-Level Spell Slots": 3,
-						"4th-Level Spell Slots": 2,
-						"5th-Level Spell Slots": 2,
-						"6th-Level Spell Slots": 1
+						"1st": 4,
+						"2nd": 4,
+						"3rd": 3,
+						"4th": 2,
+						"5th": 2,
+						"6th": 1
 					}
 				},
 				{
 					"Level": 12,
+					"Max. Spells Learned": "infinite",
+					"Max. Spells Prepared": "16 + wis. modifier",
 					"Spell Slots per Slot Level": {
-						"1st-Level Spell Slots": 4,
-						"2nd-Level Spell Slots": 4,
-						"3rd-Level Spell Slots": 3,
-						"4th-Level Spell Slots": 3,
-						"5th-Level Spell Slots": 2,
-						"6th-Level Spell Slots": 1
+						"1st": 4,
+						"2nd": 4,
+						"3rd": 3,
+						"4th": 3,
+						"5th": 2,
+						"6th": 1
 					}
 				},
 				{
 					"Level": 13,
+					"Max. Spells Learned": "infinite",
+					"Max. Spells Prepared": "17 + wis. modifier",
 					"Spell Slots per Slot Level": {
-						"1st-Level Spell Slots": 4,
-						"2nd-Level Spell Slots": 4,
-						"3rd-Level Spell Slots": 3,
-						"4th-Level Spell Slots": 3,
-						"5th-Level Spell Slots": 2,
-						"6th-Level Spell Slots": 1,
-						"7th-Level Spell Slots": 1
+						"1st": 4,
+						"2nd": 4,
+						"3rd": 3,
+						"4th": 3,
+						"5th": 2,
+						"6th": 1,
+						"7th": 1
 					}
 				},
 				{
 					"Level": 14,
+					"Max. Spells Learned": "infinite",
+					"Max. Spells Prepared": "18 + wis. modifier",
 					"Spell Slots per Slot Level": {
-						"1st-Level Spell Slots": 4,
-						"2nd-Level Spell Slots": 4,
-						"3rd-Level Spell Slots": 3,
-						"4th-Level Spell Slots": 3,
-						"5th-Level Spell Slots": 3,
-						"6th-Level Spell Slots": 1,
-						"7th-Level Spell Slots": 1
+						"1st": 4,
+						"2nd": 4,
+						"3rd": 3,
+						"4th": 3,
+						"5th": 3,
+						"6th": 1,
+						"7th": 1
 					}
 				},
 				{
 					"Level": 15,
+					"Max. Spells Learned": "infinite",
+					"Max. Spells Prepared": "19 + wis. modifier",
 					"Spell Slots per Slot Level": {
-						"1st-Level Spell Slots": 4,
-						"2nd-Level Spell Slots": 4,
-						"3rd-Level Spell Slots": 3,
-						"4th-Level Spell Slots": 3,
-						"5th-Level Spell Slots": 3,
-						"6th-Level Spell Slots": 1,
-						"7th-Level Spell Slots": 1,
-						"8th-Level Spell Slots": 1
+						"1st": 4,
+						"2nd": 4,
+						"3rd": 3,
+						"4th": 3,
+						"5th": 3,
+						"6th": 1,
+						"7th": 1,
+						"8th": 1
 					}
 				},
 				{
 					"Level": 16,
+					"Max. Spells Learned": "infinite",
+					"Max. Spells Prepared": "20 + wis. modifier",
 					"Spell Slots per Slot Level": {
-						"1st-Level Spell Slots": 4,
-						"2nd-Level Spell Slots": 4,
-						"3rd-Level Spell Slots": 3,
-						"4th-Level Spell Slots": 3,
-						"5th-Level Spell Slots": 3,
-						"6th-Level Spell Slots": 2,
-						"7th-Level Spell Slots": 1,
-						"8th-Level Spell Slots": 1
+						"1st": 4,
+						"2nd": 4,
+						"3rd": 3,
+						"4th": 3,
+						"5th": 3,
+						"6th": 2,
+						"7th": 1,
+						"8th": 1
 					}
 				},
 				{
 					"Level": 17,
+					"Max. Spells Learned": "infinite",
+					"Max. Spells Prepared": "21 + wis. modifier",
 					"Spell Slots per Slot Level": {
-						"1st-Level Spell Slots": 4,
-						"2nd-Level Spell Slots": 4,
-						"3rd-Level Spell Slots": 3,
-						"4th-Level Spell Slots": 3,
-						"5th-Level Spell Slots": 3,
-						"6th-Level Spell Slots": 2,
-						"7th-Level Spell Slots": 1,
-						"8th-Level Spell Slots": 1,
-						"9th-Level Spell Slots": 1
+						"1st": 4,
+						"2nd": 4,
+						"3rd": 3,
+						"4th": 3,
+						"5th": 3,
+						"6th": 2,
+						"7th": 1,
+						"8th": 1,
+						"9th": 1
 					}
 				},
 				{
 					"Level": 18,
+					"Max. Spells Learned": "infinite",
+					"Max. Spells Prepared": "22 + wis. modifier",
 					"Spell Slots per Slot Level": {
-						"1st-Level Spell Slots": 4,
-						"2nd-Level Spell Slots": 4,
-						"3rd-Level Spell Slots": 3,
-						"4th-Level Spell Slots": 3,
-						"5th-Level Spell Slots": 3,
-						"6th-Level Spell Slots": 2,
-						"7th-Level Spell Slots": 2,
-						"8th-Level Spell Slots": 1,
-						"9th-Level Spell Slots": 1
+						"1st": 4,
+						"2nd": 4,
+						"3rd": 3,
+						"4th": 3,
+						"5th": 3,
+						"6th": 2,
+						"7th": 2,
+						"8th": 1,
+						"9th": 1
 					}
 				},
 				{
 					"Level": 19,
+					"Max. Spells Learned": "infinite",
+					"Max. Spells Prepared": "23 + wis. modifier",
 					"Spell Slots per Slot Level": {
-						"1st-Level Spell Slots": 4,
-						"2nd-Level Spell Slots": 4,
-						"3rd-Level Spell Slots": 3,
-						"4th-Level Spell Slots": 3,
-						"5th-Level Spell Slots": 3,
-						"6th-Level Spell Slots": 2,
-						"7th-Level Spell Slots": 2,
-						"8th-Level Spell Slots": 1,
-						"9th-Level Spell Slots": 1,
-						"10th-Level Spell Slots": 1
+						"1st": 4,
+						"2nd": 4,
+						"3rd": 3,
+						"4th": 3,
+						"5th": 3,
+						"6th": 2,
+						"7th": 2,
+						"8th": 1,
+						"9th": 1,
+						"10th": 1
 					}
 				},
 				{
 					"Level": 20,
+					"Max. Spells Learned": "infinite",
+					"Max. Spells Prepared": "24 + wis. modifier",
 					"Spell Slots per Slot Level": {
-						"1st-Level Spell Slots": 4,
-						"2nd-Level Spell Slots": 4,
-						"3rd-Level Spell Slots": 3,
-						"4th-Level Spell Slots": 3,
-						"5th-Level Spell Slots": 3,
-						"6th-Level Spell Slots": 2,
-						"7th-Level Spell Slots": 2,
-						"8th-Level Spell Slots": 2,
-						"9th-Level Spell Slots": 1,
-						"10th-Level Spell Slots": 1
+						"1st": 4,
+						"2nd": 4,
+						"3rd": 3,
+						"4th": 3,
+						"5th": 3,
+						"6th": 2,
+						"7th": 2,
+						"8th": 2,
+						"9th": 1,
+						"10th": 1
 					}
 				}
 			]
@@ -220,212 +260,252 @@
 			"progression": [
 				{
 					"Level": 1,
+					"Max. Spells Learned": "3 + int. modifier",
+					"Max. Spells Prepared": "3 + int. modifier",
 					"Spell Slots per Slot Level": {
-						"1st-Level Spell Slots": 1
+						"1st": 1
 					}
 				},
 				{
 					"Level": 2,
+					"Max. Spells Learned": "4 + int. modifier",
+					"Max. Spells Prepared": "4 + int. modifier",
 					"Spell Slots per Slot Level": {
-						"1st-Level Spell Slots": 2
+						"1st": 2
 					}
 				},
 				{
 					"Level": 3,
+					"Max. Spells Learned": "5 + int. modifier",
+					"Max. Spells Prepared": "5 + int. modifier",
 					"Spell Slots per Slot Level": {
-						"1st-Level Spell Slots": 3,
-						"2nd-Level Spell Slots": 1
+						"1st": 3,
+						"2nd": 1
 					}
 				},
 				{
 					"Level": 4,
+					"Max. Spells Learned": "7 + int. modifier",
+					"Max. Spells Prepared": "7 + int. modifier",
 					"Spell Slots per Slot Level": {
-						"1st-Level Spell Slots": 3,
-						"2nd-Level Spell Slots": 2
+						"1st": 3,
+						"2nd": 2
 					}
 				},
 				{
 					"Level": 5,
+					"Max. Spells Learned": "10 + int. modifier",
+					"Max. Spells Prepared": "10 + int. modifier",
 					"Spell Slots per Slot Level": {
-						"1st-Level Spell Slots": 3,
-						"2nd-Level Spell Slots": 3,
-						"3rd-Level Spell Slots": 1
+						"1st": 3,
+						"2nd": 3,
+						"3rd": 1
 					}
 				},
 				{
 					"Level": 6,
+					"Max. Spells Learned": "12 + int. modifier",
+					"Max. Spells Prepared": "12 + int. modifier",
 					"Spell Slots per Slot Level": {
-						"1st-Level Spell Slots": 4,
-						"2nd-Level Spell Slots": 3,
-						"3rd-Level Spell Slots": 1
+						"1st": 4,
+						"2nd": 3,
+						"3rd": 1
 					}
 				},
 				{
 					"Level": 7,
+					"Max. Spells Learned": "13 + int. modifier",
+					"Max. Spells Prepared": "13 + int. modifier",
 					"Spell Slots per Slot Level": {
-						"1st-Level Spell Slots": 4,
-						"2nd-Level Spell Slots": 3,
-						"3rd-Level Spell Slots": 2,
-						"4th-Level Spell Slots": 1
+						"1st": 4,
+						"2nd": 3,
+						"3rd": 2,
+						"4th": 1
 					}
 				},
 				{
 					"Level": 8,
+					"Max. Spells Learned": "14 + int. modifier",
+					"Max. Spells Prepared": "14 + int. modifier",
 					"Spell Slots per Slot Level": {
-						"1st-Level Spell Slots": 4,
-						"2nd-Level Spell Slots": 4,
-						"3rd-Level Spell Slots": 2,
-						"4th-Level Spell Slots": 1
+						"1st": 4,
+						"2nd": 4,
+						"3rd": 2,
+						"4th": 1
 					}
 				},
 				{
 					"Level": 9,
+					"Max. Spells Learned": "15 + int. modifier",
+					"Max. Spells Prepared": "15 + int. modifier",
 					"Spell Slots per Slot Level": {
-						"1st-Level Spell Slots": 4,
-						"2nd-Level Spell Slots": 4,
-						"3rd-Level Spell Slots": 2,
-						"4th-Level Spell Slots": 2,
-						"5th-Level Spell Slots": 1
+						"1st": 4,
+						"2nd": 4,
+						"3rd": 2,
+						"4th": 2,
+						"5th": 1
 					}
 				},
 				{
 					"Level": 10,
+					"Max. Spells Learned": "17 + int. modifier",
+					"Max. Spells Prepared": "17 + int. modifier",
 					"Spell Slots per Slot Level": {
-						"1st-Level Spell Slots": 4,
-						"2nd-Level Spell Slots": 4,
-						"3rd-Level Spell Slots": 3,
-						"4th-Level Spell Slots": 2,
-						"5th-Level Spell Slots": 1
+						"1st": 4,
+						"2nd": 4,
+						"3rd": 3,
+						"4th": 2,
+						"5th": 1
 					}
 				},
 				{
 					"Level": 11,
+					"Max. Spells Learned": "20 + int. modifier",
+					"Max. Spells Prepared": "20 + int. modifier",
 					"Spell Slots per Slot Level": {
-						"1st-Level Spell Slots": 4,
-						"2nd-Level Spell Slots": 4,
-						"3rd-Level Spell Slots": 3,
-						"4th-Level Spell Slots": 2,
-						"5th-Level Spell Slots": 2,
-						"6th-Level Spell Slots": 1
+						"1st": 4,
+						"2nd": 4,
+						"3rd": 3,
+						"4th": 2,
+						"5th": 2,
+						"6th": 1
 					}
 				},
 				{
 					"Level": 12,
+					"Max. Spells Learned": "22 + int. modifier",
+					"Max. Spells Prepared": "22 + int. modifier",
 					"Spell Slots per Slot Level": {
-						"1st-Level Spell Slots": 4,
-						"2nd-Level Spell Slots": 4,
-						"3rd-Level Spell Slots": 3,
-						"4th-Level Spell Slots": 3,
-						"5th-Level Spell Slots": 2,
-						"6th-Level Spell Slots": 1
+						"1st": 4,
+						"2nd": 4,
+						"3rd": 3,
+						"4th": 3,
+						"5th": 2,
+						"6th": 1
 					}
 				},
 				{
 					"Level": 13,
+					"Max. Spells Learned": "23 + int. modifier",
+					"Max. Spells Prepared": "23 + int. modifier",
 					"Spell Slots per Slot Level": {
-						"1st-Level Spell Slots": 4,
-						"2nd-Level Spell Slots": 4,
-						"3rd-Level Spell Slots": 3,
-						"4th-Level Spell Slots": 3,
-						"5th-Level Spell Slots": 2,
-						"6th-Level Spell Slots": 1,
-						"7th-Level Spell Slots": 1
+						"1st": 4,
+						"2nd": 4,
+						"3rd": 3,
+						"4th": 3,
+						"5th": 2,
+						"6th": 1,
+						"7th": 1
 					}
 				},
 				{
 					"Level": 14,
+					"Max. Spells Learned": "24 + int. modifier",
+					"Max. Spells Prepared": "24 + int. modifier",
 					"Spell Slots per Slot Level": {
-						"1st-Level Spell Slots": 4,
-						"2nd-Level Spell Slots": 4,
-						"3rd-Level Spell Slots": 3,
-						"4th-Level Spell Slots": 3,
-						"5th-Level Spell Slots": 3,
-						"6th-Level Spell Slots": 1,
-						"7th-Level Spell Slots": 1
+						"1st": 4,
+						"2nd": 4,
+						"3rd": 3,
+						"4th": 3,
+						"5th": 3,
+						"6th": 1,
+						"7th": 1
 					}
 				},
 				{
 					"Level": 15,
+					"Max. Spells Learned": "25 + int. modifier",
+					"Max. Spells Prepared": "25 + int. modifier",
 					"Spell Slots per Slot Level": {
-						"1st-Level Spell Slots": 4,
-						"2nd-Level Spell Slots": 4,
-						"3rd-Level Spell Slots": 3,
-						"4th-Level Spell Slots": 3,
-						"5th-Level Spell Slots": 3,
-						"6th-Level Spell Slots": 1,
-						"7th-Level Spell Slots": 1,
-						"8th-Level Spell Slots": 1
+						"1st": 4,
+						"2nd": 4,
+						"3rd": 3,
+						"4th": 3,
+						"5th": 3,
+						"6th": 1,
+						"7th": 1,
+						"8th": 1
 					}
 				},
 				{
 					"Level": 16,
+					"Max. Spells Learned": "27 + int. modifier",
+					"Max. Spells Prepared": "27 + int. modifier",
 					"Spell Slots per Slot Level": {
-						"1st-Level Spell Slots": 4,
-						"2nd-Level Spell Slots": 4,
-						"3rd-Level Spell Slots": 3,
-						"4th-Level Spell Slots": 3,
-						"5th-Level Spell Slots": 3,
-						"6th-Level Spell Slots": 2,
-						"7th-Level Spell Slots": 1,
-						"8th-Level Spell Slots": 1
+						"1st": 4,
+						"2nd": 4,
+						"3rd": 3,
+						"4th": 3,
+						"5th": 3,
+						"6th": 2,
+						"7th": 1,
+						"8th": 1
 					}
 				},
 				{
 					"Level": 17,
+					"Max. Spells Learned": "30 + int. modifier",
+					"Max. Spells Prepared": "30 + int. modifier",
 					"Spell Slots per Slot Level": {
-						"1st-Level Spell Slots": 4,
-						"2nd-Level Spell Slots": 4,
-						"3rd-Level Spell Slots": 3,
-						"4th-Level Spell Slots": 3,
-						"5th-Level Spell Slots": 3,
-						"6th-Level Spell Slots": 2,
-						"7th-Level Spell Slots": 1,
-						"8th-Level Spell Slots": 1,
-						"9th-Level Spell Slots": 1
+						"1st": 4,
+						"2nd": 4,
+						"3rd": 3,
+						"4th": 3,
+						"5th": 3,
+						"6th": 2,
+						"7th": 1,
+						"8th": 1,
+						"9th": 1
 					}
 				},
 				{
 					"Level": 18,
+					"Max. Spells Learned": "32 + int. modifier",
+					"Max. Spells Prepared": "32 + int. modifier",
 					"Spell Slots per Slot Level": {
-						"1st-Level Spell Slots": 4,
-						"2nd-Level Spell Slots": 4,
-						"3rd-Level Spell Slots": 3,
-						"4th-Level Spell Slots": 3,
-						"5th-Level Spell Slots": 3,
-						"6th-Level Spell Slots": 2,
-						"7th-Level Spell Slots": 2,
-						"8th-Level Spell Slots": 1,
-						"9th-Level Spell Slots": 1
+						"1st": 4,
+						"2nd": 4,
+						"3rd": 3,
+						"4th": 3,
+						"5th": 3,
+						"6th": 2,
+						"7th": 2,
+						"8th": 1,
+						"9th": 1
 					}
 				},
 				{
 					"Level": 19,
+					"Max. Spells Learned": "33 + int. modifier",
+					"Max. Spells Prepared": "33 + int. modifier",
 					"Spell Slots per Slot Level": {
-						"1st-Level Spell Slots": 4,
-						"2nd-Level Spell Slots": 4,
-						"3rd-Level Spell Slots": 3,
-						"4th-Level Spell Slots": 3,
-						"5th-Level Spell Slots": 3,
-						"6th-Level Spell Slots": 2,
-						"7th-Level Spell Slots": 2,
-						"8th-Level Spell Slots": 1,
-						"9th-Level Spell Slots": 1,
-						"10th-Level Spell Slots": 1
+						"1st": 4,
+						"2nd": 4,
+						"3rd": 3,
+						"4th": 3,
+						"5th": 3,
+						"6th": 2,
+						"7th": 2,
+						"8th": 1,
+						"9th": 1,
+						"10th": 1
 					}
 				},
 				{
 					"Level": 20,
+					"Max. Spells Learned": "34 + int. modifier",
+					"Max. Spells Prepared": "34 + int. modifier",
 					"Spell Slots per Slot Level": {
-						"1st-Level Spell Slots": 4,
-						"2nd-Level Spell Slots": 4,
-						"3rd-Level Spell Slots": 3,
-						"4th-Level Spell Slots": 3,
-						"5th-Level Spell Slots": 3,
-						"6th-Level Spell Slots": 2,
-						"7th-Level Spell Slots": 2,
-						"8th-Level Spell Slots": 2,
-						"9th-Level Spell Slots": 1,
-						"10th-Level Spell Slots": 1
+						"1st": 4,
+						"2nd": 4,
+						"3rd": 3,
+						"4th": 3,
+						"5th": 3,
+						"6th": 2,
+						"7th": 2,
+						"8th": 2,
+						"9th": 1,
+						"10th": 1
 					}
 				}
 			]
