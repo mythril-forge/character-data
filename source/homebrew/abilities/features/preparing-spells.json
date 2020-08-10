@@ -1,4 +1,16 @@
 {
 	"name": "Preparing Spells",
-	"slug": "preparing-spells"
+	"slug": "preparing-spells",
+	"classes": {
+		"cleric": {
+			"variables": {
+				"preparing-spells": "in prayer and meditation"
+			}
+		},
+		"wizard": {
+			"variables": {
+				"preparing-spells": "memorizing incantations and gestures"
+			}
+		}
+	}
 }
