@@ -1,8 +1,10 @@
 {
-	"Hit Dice": "1d12",
-	"Base Classing": {
-		"Proficiencies": {
-			"Armor": [
+	"slug": "barbarian",
+	"name": "Barbarian",
+	"hit-dice": "1d12",
+	"starting-out": {
+		"proficiencies": {
+			"armor": [
 				{
 					"choose": null,
 					"selection": [
@@ -12,7 +14,7 @@
 					]
 				}
 			],
-			"Weapons": [
+			"weapons": [
 				{
 					"choose": null,
 					"selection": [
@@ -21,16 +23,16 @@
 					]
 				}
 			],
-			"Saving Throws": [
+			"saving-throws": [
 				{
 					"choose": null,
 					"selection": [
-						"Strength",
-						"Constitution"
+						"strength",
+						"constitution"
 					]
 				}
 			],
-			"Skills": [
+			"skills": [
 				{
 					"choose": 2,
 					"selection": [
@@ -42,11 +44,9 @@
 						"survival"
 					]
 				}
-			],
-			"Tools": [],
-			"Languages": []
+			]
 		},
-		"Starting Equipment": [
+		"equipment": [
 			{
 				"choose": 1,
 				"selection": [
@@ -67,16 +67,22 @@
 					"an explorer's pack",
 					"4 javelins"
 				]
+			},
+			{
+				"choose": null,
+				"selection": [
+					"a belt purse",
+					"2d4 × 10 silver pieces"
+				]
 			}
-		],
-		"Initial Funds": "2d4 × 10"
+		]
 	},
-	"Multiclassing": {
-		"Prerequisites": {
-			"Strength": 15
+	"multiclassing": {
+		"prerequisites": {
+			"strength": 15
 		},
-		"Proficiencies": {
-			"Armor": [
+		"proficiencies": {
+			"armor": [
 				{
 					"choose": null,
 					"selection": [
@@ -84,7 +90,7 @@
 					]
 				}
 			],
-			"Weapons": [
+			"weapons": [
 				{
 					"choose": null,
 					"selection": [
@@ -92,11 +98,7 @@
 						"martial weapons"
 					]
 				}
-			],
-			"Saving Throws": [],
-			"Skills": [],
-			"Tools": [],
-			"Languages": []
+			]
 		}
 	}
 }

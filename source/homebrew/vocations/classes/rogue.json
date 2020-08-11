@@ -1,8 +1,10 @@
 {
-	"Hit Dice": "1d8",
-	"Base Classing": {
-		"Proficiencies": {
-			"Armor": [
+	"slug": "rogue",
+	"name": "Rogue",
+	"hit-dice": "1d8",
+	"starting-out": {
+		"proficiencies": {
+			"armor": [
 				{
 					"choose": null,
 					"selection": [
@@ -10,7 +12,7 @@
 					]
 				}
 			],
-			"Weapons": [
+			"weapons": [
 				{
 					"choose": null,
 					"selection": [
@@ -18,20 +20,18 @@
 						"longswords",
 						"rapiers",
 						"shortswords",
-						"wrist crossbows"
+						"hand crossbows"
 					]
-				}
-			],
-			"Saving Throws": [
+				},
 				{
 					"choose": null,
 					"selection": [
-						"Dexterity",
-						"Intelligence"
+						"dexterity",
+						"intelligence"
 					]
 				}
 			],
-			"Skills": [
+			"skills": [
 				{
 					"choose": 4,
 					"selection": [
@@ -49,24 +49,16 @@
 					]
 				}
 			],
-			"Tools": [
+			"tools": [
 				{
 					"choose": null,
 					"selection": [
 						"thieves' tools"
 					]
 				}
-			],
-			"Languages": [
-				{
-					"choose": null,
-					"selection": [
-						"thieves' cant"
-					]
-				}
 			]
 		},
-		"Starting Equipment": [
+		"equipment": [
 			{
 				"choose": 1,
 				"selection": [
@@ -102,16 +94,22 @@
 					"2 daggers",
 					"thieves' tools"
 				]
+			},
+			{
+				"choose": null,
+				"selection": [
+					"a belt purse",
+					"4d4 × 10 silver pieces"
+				]
 			}
-		],
-		"Initial Funds": "4d4 × 10"
+		]
 	},
-	"Multiclassing": {
-		"Prerequisites": {
-			"Dexterity": 15
+	"multiclassing": {
+		"prerequisites": {
+			"dexterity": 15
 		},
-		"Proficiencies": {
-			"Armor": [
+		"proficiencies": {
+			"armor": [
 				{
 					"choose": null,
 					"selection": [
@@ -119,9 +117,7 @@
 					]
 				}
 			],
-			"Weapons": [],
-			"Saving Throws": [],
-			"Skills": [
+			"skills": [
 				{
 					"choose": 1,
 					"selection": [
@@ -139,15 +135,14 @@
 					]
 				}
 			],
-			"Tools": [
+			"tools": [
 				{
 					"choose": null,
 					"selection": [
 						"thieves' tools"
 					]
 				}
-			],
-			"Languages": []
+			]
 		}
 	}
 }

@@ -1,8 +1,10 @@
 {
-	"Hit Dice": "1d10",
-	"Base Classing": {
-		"Proficiencies": {
-			"Armor": [
+	"slug": "fighter",
+	"name": "Fighter",
+	"hit-dice": "1d10",
+	"starting-out": {
+		"proficiencies": {
+			"armor": [
 				{
 					"choose": null,
 					"selection": [
@@ -13,7 +15,7 @@
 					]
 				}
 			],
-			"Weapons": [
+			"weapons": [
 				{
 					"choose": null,
 					"selection": [
@@ -22,16 +24,16 @@
 					]
 				}
 			],
-			"Saving Throws": [
+			"saving-throws": [
 				{
 					"choose": null,
 					"selection": [
-						"Strength",
-						"Constitution"
+						"strength",
+						"constitution"
 					]
 				}
 			],
-			"Skills": [
+			"skills": [
 				{
 					"choose": 2,
 					"selection": [
@@ -45,21 +47,9 @@
 						"survival"
 					]
 				}
-			],
-			"Tools": [
-				{
-					"choose": null,
-					"selection": []
-				}
-			],
-			"Languages": [
-				{
-					"choose": null,
-					"selection": []
-				}
 			]
 		},
-		"Starting Equipment": [
+		"equipment": [
 			{
 				"choose": 1,
 				"selection": [
@@ -99,16 +89,23 @@
 					"a dungeoneer's pack",
 					"an explorer's pack"
 				]
+			},
+			{
+				"choose": null,
+				"selection": [
+					"a belt purse",
+					"5d4 × 10 silver pieces"
+				]
 			}
-		],
-		"Initial Funds": "5d4 × 10"
+		]
 	},
-	"Multiclassing": {
-		"Prerequisites": {
-			"Sum of Strength and Dexterity": 24
+	"multiclassing": {
+		"prerequisites": {
+			"strength": 11,
+			"dexterity": 11
 		},
-		"Proficiencies": {
-			"Armor": [
+		"proficiencies": {
+			"armor": [
 				{
 					"choose": null,
 					"selection": [
@@ -118,7 +115,7 @@
 					]
 				}
 			],
-			"Weapons": [
+			"weapons": [
 				{
 					"choose": null,
 					"selection": [
@@ -126,11 +123,7 @@
 						"martial weapons"
 					]
 				}
-			],
-			"Saving Throws": [],
-			"Skills": [],
-			"Tools": [],
-			"Languages": []
+			]
 		}
 	}
 }

@@ -1,8 +1,10 @@
 {
-	"Hit Dice": "1d8",
-	"Base Classing": {
-		"Proficiencies": {
-			"Armor": [
+	"slug": "cleric",
+	"name": "Cleric",
+	"hit-dice": "1d8",
+	"starting-out": {
+		"proficiencies": {
+			"armor": [
 				{
 					"choose": null,
 					"selection": [
@@ -12,7 +14,7 @@
 					]
 				}
 			],
-			"Weapons": [
+			"weapons": [
 				{
 					"choose": null,
 					"selection": [
@@ -20,16 +22,16 @@
 					]
 				}
 			],
-			"Saving Throws": [
+			"saving-throws": [
 				{
 					"choose": null,
 					"selection": [
-						"Wisdom",
-						"Charisma"
+						"wisdom",
+						"charisma"
 					]
 				}
 			],
-			"Skills": [
+			"skills": [
 				{
 					"choose": 2,
 					"selection": [
@@ -40,11 +42,9 @@
 						"religion"
 					]
 				}
-			],
-			"Tools": [],
-			"Languages": []
+			]
 		},
-		"Starting Equipment": [
+		"equipment": [
 			{
 				"choose": 1,
 				"selection": [
@@ -82,16 +82,22 @@
 					"a shield",
 					"a holy symbol (one of your choice)"
 				]
+			},
+			{
+				"choose": null,
+				"selection": [
+					"a belt purse",
+					"5d4 × 10 silver pieces"
+				]
 			}
-		],
-		"Initial Funds": "5d4 × 10"
+		]
 	},
-	"Multiclassing": {
-		"Prerequisites": {
-			"Wisdom": 15
+	"multiclassing": {
+		"prerequisites": {
+			"wisdom": 15
 		},
-		"Proficiencies": {
-			"Armor": [
+		"proficiencies": {
+			"armor": [
 				{
 					"choose": null,
 					"selection": [
@@ -100,12 +106,7 @@
 						"shields"
 					]
 				}
-			],
-			"Weapons": [],
-			"Saving Throws": [],
-			"Skills": [],
-			"Tools": [],
-			"Languages": []
+			]
 		}
 	}
 }

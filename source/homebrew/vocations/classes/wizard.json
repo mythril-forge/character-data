@@ -1,9 +1,10 @@
 {
-	"Hit Dice": "1d4",
-	"Base Classing": {
-		"Proficiencies": {
-			"Armor": [],
-			"Weapons": [
+	"slug": "wizard",
+	"name": "Wizard",
+	"hit-dice": "1d4",
+	"starting-out": {
+		"proficiencies": {
+			"weapons": [
 				{
 					"choose": null,
 					"selection": [
@@ -15,16 +16,16 @@
 					]
 				}
 			],
-			"Saving Throws": [
+			"saving-throws": [
 				{
 					"choose": null,
 					"selection": [
-						"Intelligence",
-						"Wisdom"
+						"intelligence",
+						"wisdom"
 					]
 				}
 			],
-			"Skills": [
+			"skills": [
 				{
 					"choose": 2,
 					"selection": [
@@ -36,11 +37,9 @@
 						"religion"
 					]
 				}
-			],
-			"Tools": [],
-			"Languages": []
+			]
 		},
-		"Starting Equipment": [
+		"equipment": [
 			{
 				"choose": 1,
 				"selection": [
@@ -67,21 +66,19 @@
 				"selection": [
 					"a spellbook"
 				]
+			},
+			{
+				"choose": null,
+				"selection": [
+					"a belt purse",
+					"4d4 × 10 silver pieces"
+				]
 			}
-		],
-		"Initial Funds": "4d4 × 10"
+		]
 	},
-	"Multiclassing": {
-		"Prerequisites": {
-			"Intelligence": 13
-		},
-		"Proficiencies": {
-			"Armor": [],
-			"Weapons": [],
-			"Saving Throws": [],
-			"Skills": [],
-			"Tools": [],
-			"Languages": []
+	"multiclassing": {
+		"prerequisites": {
+			"intelligence": 15
 		}
 	}
 }
