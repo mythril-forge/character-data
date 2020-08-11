@@ -7,9 +7,9 @@
 		"dexterity": 11
 	},
 	"structured-data": {
-		"starting-out": {
-			"proficiencies": {
-				"armor": [
+		"Starting Out": {
+			"Proficiencies": {
+				"Armor": [
 					{
 						"choose": null,
 						"selection": [
@@ -20,7 +20,7 @@
 						]
 					}
 				],
-				"weapons": [
+				"Weapons": [
 					{
 						"choose": null,
 						"selection": [
@@ -29,7 +29,7 @@
 						]
 					}
 				],
-				"saving-throws": [
+				"Saving Throws": [
 					{
 						"choose": null,
 						"selection": [
@@ -38,7 +38,7 @@
 						]
 					}
 				],
-				"skills": [
+				"Skills": [
 					{
 						"choose": 2,
 						"selection": [
@@ -54,7 +54,7 @@
 					}
 				]
 			},
-			"equipment": [
+			"Equipment": [
 				{
 					"choose": 1,
 					"selection": [
@@ -104,9 +104,9 @@
 				}
 			]
 		},
-		"multiclassing": {
-			"proficiencies": {
-				"armor": [
+		"Multiclassing": {
+			"Proficiencies": {
+				"Armor": [
 					{
 						"choose": null,
 						"selection": [
@@ -116,7 +116,7 @@
 						]
 					}
 				],
-				"weapons": [
+				"Weapons": [
 					{
 						"choose": null,
 						"selection": [
