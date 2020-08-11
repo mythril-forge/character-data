@@ -2,111 +2,113 @@
 	"slug": "cleric",
 	"name": "Cleric",
 	"hit-dice": "1d8",
-	"starting-out": {
-		"proficiencies": {
-			"armor": [
+	"prerequisites": {
+		"wisdom": 15
+	},
+	"structured-data": {
+		"starting-out": {
+			"proficiencies": {
+				"armor": [
+					{
+						"choose": null,
+						"selection": [
+							"light armor",
+							"medium armor",
+							"shields"
+						]
+					}
+				],
+				"weapons": [
+					{
+						"choose": null,
+						"selection": [
+							"simple weapons"
+						]
+					}
+				],
+				"saving-throws": [
+					{
+						"choose": null,
+						"selection": [
+							"wisdom",
+							"charisma"
+						]
+					}
+				],
+				"skills": [
+					{
+						"choose": 2,
+						"selection": [
+							"history",
+							"insight",
+							"medicine",
+							"persuasion",
+							"religion"
+						]
+					}
+				]
+			},
+			"equipment": [
+				{
+					"choose": 1,
+					"selection": [
+						"a mace",
+						"a warhammer"
+					]
+				},
+				{
+					"choose": 1,
+					"selection": [
+						"padded armor",
+						"hide armor"
+					]
+				},
+				{
+					"choose": 1,
+					"selection": [
+						[
+							"a basic crossbow",
+							"20 bolts"
+						],
+						"any simple weapon"
+					]
+				},
+				{
+					"choose": 1,
+					"selection": [
+						"a priest's pack",
+						"an explorer's pack"
+					]
+				},
 				{
 					"choose": null,
 					"selection": [
-						"light armor",
-						"medium armor",
-						"shields"
+						"a shield",
+						"a holy symbol (one of your choice)"
 					]
-				}
-			],
-			"weapons": [
+				},
 				{
 					"choose": null,
 					"selection": [
-						"simple weapons"
-					]
-				}
-			],
-			"saving-throws": [
-				{
-					"choose": null,
-					"selection": [
-						"wisdom",
-						"charisma"
-					]
-				}
-			],
-			"skills": [
-				{
-					"choose": 2,
-					"selection": [
-						"history",
-						"insight",
-						"medicine",
-						"persuasion",
-						"religion"
+						"a belt purse",
+						"5d4 × 10 silver pieces"
 					]
 				}
 			]
 		},
-		"equipment": [
-			{
-				"choose": 1,
-				"selection": [
-					"a mace",
-					"a warhammer"
-				]
-			},
-			{
-				"choose": 1,
-				"selection": [
-					"padded armor",
-					"hide armor"
-				]
-			},
-			{
-				"choose": 1,
-				"selection": [
-					[
-						"a basic crossbow",
-						"20 bolts"
-					],
-					"any simple weapon"
-				]
-			},
-			{
-				"choose": 1,
-				"selection": [
-					"a priest's pack",
-					"an explorer's pack"
-				]
-			},
-			{
-				"choose": null,
-				"selection": [
-					"a shield",
-					"a holy symbol (one of your choice)"
-				]
-			},
-			{
-				"choose": null,
-				"selection": [
-					"a belt purse",
-					"5d4 × 10 silver pieces"
+		"multiclassing": {
+			"proficiencies": {
+				"armor": [
+					{
+						"choose": null,
+						"selection": [
+							"light armor",
+							"medium armor",
+							"shields"
+						]
+					}
 				]
 			}
-		]
-	},
-	"multiclassing": {
-		"prerequisites": {
-			"wisdom": 15
-		},
-		"proficiencies": {
-			"armor": [
-				{
-					"choose": null,
-					"selection": [
-						"light armor",
-						"medium armor",
-						"shields"
-					]
-				}
-			]
 		}
 	}
 }

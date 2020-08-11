@@ -2,104 +2,106 @@
 	"slug": "barbarian",
 	"name": "Barbarian",
 	"hit-dice": "1d12",
-	"starting-out": {
-		"proficiencies": {
-			"armor": [
+	"prerequisites": {
+		"strength": 13,
+		"constitution": 13
+	},
+	"structured-data": {
+		"starting-out": {
+			"proficiencies": {
+				"armor": [
+					{
+						"choose": null,
+						"selection": [
+							"light armor",
+							"medium armor",
+							"shields"
+						]
+					}
+				],
+				"weapons": [
+					{
+						"choose": null,
+						"selection": [
+							"simple weapons",
+							"martial weapons"
+						]
+					}
+				],
+				"saving-throws": [
+					{
+						"choose": null,
+						"selection": [
+							"strength",
+							"constitution"
+						]
+					}
+				],
+				"skills": [
+					{
+						"choose": 2,
+						"selection": [
+							"animal handling",
+							"athletics",
+							"intimidation",
+							"nature",
+							"perception",
+							"survival"
+						]
+					}
+				]
+			},
+			"equipment": [
+				{
+					"choose": 1,
+					"selection": [
+						"a greataxe",
+						"any martial weapon"
+					]
+				},
+				{
+					"choose": 1,
+					"selection": [
+						"2 handaxes",
+						"any simple weapon"
+					]
+				},
 				{
 					"choose": null,
 					"selection": [
-						"light armor",
-						"medium armor",
-						"shields"
+						"an explorer's pack",
+						"4 javelins"
 					]
-				}
-			],
-			"weapons": [
+				},
 				{
 					"choose": null,
 					"selection": [
-						"simple weapons",
-						"martial weapons"
-					]
-				}
-			],
-			"saving-throws": [
-				{
-					"choose": null,
-					"selection": [
-						"strength",
-						"constitution"
-					]
-				}
-			],
-			"skills": [
-				{
-					"choose": 2,
-					"selection": [
-						"animal handling",
-						"athletics",
-						"intimidation",
-						"nature",
-						"perception",
-						"survival"
+						"a belt purse",
+						"2d4 × 10 silver pieces"
 					]
 				}
 			]
 		},
-		"equipment": [
-			{
-				"choose": 1,
-				"selection": [
-					"a greataxe",
-					"any martial weapon"
-				]
-			},
-			{
-				"choose": 1,
-				"selection": [
-					"2 handaxes",
-					"any simple weapon"
-				]
-			},
-			{
-				"choose": null,
-				"selection": [
-					"an explorer's pack",
-					"4 javelins"
-				]
-			},
-			{
-				"choose": null,
-				"selection": [
-					"a belt purse",
-					"2d4 × 10 silver pieces"
+		"multiclassing": {
+			"proficiencies": {
+				"armor": [
+					{
+						"choose": null,
+						"selection": [
+							"shields"
+						]
+					}
+				],
+				"weapons": [
+					{
+						"choose": null,
+						"selection": [
+							"simple weapons",
+							"martial weapons"
+						]
+					}
 				]
 			}
-		]
-	},
-	"multiclassing": {
-		"prerequisites": {
-			"strength": 13,
-			"constitution": 13
-		},
-		"proficiencies": {
-			"armor": [
-				{
-					"choose": null,
-					"selection": [
-						"shields"
-					]
-				}
-			],
-			"weapons": [
-				{
-					"choose": null,
-					"selection": [
-						"simple weapons",
-						"martial weapons"
-					]
-				}
-			]
 		}
 	}
 }
