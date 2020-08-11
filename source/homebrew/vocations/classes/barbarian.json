@@ -79,7 +79,8 @@
 	},
 	"multiclassing": {
 		"prerequisites": {
-			"strength": 15
+			"strength": 13,
+			"constitution": 13
 		},
 		"proficiencies": {
 			"armor": [

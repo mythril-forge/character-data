@@ -37,6 +37,17 @@
 						"religion"
 					]
 				}
+			],
+			"tools": [
+				{
+					"choose": 1,
+					"selection": [
+						"alchemist's supplies",
+						"calligrapher's supplies",
+						"jeweler's tools",
+						"herbalism kits"
+					]
+				}
 			]
 		},
 		"equipment": [
@@ -79,6 +90,19 @@
 	"multiclassing": {
 		"prerequisites": {
 			"intelligence": 15
+		},
+		"proficiencies": {
+			"tools": [
+				{
+					"choose": 1,
+					"selection": [
+						"alchemist's supplies",
+						"herbalism kits",
+						"calligrapher's supplies",
+						"jeweler's tools"
+					]
+				}
+			]
 		}
 	}
 }
