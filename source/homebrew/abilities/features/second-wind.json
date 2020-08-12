@@ -1,0 +1,84 @@
+{
+	"name": "Second Wind",
+	"slug": "second-wind",
+	"classes": {
+		"fighter": {
+			"progression": [
+				{
+					"Level": 3,
+					"Feature": "Second Wind (1/rest)",
+					"Second Wind": "3d4"
+				},
+				{
+					"Level": 4,
+					"Second Wind": "4d4"
+				},
+				{
+					"Level": 5,
+					"Second Wind": "5d4"
+				},
+				{
+					"Level": 6,
+					"Second Wind": "6d4"
+				},
+				{
+					"Level": 7,
+					"Second Wind": "7d4"
+				},
+				{
+					"Level": 8,
+					"Second Wind": "8d4"
+				},
+				{
+					"Level": 9,
+					"Second Wind": "9d4"
+				},
+				{
+					"Level": 10,
+					"Second Wind": "10d4"
+				},
+				{
+					"Level": 11,
+					"Second Wind": "11d4"
+				},
+				{
+					"Level": 12,
+					"Second Wind": "12d4"
+				},
+				{
+					"Level": 13,
+					"Second Wind": "13d4"
+				},
+				{
+					"Level": 14,
+					"Second Wind": "14d4"
+				},
+				{
+					"Level": 15,
+					"Second Wind": "15d4"
+				},
+				{
+					"Level": 16,
+					"Second Wind": "16d4"
+				},
+				{
+					"Level": 17,
+					"Second Wind": "17d4"
+				},
+				{
+					"Level": 18,
+					"Second Wind": "18d4"
+				},
+				{
+					"Level": 19,
+					"Feature": "Second Wind (2/rest)",
+					"Second Wind": "19d4"
+				},
+				{
+					"Level": 20,
+					"Second Wind": "20d4"
+				}
+			]
+		}
+	}
+}

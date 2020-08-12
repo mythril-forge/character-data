@@ -1,0 +1,14 @@
+{
+	"name": "Primal Champion",
+	"slug": "primal-champion",
+	"classes": {
+		"barbarian": {
+			"progression": [
+				{
+					"Level": 20,
+					"Feature": "Primal Champion"
+				}
+			]
+		}
+	}
+}

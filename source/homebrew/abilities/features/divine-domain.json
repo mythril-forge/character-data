@@ -1,0 +1,30 @@
+{
+	"name": "Divine Domain",
+	"slug": "divine-domain",
+	"classes": {
+		"cleric": {
+			"progression": [
+				{
+					"Level": 1,
+					"Feature": "Divine Domain"
+				},
+				{
+					"Level": 4,
+					"Feature": "Divine Domain Feature"
+				},
+				{
+					"Level": 6,
+					"Feature": "Divine Domain Feature"
+				},
+				{
+					"Level": 12,
+					"Feature": "Divine Domain Feature"
+				},
+				{
+					"Level": 18,
+					"Feature": "Divine Domain Feature"
+				}
+			]
+		}
+	}
+}

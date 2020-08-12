@@ -1,0 +1,22 @@
+{
+	"name": "Channel Divinity",
+	"slug": "channel-divinity",
+	"classes": {
+		"cleric": {
+			"progression": [
+				{
+					"Level": 2,
+					"Feature": "Channel Divinity (1/rest)"
+				},
+				{
+					"Level": 6,
+					"Feature": "Channel Divinity (2/rest)"
+				},
+				{
+					"Level": 18,
+					"Feature": "Channel Divinity (3/rest)"
+				}
+			]
+		}
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"name": "Magician's Thesis",
+	"slug": "magicians-thesis",
+	"classes": {
+		"wizard": {
+			"progression": [
+				{
+					"Level": 6,
+					"Feature": "Magician's Thesis"
+				}
+			],
+			"children": [
+				"power-blending",
+				"soulbonding",
+				"spell-substitution"
+			]
+		}
+	}
+}

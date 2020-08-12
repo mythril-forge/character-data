@@ -1,0 +1,14 @@
+{
+	"name": "Reservoir of Wrath",
+	"slug": "reservoir-of-wrath",
+	"classes": {
+		"barbarian": {
+			"progression": [
+				{
+					"Level": 18,
+					"Feature": "Reservoir of Wrath"
+				}
+			]
+		}
+	}
+}

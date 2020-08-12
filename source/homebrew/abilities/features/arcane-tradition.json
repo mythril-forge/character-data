@@ -1,0 +1,30 @@
+{
+	"name": "Arcane Tradition",
+	"slug": "arcane-tradition",
+	"classes": {
+		"wizard": {
+			"progression": [
+				{
+					"Level": 2,
+					"Feature": "Arcane Tradition"
+				},
+				{
+					"Level": 6,
+					"Feature": "Arcane Tradition Feature"
+				},
+				{
+					"Level": 10,
+					"Feature": "Arcane Tradition Feature"
+				},
+				{
+					"Level": 14,
+					"Feature": "Arcane Tradition Feature"
+				},
+				{
+					"Level": 18,
+					"Feature": "Arcane Tradition Feature"
+				}
+			]
+		}
+	}
+}

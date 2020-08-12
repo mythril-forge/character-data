@@ -1,0 +1,17 @@
+{
+	"name": "Turn Undead",
+	"slug": "turn-undead",
+	"classes": {
+		"cleric": {
+			"progression": [
+				{
+					"Level": 2,
+					"Feature": "Turn Undead"
+				}
+			],
+			"children": [
+				"destroy-undead"
+			]
+		}
+	}
+}

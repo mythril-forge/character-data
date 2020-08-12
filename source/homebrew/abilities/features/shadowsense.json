@@ -1,0 +1,14 @@
+{
+	"name": "Shadowsense",
+	"slug": "shadowsense",
+	"classes": {
+		"rogue": {
+			"progression": [
+				{
+					"Level": 12,
+					"Feature": "Shadowsense"
+				}
+			]
+		}
+	}
+}

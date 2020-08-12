@@ -1,0 +1,30 @@
+{
+	"name": "Martial Archetype",
+	"slug": "martial-archetype",
+	"classes": {
+		"fighter": {
+			"progression": [
+				{
+					"Level": 3,
+					"Feature": "Martial Archetype"
+				},
+				{
+					"Level": 7,
+					"Feature": "Martial Archetype Feature"
+				},
+				{
+					"Level": 10,
+					"Feature": "Martial Archetype Feature"
+				},
+				{
+					"Level": 15,
+					"Feature": "Martial Archetype Feature"
+				},
+				{
+					"Level": 19,
+					"Feature": "Martial Archetype Feature"
+				}
+			]
+		}
+	}
+}

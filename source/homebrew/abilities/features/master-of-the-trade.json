@@ -1,0 +1,14 @@
+{
+	"name": "Master of the Trade",
+	"slug": "master-of-the-trade",
+	"classes": {
+		"rogue": {
+			"progression": [
+				{
+					"Level": 20,
+					"Feature": "Master of the Trade"
+				}
+			]
+		}
+	}
+}

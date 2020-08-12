@@ -1,0 +1,49 @@
+{
+	"name": "Spellcasting",
+	"slug": "spellcasting",
+	"classes": {
+		"cleric": {
+			"progression": [
+				{
+					"Level": 1,
+					"Feature": "Spellcasting"
+				}
+			],
+			"children": [
+				"full-casting",
+				"spellcasting-ability",
+				"spell-slots-and-casting-spells",
+				"learning-spells",
+				"deciphering-spells",
+				"preparing-spells",
+				"spellcasting-focus",
+				"ritual-casting"
+			],
+			"variables": {
+				"spellcasting-introduction": "As a conduit for divine power, you can cast spells"
+			}
+		},
+		"wizard": {
+			"progression": [
+				{
+					"Level": 1,
+					"Feature": "Spellcasting"
+				}
+			],
+			"children": [
+				"full-casting",
+				"spellcasting-ability",
+				"spell-slots-and-casting-spells",
+				"learning-spells",
+				"deciphering-spells",
+				"preparing-spells",
+				"spellbook",
+				"spellcasting-focus",
+				"ritual-casting"
+			],
+			"variables": {
+				"spellcasting-introduction": "As a student of arcane magic, you have a spellbook containing the research that shows the first glimmerings of your true power"
+			}
+		}
+	}
+}

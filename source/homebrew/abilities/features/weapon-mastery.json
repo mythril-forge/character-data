@@ -1,0 +1,14 @@
+{
+	"name": "Weapon Mastery",
+	"slug": "weapon-mastery",
+	"classes": {
+		"fighter": {
+			"progression": [
+				{
+					"Level": 11,
+					"Feature": "Weapon Mastery"
+				}
+			]
+		}
+	}
+}

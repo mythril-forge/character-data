@@ -1,0 +1,14 @@
+{
+	"name": "Defy Death",
+	"slug": "defy-death",
+	"classes": {
+		"barbarian": {
+			"progression": [
+				{
+					"Level": 11,
+					"Feature": "Defy Death"
+				}
+			]
+		}
+	}
+}

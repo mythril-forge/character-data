@@ -1,0 +1,18 @@
+{
+	"name": "Divine Intervention",
+	"slug": "divine-intervention",
+	"classes": {
+		"cleric": {
+			"progression": [
+				{
+					"Level": 10,
+					"Feature": "Divine Intervention"
+				},
+				{
+					"Level": 20,
+					"Feature": "Divine Intervention Feature"
+				}
+			]
+		}
+	}
+}

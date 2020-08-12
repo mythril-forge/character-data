@@ -1,0 +1,16 @@
+{
+	"name": "Learning Spells",
+	"slug": "learning-spells",
+	"classes": {
+		"cleric": {
+			"variables": {
+				"learning-spells": "an intensive period of symbolic interaction with the powers that be, such as prayer, prose, and sacrifice"
+			}
+		},
+		"wizard": {
+			"variables": {
+				"learning-spells": "research and development&mdash;involving reading, taking notes, and understanding magical formulae"
+			}
+		}
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"name": "Spell Mastery",
+	"slug": "spell-mastery",
+	"classes": {
+		"wizard": {
+			"progression": [
+				{
+					"Level": 16,
+					"Feature": "Spell Mastery (level 1)"
+				},
+				{
+					"Level": 18,
+					"Feature": "Spell Mastery (level 2)"
+				},
+				{
+					"Level": 20,
+					"Feature": "Spell Mastery (level 3)"
+				}
+			]
+		}
+	}
+}

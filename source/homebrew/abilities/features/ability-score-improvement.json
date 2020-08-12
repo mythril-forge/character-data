@@ -1,0 +1,142 @@
+{
+	"name": "Ability Score Improvement",
+	"slug": "ability-score-improvement",
+	"classes": {
+		"barbarian": {
+			"progression": [
+				{
+					"Level": 4,
+					"Feature": "Ability Score Improvement"
+				},
+				{
+					"Level": 8,
+					"Feature": "Ability Score Improvement"
+				},
+				{
+					"Level": 12,
+					"Feature": "Ability Score Improvement"
+				},
+				{
+					"Level": 16,
+					"Feature": "Ability Score Improvement"
+				},
+				{
+					"Level": 20,
+					"Feature": "Ability Score Improvement"
+				}
+			]
+		},
+		"cleric": {
+			"progression": [
+				{
+					"Level": 4,
+					"Feature": "Ability Score Improvement"
+				},
+				{
+					"Level": 8,
+					"Feature": "Ability Score Improvement"
+				},
+				{
+					"Level": 12,
+					"Feature": "Ability Score Improvement"
+				},
+				{
+					"Level": 16,
+					"Feature": "Ability Score Improvement"
+				},
+				{
+					"Level": 20,
+					"Feature": "Ability Score Improvement"
+				}
+			]
+		},
+		"fighter": {
+			"progression": [
+				{
+					"Level": 4,
+					"Feature": "Ability Score Improvement"
+				},
+				{
+					"Level": 6,
+					"Feature": "Ability Score Improvement"
+				},
+				{
+					"Level": 8,
+					"Feature": "Ability Score Improvement"
+				},
+				{
+					"Level": 12,
+					"Feature": "Ability Score Improvement"
+				},
+				{
+					"Level": 14,
+					"Feature": "Ability Score Improvement"
+				},
+				{
+					"Level": 16,
+					"Feature": "Ability Score Improvement"
+				},
+				{
+					"Level": 20,
+					"Feature": "Ability Score Improvement"
+				}
+			]
+		},
+		"rogue": {
+			"progression": [
+				{
+					"Level": 4,
+					"Feature": "Ability Score Improvement"
+				},
+				{
+					"Level": 8,
+					"Feature": "Ability Score Improvement"
+				},
+				{
+					"Level": 10,
+					"Feature": "Ability Score Improvement"
+				},
+				{
+					"Level": 12,
+					"Feature": "Ability Score Improvement"
+				},
+				{
+					"Level": 16,
+					"Feature": "Ability Score Improvement"
+				},
+				{
+					"Level": 18,
+					"Feature": "Ability Score Improvement"
+				},
+				{
+					"Level": 20,
+					"Feature": "Ability Score Improvement"
+				}
+			]
+		},
+		"wizard": {
+			"progression": [
+				{
+					"Level": 4,
+					"Feature": "Ability Score Improvement"
+				},
+				{
+					"Level": 8,
+					"Feature": "Ability Score Improvement"
+				},
+				{
+					"Level": 12,
+					"Feature": "Ability Score Improvement"
+				},
+				{
+					"Level": 16,
+					"Feature": "Ability Score Improvement"
+				},
+				{
+					"Level": 20,
+					"Feature": "Ability Score Improvement"
+				}
+			]
+		}
+	}
+}

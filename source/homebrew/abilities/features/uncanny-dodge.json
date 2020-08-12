@@ -1,0 +1,14 @@
+{
+	"name": "Uncanny Dodge",
+	"slug": "uncanny-dodge",
+	"classes": {
+		"rogue": {
+			"progression": [
+				{
+					"Level": 5,
+					"Feature": "Uncanny Dodge"
+				}
+			]
+		}
+	}
+}

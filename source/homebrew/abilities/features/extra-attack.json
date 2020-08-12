@@ -1,0 +1,30 @@
+{
+	"name": "Extra Attack",
+	"slug": "extra-attack",
+	"classes": {
+		"barbarian": {
+			"progression": [
+				{
+					"Level": 5,
+					"Feature": "Extra Attack"
+				}
+			]
+		},
+		"fighter": {
+			"progression": [
+				{
+					"Level": 5,
+					"Feature": "Extra Attack (1 extra)"
+				},
+				{
+					"Level": 11,
+					"Feature": "Extra Attack (2 extra)"
+				},
+				{
+					"Level": 17,
+					"Feature": "Extra Attack (3 extra)"
+				}
+			]
+		}
+	}
+}

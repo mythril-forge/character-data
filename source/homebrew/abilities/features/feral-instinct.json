@@ -1,0 +1,14 @@
+{
+	"name": "Feral Instinct",
+	"slug": "feral-instinct",
+	"classes": {
+		"barbarian": {
+			"progression": [
+				{
+					"Level": 7,
+					"Feature": "Feral Instinct"
+				}
+			]
+		}
+	}
+}

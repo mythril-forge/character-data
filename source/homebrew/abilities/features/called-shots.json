@@ -1,0 +1,14 @@
+{
+	"name": "Called Shots",
+	"slug": "called-shots",
+	"classes": {
+		"fighter": {
+			"progression": [
+				{
+					"Level": 2,
+					"Feature": "Called Shots"
+				}
+			]
+		}
+	}
+}

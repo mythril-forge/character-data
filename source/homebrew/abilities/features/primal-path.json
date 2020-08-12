@@ -1,0 +1,30 @@
+{
+	"name": "Primal Path",
+	"slug": "primal-path",
+	"classes": {
+		"barbarian": {
+			"progression": [
+				{
+					"Level": 3,
+					"Feature": "Primal Path"
+				},
+				{
+					"Level": 6,
+					"Feature": "Primal Path Feature"
+				},
+				{
+					"Level": 10,
+					"Feature": "Primal Path Feature"
+				},
+				{
+					"Level": 14,
+					"Feature": "Primal Path Feature"
+				},
+				{
+					"Level": 19,
+					"Feature": "Primal Path Feature"
+				}
+			]
+		}
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"name": "Action Surge",
+	"slug": "action-surge",
+	"classes": {
+		"fighter": {
+			"progression": [
+				{
+					"Level": 2,
+					"Feature": "Action Surge (1/rest)"
+				},
+				{
+					"Level": 20,
+					"Feature": "Action Surge (2/rest)"
+				}
+			]
+		}
+	}
+}

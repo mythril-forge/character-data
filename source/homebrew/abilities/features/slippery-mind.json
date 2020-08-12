@@ -1,0 +1,14 @@
+{
+	"name": "Slippery Mind",
+	"slug": "slippery-mind",
+	"classes": {
+		"rogue": {
+			"progression": [
+				{
+					"Level": 15,
+					"Feature": "Slippery Mind"
+				}
+			]
+		}
+	}
+}

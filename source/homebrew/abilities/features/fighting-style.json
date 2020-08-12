@@ -1,0 +1,22 @@
+{
+	"name": "Fighting Style",
+	"slug": "fighting-style",
+	"classes": {
+		"fighter": {
+			"progression": [
+				{
+					"Level": 1,
+					"Feature": "Fighting Style"
+				}
+			],
+			"children": [
+				"archery",
+				"defense",
+				"dueling",
+				"great-weapon-fighting",
+				"protection",
+				"two-weapon-fighting"
+			]
+		}
+	}
+}

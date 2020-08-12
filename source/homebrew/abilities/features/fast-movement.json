@@ -1,0 +1,27 @@
+{
+	"name": "Fast Movement",
+	"slug": "fast-movement",
+	"classes": {
+		"barbarian": {
+			"progression": [
+				{
+					"Level": 2,
+					"Feature": "Fast Movement",
+					"Fast Movement": "+5 ft."
+				},
+				{
+					"Level": 8,
+					"Fast Movement": "+10 ft."
+				},
+				{
+					"Level": 14,
+					"Fast Movement": "+15 ft."
+				},
+				{
+					"Level": 20,
+					"Fast Movement": "+20 ft."
+				}
+			]
+		}
+	}
+}

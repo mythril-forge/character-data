@@ -1,0 +1,159 @@
+{
+	"slug": "rogue",
+	"name": "Rogue",
+	"hit-dice": "1d8",
+	"prerequisites": {
+		"dexterity": 15
+	},
+	"structured-data": {
+		"Starting Out": {
+			"Proficiencies": {
+				"Armor": [
+					{
+						"choose": null,
+						"selection": [
+							"light armor"
+						]
+					}
+				],
+				"Weapons": [
+					{
+						"choose": null,
+						"selection": [
+							"simple weapons",
+							"longswords",
+							"rapiers",
+							"shortswords",
+							"hand crossbows"
+						]
+					},
+					{
+						"choose": null,
+						"selection": [
+							"dexterity",
+							"intelligence"
+						]
+					}
+				],
+				"Saving Throws": [
+					{
+						"choose": null,
+						"selection": [
+							"dexterity",
+							"intelligence"
+						]
+					}
+				],
+				"Skills": [
+					{
+						"choose": 4,
+						"selection": [
+							"acrobatics",
+							"athletics",
+							"deception",
+							"insight",
+							"intimidation",
+							"investigation",
+							"perception",
+							"performance",
+							"persuasion",
+							"sleight of hand",
+							"stealth"
+						]
+					}
+				],
+				"Tools": [
+					{
+						"choose": null,
+						"selection": [
+							"thieves' tools"
+						]
+					}
+				]
+			},
+			"Equipment": [
+				{
+					"choose": 1,
+					"selection": [
+						"a rapier",
+						"a shortsword"
+					]
+				},
+				{
+					"choose": 1,
+					"selection": [
+						[
+							"a shortbow",
+							"a leather quiver",
+							"20 arrows"
+						],
+						"a shortsword",
+						"2 daggers"
+					]
+				},
+				{
+					"choose": 1,
+					"selection": [
+						"a burglar's pack",
+						"a dungeoneer's pack",
+						"an explorer's pack"
+					]
+				},
+				{
+					"choose": null,
+					"selection": [
+						"a hooded cloak",
+						"a set of common clothes",
+						"2 daggers",
+						"thieves' tools"
+					]
+				},
+				{
+					"choose": null,
+					"selection": [
+						"a belt purse",
+						"4d4 × 10 silver pieces"
+					]
+				}
+			]
+		},
+		"Multiclassing": {
+			"Proficiencies": {
+				"Armor": [
+					{
+						"choose": null,
+						"selection": [
+							"light armor"
+						]
+					}
+				],
+				"Skills": [
+					{
+						"choose": 1,
+						"selection": [
+							"acrobatics",
+							"athletics",
+							"deception",
+							"insight",
+							"intimidation",
+							"investigation",
+							"perception",
+							"performance",
+							"persuasion",
+							"sleight of hand",
+							"stealth"
+						]
+					}
+				],
+				"Tools": [
+					{
+						"choose": null,
+						"selection": [
+							"thieves' tools"
+						]
+					}
+				]
+			}
+		}
+	}
+}

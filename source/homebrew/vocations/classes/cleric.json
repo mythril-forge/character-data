@@ -1,0 +1,114 @@
+{
+	"slug": "cleric",
+	"name": "Cleric",
+	"hit-dice": "1d8",
+	"prerequisites": {
+		"wisdom": 15
+	},
+	"structured-data": {
+		"Starting Out": {
+			"Proficiencies": {
+				"Armor": [
+					{
+						"choose": null,
+						"selection": [
+							"light armor",
+							"medium armor",
+							"shields"
+						]
+					}
+				],
+				"Weapons": [
+					{
+						"choose": null,
+						"selection": [
+							"simple weapons"
+						]
+					}
+				],
+				"Saving Throws": [
+					{
+						"choose": null,
+						"selection": [
+							"wisdom",
+							"charisma"
+						]
+					}
+				],
+				"Skills": [
+					{
+						"choose": 2,
+						"selection": [
+							"history",
+							"insight",
+							"medicine",
+							"persuasion",
+							"religion"
+						]
+					}
+				]
+			},
+			"Equipment": [
+				{
+					"choose": 1,
+					"selection": [
+						"a mace",
+						"a warhammer"
+					]
+				},
+				{
+					"choose": 1,
+					"selection": [
+						"padded armor",
+						"hide armor"
+					]
+				},
+				{
+					"choose": 1,
+					"selection": [
+						[
+							"a basic crossbow",
+							"20 bolts"
+						],
+						"any simple weapon"
+					]
+				},
+				{
+					"choose": 1,
+					"selection": [
+						"a priest's pack",
+						"an explorer's pack"
+					]
+				},
+				{
+					"choose": null,
+					"selection": [
+						"a shield",
+						"a holy symbol (one of your choice)"
+					]
+				},
+				{
+					"choose": null,
+					"selection": [
+						"a belt purse",
+						"5d4 × 10 silver pieces"
+					]
+				}
+			]
+		},
+		"Multiclassing": {
+			"Proficiencies": {
+				"Armor": [
+					{
+						"choose": null,
+						"selection": [
+							"light armor",
+							"medium armor",
+							"shields"
+						]
+					}
+				]
+			}
+		}
+	}
+}
