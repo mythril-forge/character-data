@@ -1,87 +1,110 @@
 {
-	"Hit Dice": "1d4",
-	"Base Classing": {
-		"Proficiencies": {
-			"Armor": [],
-			"Weapons": [
+	"slug": "wizard",
+	"name": "Wizard",
+	"hit-dice": "1d4",
+	"prerequisites": {
+		"intelligence": 15
+	},
+	"structured-data": {
+		"Starting Out": {
+			"Proficiencies": {
+				"Weapons": [
+					{
+						"choose": null,
+						"selection": [
+							"daggers",
+							"darts",
+							"slings",
+							"quarterstaffs",
+							"simple crossbows"
+						]
+					}
+				],
+				"Saving Throws": [
+					{
+						"choose": null,
+						"selection": [
+							"intelligence",
+							"wisdom"
+						]
+					}
+				],
+				"Skills": [
+					{
+						"choose": 2,
+						"selection": [
+							"arcana",
+							"history",
+							"insight",
+							"investigation",
+							"medicine",
+							"religion"
+						]
+					}
+				],
+				"Tools": [
+					{
+						"choose": 1,
+						"selection": [
+							"alchemist's supplies",
+							"calligrapher's supplies",
+							"jeweler's tools",
+							"herbalism kits"
+						]
+					}
+				]
+			},
+			"Equipment": [
+				{
+					"choose": 1,
+					"selection": [
+						"a quarterstaff",
+						"a dagger"
+					]
+				},
+				{
+					"choose": 1,
+					"selection": [
+						"an arcane anchor",
+						"a component pouch "
+					]
+				},
+				{
+					"choose": 1,
+					"selection": [
+						"a scholar's pack",
+						"an explorer's pack"
+					]
+				},
 				{
 					"choose": null,
 					"selection": [
-						"daggers",
-						"darts",
-						"slings",
-						"quarterstaffs",
-						"simple crossbows"
+						"a spellbook"
 					]
-				}
-			],
-			"Saving Throws": [
+				},
 				{
 					"choose": null,
 					"selection": [
-						"Intelligence",
-						"Wisdom"
+						"a belt purse",
+						"4d4 × 10 silver pieces"
 					]
 				}
-			],
-			"Skills": [
-				{
-					"choose": 2,
-					"selection": [
-						"arcana",
-						"history",
-						"insight",
-						"investigation",
-						"medicine",
-						"religion"
-					]
-				}
-			],
-			"Tools": [],
-			"Languages": []
+			]
 		},
-		"Starting Equipment": [
-			{
-				"choose": 1,
-				"selection": [
-					"a quarterstaff",
-					"a dagger"
-				]
-			},
-			{
-				"choose": 1,
-				"selection": [
-					"an arcane anchor",
-					"a component pouch "
-				]
-			},
-			{
-				"choose": 1,
-				"selection": [
-					"a scholar's pack",
-					"an explorer's pack"
-				]
-			},
-			{
-				"choose": null,
-				"selection": [
-					"a spellbook"
+		"Multiclassing": {
+			"Proficiencies": {
+				"Tools": [
+					{
+						"choose": 1,
+						"selection": [
+							"alchemist's supplies",
+							"herbalism kits",
+							"calligrapher's supplies",
+							"jeweler's tools"
+						]
+					}
 				]
 			}
-		],
-		"Initial Funds": "4d4 × 10"
-	},
-	"Multiclassing": {
-		"Prerequisites": {
-			"Intelligence": 13
-		},
-		"Proficiencies": {
-			"Armor": [],
-			"Weapons": [],
-			"Saving Throws": [],
-			"Skills": [],
-			"Tools": [],
-			"Languages": []
 		}
 	}
 }

@@ -1,102 +1,107 @@
 {
-	"Hit Dice": "1d12",
-	"Base Classing": {
-		"Proficiencies": {
-			"Armor": [
+	"slug": "barbarian",
+	"name": "Barbarian",
+	"hit-dice": "1d12",
+	"prerequisites": {
+		"strength": 13,
+		"constitution": 13
+	},
+	"structured-data": {
+		"Starting Out": {
+			"Proficiencies": {
+				"Armor": [
+					{
+						"choose": null,
+						"selection": [
+							"light armor",
+							"medium armor",
+							"shields"
+						]
+					}
+				],
+				"Weapons": [
+					{
+						"choose": null,
+						"selection": [
+							"simple weapons",
+							"martial weapons"
+						]
+					}
+				],
+				"Saving Throws": [
+					{
+						"choose": null,
+						"selection": [
+							"strength",
+							"constitution"
+						]
+					}
+				],
+				"Skills": [
+					{
+						"choose": 2,
+						"selection": [
+							"animal handling",
+							"athletics",
+							"intimidation",
+							"nature",
+							"perception",
+							"survival"
+						]
+					}
+				]
+			},
+			"Equipment": [
+				{
+					"choose": 1,
+					"selection": [
+						"a greataxe",
+						"any martial weapon"
+					]
+				},
+				{
+					"choose": 1,
+					"selection": [
+						"2 handaxes",
+						"any simple weapon"
+					]
+				},
 				{
 					"choose": null,
 					"selection": [
-						"light armor",
-						"medium armor",
-						"shields"
+						"an explorer's pack",
+						"4 javelins"
 					]
-				}
-			],
-			"Weapons": [
+				},
 				{
 					"choose": null,
 					"selection": [
-						"simple weapons",
-						"martial weapons"
+						"a belt purse",
+						"2d4 × 10 silver pieces"
 					]
 				}
-			],
-			"Saving Throws": [
-				{
-					"choose": null,
-					"selection": [
-						"Strength",
-						"Constitution"
-					]
-				}
-			],
-			"Skills": [
-				{
-					"choose": 2,
-					"selection": [
-						"animal handling",
-						"athletics",
-						"intimidation",
-						"nature",
-						"perception",
-						"survival"
-					]
-				}
-			],
-			"Tools": [],
-			"Languages": []
+			]
 		},
-		"Starting Equipment": [
-			{
-				"choose": 1,
-				"selection": [
-					"a greataxe",
-					"any martial weapon"
-				]
-			},
-			{
-				"choose": 1,
-				"selection": [
-					"2 handaxes",
-					"any simple weapon"
-				]
-			},
-			{
-				"choose": null,
-				"selection": [
-					"an explorer's pack",
-					"4 javelins"
+		"Multiclassing": {
+			"Proficiencies": {
+				"Armor": [
+					{
+						"choose": null,
+						"selection": [
+							"shields"
+						]
+					}
+				],
+				"Weapons": [
+					{
+						"choose": null,
+						"selection": [
+							"simple weapons",
+							"martial weapons"
+						]
+					}
 				]
 			}
-		],
-		"Initial Funds": "2d4 × 10"
-	},
-	"Multiclassing": {
-		"Prerequisites": {
-			"Strength": 15
-		},
-		"Proficiencies": {
-			"Armor": [
-				{
-					"choose": null,
-					"selection": [
-						"shields"
-					]
-				}
-			],
-			"Weapons": [
-				{
-					"choose": null,
-					"selection": [
-						"simple weapons",
-						"martial weapons"
-					]
-				}
-			],
-			"Saving Throws": [],
-			"Skills": [],
-			"Tools": [],
-			"Languages": []
 		}
 	}
 }

@@ -1,136 +1,131 @@
 {
-	"Hit Dice": "1d10",
-	"Base Classing": {
-		"Proficiencies": {
-			"Armor": [
+	"slug": "fighter",
+	"name": "Fighter",
+	"hit-dice": "1d10",
+	"prerequisites": {
+		"strength": 11,
+		"dexterity": 11
+	},
+	"structured-data": {
+		"Starting Out": {
+			"Proficiencies": {
+				"Armor": [
+					{
+						"choose": null,
+						"selection": [
+							"light armor",
+							"medium armor",
+							"heavy armor",
+							"shields"
+						]
+					}
+				],
+				"Weapons": [
+					{
+						"choose": null,
+						"selection": [
+							"simple weapons",
+							"martial weapons"
+						]
+					}
+				],
+				"Saving Throws": [
+					{
+						"choose": null,
+						"selection": [
+							"strength",
+							"constitution"
+						]
+					}
+				],
+				"Skills": [
+					{
+						"choose": 2,
+						"selection": [
+							"acrobatics",
+							"animal handling",
+							"athletics",
+							"history",
+							"insight",
+							"intimidation",
+							"perception",
+							"survival"
+						]
+					}
+				]
+			},
+			"Equipment": [
+				{
+					"choose": 1,
+					"selection": [
+						"hide armor",
+						[
+							"padded armor",
+							"a dagger",
+							"a longbow",
+							"a leather quiver",
+							"20 arrows"
+						]
+					]
+				},
+				{
+					"choose": 1,
+					"selection": [
+						[
+							"a martial weapon",
+							"a shield"
+						],
+						"2 martial weapons"
+					]
+				},
+				{
+					"choose": 1,
+					"selection": [
+						[
+							"a simple crossbow",
+							"20 bolts"
+						],
+						"2 handaxes"
+					]
+				},
+				{
+					"choose": 1,
+					"selection": [
+						"a dungeoneer's pack",
+						"an explorer's pack"
+					]
+				},
 				{
 					"choose": null,
 					"selection": [
-						"light armor",
-						"medium armor",
-						"heavy armor",
-						"shields"
+						"a belt purse",
+						"5d4 × 10 silver pieces"
 					]
-				}
-			],
-			"Weapons": [
-				{
-					"choose": null,
-					"selection": [
-						"simple weapons",
-						"martial weapons"
-					]
-				}
-			],
-			"Saving Throws": [
-				{
-					"choose": null,
-					"selection": [
-						"Strength",
-						"Constitution"
-					]
-				}
-			],
-			"Skills": [
-				{
-					"choose": 2,
-					"selection": [
-						"acrobatics",
-						"animal handling",
-						"athletics",
-						"history",
-						"insight",
-						"intimidation",
-						"perception",
-						"survival"
-					]
-				}
-			],
-			"Tools": [
-				{
-					"choose": null,
-					"selection": []
-				}
-			],
-			"Languages": [
-				{
-					"choose": null,
-					"selection": []
 				}
 			]
 		},
-		"Starting Equipment": [
-			{
-				"choose": 1,
-				"selection": [
-					"hide armor",
-					[
-						"padded armor",
-						"a dagger",
-						"a longbow",
-						"a leather quiver",
-						"20 arrows"
-					]
-				]
-			},
-			{
-				"choose": 1,
-				"selection": [
-					[
-						"a martial weapon",
-						"a shield"
-					],
-					"2 martial weapons"
-				]
-			},
-			{
-				"choose": 1,
-				"selection": [
-					[
-						"a simple crossbow",
-						"20 bolts"
-					],
-					"2 handaxes"
-				]
-			},
-			{
-				"choose": 1,
-				"selection": [
-					"a dungeoneer's pack",
-					"an explorer's pack"
+		"Multiclassing": {
+			"Proficiencies": {
+				"Armor": [
+					{
+						"choose": null,
+						"selection": [
+							"light armor",
+							"medium armor",
+							"shields"
+						]
+					}
+				],
+				"Weapons": [
+					{
+						"choose": null,
+						"selection": [
+							"simple weapons",
+							"martial weapons"
+						]
+					}
 				]
 			}
-		],
-		"Initial Funds": "5d4 × 10"
-	},
-	"Multiclassing": {
-		"Prerequisites": {
-			"Sum of Strength and Dexterity": 24
-		},
-		"Proficiencies": {
-			"Armor": [
-				{
-					"choose": null,
-					"selection": [
-						"light armor",
-						"medium armor",
-						"shields"
-					]
-				}
-			],
-			"Weapons": [
-				{
-					"choose": null,
-					"selection": [
-						"simple weapons",
-						"martial weapons"
-					]
-				}
-			],
-			"Saving Throws": [],
-			"Skills": [],
-			"Tools": [],
-			"Languages": []
 		}
 	}
 }
