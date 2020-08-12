@@ -15,7 +15,7 @@ You can transform unexpended spell points into one or more spell slots at the en
 The *"Conversion Rates"* table shows the cost of creating a spell slot of a given level.
 You can use this feature to create spell slots no higher in level than 5th.
 
-#### Conversion Rates
+###### Conversion Rates
 | Spell Slot Level | Spell Point Cost |
 |------------------|------------------|
 | 1st              | 3                |
