@@ -2,9 +2,6 @@
 	"slug": "rogue",
 	"name": "Rogue",
 	"hit-dice": "1d8",
-	"prerequisites": {
-		"dexterity": 15
-	},
 	"structured-data": {
 		"Starting Out": {
 			"Proficiencies": {
@@ -118,6 +115,16 @@
 			]
 		},
 		"Multiclassing": {
+			"Prerequisites": {
+				"Ability Scores": [
+					{
+						"choose": null,
+						"selection": [
+							"15 dexterity"
+						]
+					}
+				]
+			},
 			"Proficiencies": {
 				"Armor": [
 					{

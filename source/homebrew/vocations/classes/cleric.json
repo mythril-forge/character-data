@@ -2,9 +2,6 @@
 	"slug": "cleric",
 	"name": "Cleric",
 	"hit-dice": "1d8",
-	"prerequisites": {
-		"wisdom": 15
-	},
 	"structured-data": {
 		"Starting Out": {
 			"Proficiencies": {
@@ -97,6 +94,16 @@
 			]
 		},
 		"Multiclassing": {
+			"Prerequisites": {
+				"Ability Scores": [
+					{
+						"choose": null,
+						"selection": [
+							"15 wisdom"
+						]
+					}
+				]
+			},
 			"Proficiencies": {
 				"Armor": [
 					{

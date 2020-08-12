@@ -2,10 +2,6 @@
 	"slug": "barbarian",
 	"name": "Barbarian",
 	"hit-dice": "1d12",
-	"prerequisites": {
-		"strength": 13,
-		"constitution": 13
-	},
 	"structured-data": {
 		"Starting Out": {
 			"Proficiencies": {
@@ -83,6 +79,17 @@
 			]
 		},
 		"Multiclassing": {
+			"Prerequisites": {
+				"Ability Scores": [
+					{
+						"choose": null,
+						"selection": [
+							"13 strength",
+							"13 constitution"
+						]
+					}
+				]
+			},
 			"Proficiencies": {
 				"Armor": [
 					{

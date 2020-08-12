@@ -2,9 +2,6 @@
 	"slug": "wizard",
 	"name": "Wizard",
 	"hit-dice": "1d4",
-	"prerequisites": {
-		"intelligence": 15
-	},
 	"structured-data": {
 		"Starting Out": {
 			"Proficiencies": {
@@ -92,6 +89,16 @@
 			]
 		},
 		"Multiclassing": {
+			"Prerequisites": {
+				"Ability Scores": [
+					{
+						"choose": null,
+						"selection": [
+							"15 intelligence"
+						]
+					}
+				]
+			},
 			"Proficiencies": {
 				"Tools": [
 					{

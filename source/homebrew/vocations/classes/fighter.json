@@ -2,10 +2,6 @@
 	"slug": "fighter",
 	"name": "Fighter",
 	"hit-dice": "1d10",
-	"prerequisites": {
-		"strength": 11,
-		"dexterity": 11
-	},
 	"structured-data": {
 		"Starting Out": {
 			"Proficiencies": {
@@ -105,6 +101,17 @@
 			]
 		},
 		"Multiclassing": {
+			"Prerequisites": {
+				"Ability Scores": [
+					{
+						"choose": 1,
+						"selection": [
+							"13 strength",
+							"13 dexterity"
+						]
+					}
+				]
+			},
 			"Proficiencies": {
 				"Armor": [
 					{
