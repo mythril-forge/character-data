@@ -2,71 +2,80 @@
 	"slug": "wizard",
 	"name": "Wizard",
 	"hit-dice": "1d4",
-	"prerequisites": {
-		"intelligence": 15
-	},
 	"structured-data": {
-		"Starting Out": {
-			"Proficiencies": {
-				"Weapons": [
-					{
-						"choose": null,
-						"selection": [
-							"daggers",
-							"darts",
-							"slings",
-							"quarterstaffs",
-							"simple crossbows"
-						]
-					}
-				],
-				"Saving Throws": [
-					{
-						"choose": null,
-						"selection": [
-							"intelligence",
-							"wisdom"
-						]
-					}
-				],
-				"Skills": [
-					{
-						"choose": 2,
-						"selection": [
-							"arcana",
-							"history",
-							"insight",
-							"investigation",
-							"medicine",
-							"religion"
-						]
-					}
-				],
-				"Tools": [
-					{
-						"choose": 1,
-						"selection": [
-							"alchemist's supplies",
-							"calligrapher's supplies",
-							"jeweler's tools",
-							"herbalism kits"
-						]
-					}
-				]
-			},
-			"Equipment": [
+		"Prerequisites": {
+			"Ability Scores": [
+				{
+					"choose": null,
+					"selection": [
+						"15 intelligence"
+					]
+				}
+			]
+		},
+		"Proficiencies": {
+			"Weapons": [
+				{
+					"choose": null,
+					"selection": [
+						"daggers",
+						"darts",
+						"slings",
+						"quarterstaffs",
+						"basic crossbows"
+					]
+				}
+			],
+			"Saving Throws": [
+				{
+					"choose": null,
+					"selection": [
+						"intelligence",
+						"wisdom"
+					]
+				}
+			],
+			"Skills": [
+				{
+					"choose": 2,
+					"selection": [
+						"arcana",
+						"history",
+						"insight",
+						"investigation",
+						"medicine",
+						"religion"
+					]
+				}
+			],
+			"Tools": [
+				{
+					"choose": 1,
+					"selection": [
+						"alchemist's supplies",
+						"calligrapher's supplies",
+						"jeweler's tools",
+						"herbalism kits"
+					]
+				}
+			]
+		},
+		"Equipment": {
+			"Armaments": [
 				{
 					"choose": 1,
 					"selection": [
 						"a quarterstaff",
 						"a dagger"
 					]
-				},
+				}
+			],
+			"Accessories": [
 				{
 					"choose": 1,
 					"selection": [
 						"an arcane anchor",
-						"a component pouch "
+						"3 component kits"
 					]
 				},
 				{
@@ -79,7 +88,9 @@
 				{
 					"choose": null,
 					"selection": [
-						"a spellbook"
+						"a spellbook",
+						"a feather pen",
+						"a component kit"
 					]
 				},
 				{
@@ -92,19 +103,17 @@
 			]
 		},
 		"Multiclassing": {
-			"Proficiencies": {
-				"Tools": [
-					{
-						"choose": 1,
-						"selection": [
-							"alchemist's supplies",
-							"herbalism kits",
-							"calligrapher's supplies",
-							"jeweler's tools"
-						]
-					}
-				]
-			}
+			"Tools": [
+				{
+					"choose": 1,
+					"selection": [
+						"alchemist's supplies",
+						"calligrapher's supplies",
+						"herbalism kits",
+						"jeweler's tools"
+					]
+				}
+			]
 		}
 	}
 }

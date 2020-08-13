@@ -2,56 +2,63 @@
 	"slug": "barbarian",
 	"name": "Barbarian",
 	"hit-dice": "1d12",
-	"prerequisites": {
-		"strength": 13,
-		"constitution": 13
-	},
 	"structured-data": {
-		"Starting Out": {
-			"Proficiencies": {
-				"Armor": [
-					{
-						"choose": null,
-						"selection": [
-							"light armor",
-							"medium armor",
-							"shields"
-						]
-					}
-				],
-				"Weapons": [
-					{
-						"choose": null,
-						"selection": [
-							"simple weapons",
-							"martial weapons"
-						]
-					}
-				],
-				"Saving Throws": [
-					{
-						"choose": null,
-						"selection": [
-							"strength",
-							"constitution"
-						]
-					}
-				],
-				"Skills": [
-					{
-						"choose": 2,
-						"selection": [
-							"animal handling",
-							"athletics",
-							"intimidation",
-							"nature",
-							"perception",
-							"survival"
-						]
-					}
-				]
-			},
-			"Equipment": [
+		"Prerequisites": {
+			"Ability Scores": [
+				{
+					"choose": null,
+					"selection": [
+						"13 strength",
+						"13 constitution"
+					]
+				}
+			]
+		},
+		"Proficiencies": {
+			"Armor": [
+				{
+					"choose": null,
+					"selection": [
+						"light armor",
+						"medium armor",
+						"shields"
+					]
+				}
+			],
+			"Weapons": [
+				{
+					"choose": null,
+					"selection": [
+						"simple weapons",
+						"martial weapons"
+					]
+				}
+			],
+			"Saving Throws": [
+				{
+					"choose": null,
+					"selection": [
+						"strength",
+						"constitution"
+					]
+				}
+			],
+			"Skills": [
+				{
+					"choose": 2,
+					"selection": [
+						"animal handling",
+						"athletics",
+						"intimidation",
+						"nature",
+						"perception",
+						"survival"
+					]
+				}
+			]
+		},
+		"Equipment": {
+			"Armaments": [
 				{
 					"choose": 1,
 					"selection": [
@@ -69,8 +76,15 @@
 				{
 					"choose": null,
 					"selection": [
-						"an explorer's pack",
 						"4 javelins"
+					]
+				}
+			],
+			"Accessories": [
+				{
+					"choose": null,
+					"selection": [
+						"an explorer's pack"
 					]
 				},
 				{
@@ -83,25 +97,23 @@
 			]
 		},
 		"Multiclassing": {
-			"Proficiencies": {
-				"Armor": [
-					{
-						"choose": null,
-						"selection": [
-							"shields"
-						]
-					}
-				],
-				"Weapons": [
-					{
-						"choose": null,
-						"selection": [
-							"simple weapons",
-							"martial weapons"
-						]
-					}
-				]
-			}
+			"Armor": [
+				{
+					"choose": null,
+					"selection": [
+						"shields"
+					]
+				}
+			],
+			"Weapons": [
+				{
+					"choose": null,
+					"selection": [
+						"simple weapons",
+						"martial weapons"
+					]
+				}
+			]
 		}
 	}
 }
