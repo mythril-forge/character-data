@@ -32,13 +32,6 @@
 						"shortswords",
 						"hand crossbows"
 					]
-				},
-				{
-					"choose": null,
-					"selection": [
-						"dexterity",
-						"intelligence"
-					]
 				}
 			],
 			"Saving Throws": [

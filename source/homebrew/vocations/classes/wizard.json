@@ -22,7 +22,7 @@
 						"darts",
 						"slings",
 						"quarterstaffs",
-						"simple crossbows"
+						"basic crossbows"
 					]
 				}
 			],
@@ -108,8 +108,8 @@
 					"choose": 1,
 					"selection": [
 						"alchemist's supplies",
-						"herbalism kits",
 						"calligrapher's supplies",
+						"herbalism kits",
 						"jeweler's tools"
 					]
 				}
