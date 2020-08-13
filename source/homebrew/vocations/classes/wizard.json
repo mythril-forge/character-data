@@ -3,6 +3,16 @@
 	"name": "Wizard",
 	"hit-dice": "1d4",
 	"structured-data": {
+		"Prerequisites": {
+			"Ability Scores": [
+				{
+					"choose": null,
+					"selection": [
+						"15 intelligence"
+					]
+				}
+			]
+		},
 		"Proficiencies": {
 			"Weapons": [
 				{
@@ -88,16 +98,6 @@
 					"selection": [
 						"a belt purse",
 						"4d4 × 10 silver pieces"
-					]
-				}
-			]
-		},
-		"Prerequisites": {
-			"Ability Scores": [
-				{
-					"choose": null,
-					"selection": [
-						"15 intelligence"
 					]
 				}
 			]

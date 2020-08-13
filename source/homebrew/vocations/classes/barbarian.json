@@ -3,6 +3,17 @@
 	"name": "Barbarian",
 	"hit-dice": "1d12",
 	"structured-data": {
+		"Prerequisites": {
+			"Ability Scores": [
+				{
+					"choose": null,
+					"selection": [
+						"13 strength",
+						"13 constitution"
+					]
+				}
+			]
+		},
 		"Proficiencies": {
 			"Armor": [
 				{
@@ -81,17 +92,6 @@
 					"selection": [
 						"a belt purse",
 						"2d4 × 10 silver pieces"
-					]
-				}
-			]
-		},
-		"Prerequisites": {
-			"Ability Scores": [
-				{
-					"choose": null,
-					"selection": [
-						"13 strength",
-						"13 constitution"
 					]
 				}
 			]

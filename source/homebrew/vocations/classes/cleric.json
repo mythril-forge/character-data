@@ -3,6 +3,16 @@
 	"name": "Cleric",
 	"hit-dice": "1d8",
 	"structured-data": {
+		"Prerequisites": {
+			"Ability Scores": [
+				{
+					"choose": null,
+					"selection": [
+						"15 wisdom"
+					]
+				}
+			]
+		},
 		"Proficiencies": {
 			"Armor": [
 				{
@@ -96,16 +106,6 @@
 					"selection": [
 						"a belt purse",
 						"5d4 × 10 silver pieces"
-					]
-				}
-			]
-		},
-		"Prerequisites": {
-			"Ability Scores": [
-				{
-					"choose": null,
-					"selection": [
-						"15 wisdom"
 					]
 				}
 			]

@@ -3,6 +3,17 @@
 	"name": "Fighter",
 	"hit-dice": "1d10",
 	"structured-data": {
+		"Prerequisites": {
+			"Ability Scores": [
+				{
+					"choose": 1,
+					"selection": [
+						"13 strength",
+						"13 dexterity"
+					]
+				}
+			]
+		},
 		"Proficiencies": {
 			"Armor": [
 				{
@@ -98,17 +109,6 @@
 					"selection": [
 						"a belt purse",
 						"5d4 × 10 silver pieces"
-					]
-				}
-			]
-		},
-		"Prerequisites": {
-			"Ability Scores": [
-				{
-					"choose": 1,
-					"selection": [
-						"13 strength",
-						"13 dexterity"
 					]
 				}
 			]

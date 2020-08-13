@@ -3,6 +3,16 @@
 	"name": "Rogue",
 	"hit-dice": "1d8",
 	"structured-data": {
+		"Prerequisites": {
+			"Ability Scores": [
+				{
+					"choose": null,
+					"selection": [
+						"15 dexterity"
+					]
+				}
+			]
+		},
 		"Proficiencies": {
 			"Armor": [
 				{
@@ -118,16 +128,6 @@
 					"selection": [
 						"a belt purse",
 						"4d4 × 10 silver pieces"
-					]
-				}
-			]
-		},
-		"Prerequisites": {
-			"Ability Scores": [
-				{
-					"choose": null,
-					"selection": [
-						"15 dexterity"
 					]
 				}
 			]
