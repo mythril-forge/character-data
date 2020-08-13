@@ -51,42 +51,48 @@
 					}
 				]
 			},
-			"Equipment": [
-				{
-					"choose": 1,
-					"selection": [
-						"a quarterstaff",
-						"a dagger"
-					]
-				},
-				{
-					"choose": 1,
-					"selection": [
-						"an arcane anchor",
-						"a component pouch "
-					]
-				},
-				{
-					"choose": 1,
-					"selection": [
-						"a scholar's pack",
-						"an explorer's pack"
-					]
-				},
-				{
-					"choose": null,
-					"selection": [
-						"a spellbook"
-					]
-				},
-				{
-					"choose": null,
-					"selection": [
-						"a belt purse",
-						"4d4 × 10 silver pieces"
-					]
-				}
-			]
+			"Equipment": {
+				"Armaments": [
+					{
+						"choose": 1,
+						"selection": [
+							"a quarterstaff",
+							"a dagger"
+						]
+					}
+				],
+				"Accessories": [
+					{
+						"choose": 1,
+						"selection": [
+							"an arcane anchor",
+							"3 component kits"
+						]
+					},
+					{
+						"choose": 1,
+						"selection": [
+							"a scholar's pack",
+							"an explorer's pack"
+						]
+					},
+					{
+						"choose": null,
+						"selection": [
+							"a spellbook",
+							"a feather pen",
+							"a component kit"
+						]
+					},
+					{
+						"choose": null,
+						"selection": [
+							"a belt purse",
+							"4d4 × 10 silver pieces"
+						]
+					}
+				]
+			}
 		},
 		"Multiclassing": {
 			"Prerequisites": {

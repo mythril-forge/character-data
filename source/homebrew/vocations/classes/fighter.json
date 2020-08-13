@@ -50,55 +50,59 @@
 					}
 				]
 			},
-			"Equipment": [
-				{
-					"choose": 1,
-					"selection": [
-						"hide armor",
-						[
-							"padded armor",
-							"a dagger",
-							"a longbow",
-							"a leather quiver",
-							"20 arrows"
+			"Equipment": {
+				"Armaments": [
+					{
+						"choose": 1,
+						"selection": [
+							"hide armor",
+							[
+								"padded armor",
+								"a dagger",
+								"a longbow",
+								"a leather quiver",
+								"20 arrows"
+							]
 						]
-					]
-				},
-				{
-					"choose": 1,
-					"selection": [
-						[
-							"a martial weapon",
-							"a shield"
-						],
-						"2 martial weapons"
-					]
-				},
-				{
-					"choose": 1,
-					"selection": [
-						[
-							"a simple crossbow",
-							"20 bolts"
-						],
-						"2 handaxes"
-					]
-				},
-				{
-					"choose": 1,
-					"selection": [
-						"a dungeoneer's pack",
-						"an explorer's pack"
-					]
-				},
-				{
-					"choose": null,
-					"selection": [
-						"a belt purse",
-						"5d4 × 10 silver pieces"
-					]
-				}
-			]
+					},
+					{
+						"choose": 1,
+						"selection": [
+							[
+								"a martial weapon",
+								"a shield"
+							],
+							"2 martial weapons"
+						]
+					},
+					{
+						"choose": 1,
+						"selection": [
+							[
+								"a simple crossbow",
+								"20 bolts"
+							],
+							"2 handaxes"
+						]
+					}
+				],
+				"Accessories": [
+					{
+						"choose": 1,
+						"selection": [
+							"a dungeoneer's pack",
+							"an explorer's pack"
+						]
+					},
+					{
+						"choose": null,
+						"selection": [
+							"a belt purse",
+							"5d4 × 10 silver pieces"
+						]
+					}
+				]
+			}
 		},
 		"Multiclassing": {
 			"Prerequisites": {
