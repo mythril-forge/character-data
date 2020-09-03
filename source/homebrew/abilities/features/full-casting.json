@@ -6,24 +6,30 @@
 			"progression": [
 				{
 					"Level": 1,
-					"Max. Spells Learned": "infinite",
-					"Max. Spells Prepared": "1 + wis. modifier",
+					"Cleric Spells": {
+						"Max. Learned": "infinite",
+						"Max. Prepared": "1 + wis. modifier"
+					},
 					"Spell Slots per Slot Level": {
 						"1st": 1
 					}
 				},
 				{
 					"Level": 2,
-					"Max. Spells Learned": "infinite",
-					"Max. Spells Prepared": "3 + wis. modifier",
+					"Cleric Spells": {
+						"Max. Learned": "infinite",
+						"Max. Prepared": "3 + wis. modifier"
+					},
 					"Spell Slots per Slot Level": {
 						"1st": 2
 					}
 				},
 				{
 					"Level": 3,
-					"Max. Spells Learned": "infinite",
-					"Max. Spells Prepared": "4 + wis. modifier",
+					"Cleric Spells": {
+						"Max. Learned": "infinite",
+						"Max. Prepared": "4 + wis. modifier"
+					},
 					"Spell Slots per Slot Level": {
 						"1st": 3,
 						"2nd": 1
@@ -31,8 +37,10 @@
 				},
 				{
 					"Level": 4,
-					"Max. Spells Learned": "infinite",
-					"Max. Spells Prepared": "6 + wis. modifier",
+					"Cleric Spells": {
+						"Max. Learned": "infinite",
+						"Max. Prepared": "6 + wis. modifier"
+					},
 					"Spell Slots per Slot Level": {
 						"1st": 3,
 						"2nd": 2
@@ -40,8 +48,10 @@
 				},
 				{
 					"Level": 5,
-					"Max. Spells Learned": "infinite",
-					"Max. Spells Prepared": "7 + wis. modifier",
+					"Cleric Spells": {
+						"Max. Learned": "infinite",
+						"Max. Prepared": "7 + wis. modifier"
+					},
 					"Spell Slots per Slot Level": {
 						"1st": 3,
 						"2nd": 3,
@@ -50,8 +60,10 @@
 				},
 				{
 					"Level": 6,
-					"Max. Spells Learned": "infinite",
-					"Max. Spells Prepared": "8 + wis. modifier",
+					"Cleric Spells": {
+						"Max. Learned": "infinite",
+						"Max. Prepared": "8 + wis. modifier"
+					},
 					"Spell Slots per Slot Level": {
 						"1st": 4,
 						"2nd": 3,
@@ -60,8 +72,10 @@
 				},
 				{
 					"Level": 7,
-					"Max. Spells Learned": "infinite",
-					"Max. Spells Prepared": "9 + wis. modifier",
+					"Cleric Spells": {
+						"Max. Learned": "infinite",
+						"Max. Prepared": "9 + wis. modifier"
+					},
 					"Spell Slots per Slot Level": {
 						"1st": 4,
 						"2nd": 3,
@@ -71,8 +85,10 @@
 				},
 				{
 					"Level": 8,
-					"Max. Spells Learned": "infinite",
-					"Max. Spells Prepared": "11 + wis. modifier",
+					"Cleric Spells": {
+						"Max. Learned": "infinite",
+						"Max. Prepared": "11 + wis. modifier"
+					},
 					"Spell Slots per Slot Level": {
 						"1st": 4,
 						"2nd": 4,
@@ -82,8 +98,10 @@
 				},
 				{
 					"Level": 9,
-					"Max. Spells Learned": "infinite",
-					"Max. Spells Prepared": "12 + wis. modifier",
+					"Cleric Spells": {
+						"Max. Learned": "infinite",
+						"Max. Prepared": "12 + wis. modifier"
+					},
 					"Spell Slots per Slot Level": {
 						"1st": 4,
 						"2nd": 4,
@@ -94,8 +112,10 @@
 				},
 				{
 					"Level": 10,
-					"Max. Spells Learned": "infinite",
-					"Max. Spells Prepared": "14 + wis. modifier",
+					"Cleric Spells": {
+						"Max. Learned": "infinite",
+						"Max. Prepared": "14 + wis. modifier"
+					},
 					"Spell Slots per Slot Level": {
 						"1st": 4,
 						"2nd": 4,
@@ -106,8 +126,10 @@
 				},
 				{
 					"Level": 11,
-					"Max. Spells Learned": "infinite",
-					"Max. Spells Prepared": "15 + wis. modifier",
+					"Cleric Spells": {
+						"Max. Learned": "infinite",
+						"Max. Prepared": "15 + wis. modifier"
+					},
 					"Spell Slots per Slot Level": {
 						"1st": 4,
 						"2nd": 4,
@@ -119,8 +141,10 @@
 				},
 				{
 					"Level": 12,
-					"Max. Spells Learned": "infinite",
-					"Max. Spells Prepared": "16 + wis. modifier",
+					"Cleric Spells": {
+						"Max. Learned": "infinite",
+						"Max. Prepared": "16 + wis. modifier"
+					},
 					"Spell Slots per Slot Level": {
 						"1st": 4,
 						"2nd": 4,
@@ -132,8 +156,10 @@
 				},
 				{
 					"Level": 13,
-					"Max. Spells Learned": "infinite",
-					"Max. Spells Prepared": "17 + wis. modifier",
+					"Cleric Spells": {
+						"Max. Learned": "infinite",
+						"Max. Prepared": "17 + wis. modifier"
+					},
 					"Spell Slots per Slot Level": {
 						"1st": 4,
 						"2nd": 4,
@@ -146,8 +172,10 @@
 				},
 				{
 					"Level": 14,
-					"Max. Spells Learned": "infinite",
-					"Max. Spells Prepared": "18 + wis. modifier",
+					"Cleric Spells": {
+						"Max. Learned": "infinite",
+						"Max. Prepared": "18 + wis. modifier"
+					},
 					"Spell Slots per Slot Level": {
 						"1st": 4,
 						"2nd": 4,
@@ -160,8 +188,10 @@
 				},
 				{
 					"Level": 15,
-					"Max. Spells Learned": "infinite",
-					"Max. Spells Prepared": "19 + wis. modifier",
+					"Cleric Spells": {
+						"Max. Learned": "infinite",
+						"Max. Prepared": "19 + wis. modifier"
+					},
 					"Spell Slots per Slot Level": {
 						"1st": 4,
 						"2nd": 4,
@@ -175,8 +205,10 @@
 				},
 				{
 					"Level": 16,
-					"Max. Spells Learned": "infinite",
-					"Max. Spells Prepared": "20 + wis. modifier",
+					"Cleric Spells": {
+						"Max. Learned": "infinite",
+						"Max. Prepared": "20 + wis. modifier"
+					},
 					"Spell Slots per Slot Level": {
 						"1st": 4,
 						"2nd": 4,
@@ -190,8 +222,10 @@
 				},
 				{
 					"Level": 17,
-					"Max. Spells Learned": "infinite",
-					"Max. Spells Prepared": "21 + wis. modifier",
+					"Cleric Spells": {
+						"Max. Learned": "infinite",
+						"Max. Prepared": "21 + wis. modifier"
+					},
 					"Spell Slots per Slot Level": {
 						"1st": 4,
 						"2nd": 4,
@@ -206,8 +240,10 @@
 				},
 				{
 					"Level": 18,
-					"Max. Spells Learned": "infinite",
-					"Max. Spells Prepared": "22 + wis. modifier",
+					"Cleric Spells": {
+						"Max. Learned": "infinite",
+						"Max. Prepared": "22 + wis. modifier"
+					},
 					"Spell Slots per Slot Level": {
 						"1st": 4,
 						"2nd": 4,
@@ -222,8 +258,10 @@
 				},
 				{
 					"Level": 19,
-					"Max. Spells Learned": "infinite",
-					"Max. Spells Prepared": "23 + wis. modifier",
+					"Cleric Spells": {
+						"Max. Learned": "infinite",
+						"Max. Prepared": "23 + wis. modifier"
+					},
 					"Spell Slots per Slot Level": {
 						"1st": 4,
 						"2nd": 4,
@@ -239,8 +277,10 @@
 				},
 				{
 					"Level": 20,
-					"Max. Spells Learned": "infinite",
-					"Max. Spells Prepared": "24 + wis. modifier",
+					"Cleric Spells": {
+						"Max. Learned": "infinite",
+						"Max. Prepared": "24 + wis. modifier"
+					},
 					"Spell Slots per Slot Level": {
 						"1st": 4,
 						"2nd": 4,
@@ -260,24 +300,30 @@
 			"progression": [
 				{
 					"Level": 1,
-					"Max. Spells Learned": "3 + int. modifier",
-					"Max. Spells Prepared": "3 + int. modifier",
+					"Wizard Spells": {
+						"Max. Learned": "3 + int. modifier",
+						"Max. Prepared": "3 + int. modifier"
+					},
 					"Spell Slots per Slot Level": {
 						"1st": 1
 					}
 				},
 				{
 					"Level": 2,
-					"Max. Spells Learned": "4 + int. modifier",
-					"Max. Spells Prepared": "4 + int. modifier",
+					"Wizard Spells": {
+						"Max. Learned": "4 + int. modifier",
+						"Max. Prepared": "4 + int. modifier"
+					},
 					"Spell Slots per Slot Level": {
 						"1st": 2
 					}
 				},
 				{
 					"Level": 3,
-					"Max. Spells Learned": "5 + int. modifier",
-					"Max. Spells Prepared": "5 + int. modifier",
+					"Wizard Spells": {
+						"Max. Learned": "5 + int. modifier",
+						"Max. Prepared": "5 + int. modifier"
+					},
 					"Spell Slots per Slot Level": {
 						"1st": 3,
 						"2nd": 1
@@ -285,8 +331,10 @@
 				},
 				{
 					"Level": 4,
-					"Max. Spells Learned": "7 + int. modifier",
-					"Max. Spells Prepared": "7 + int. modifier",
+					"Wizard Spells": {
+						"Max. Learned": "7 + int. modifier",
+						"Max. Prepared": "7 + int. modifier"
+					},
 					"Spell Slots per Slot Level": {
 						"1st": 3,
 						"2nd": 2
@@ -294,8 +342,10 @@
 				},
 				{
 					"Level": 5,
-					"Max. Spells Learned": "10 + int. modifier",
-					"Max. Spells Prepared": "10 + int. modifier",
+					"Wizard Spells": {
+						"Max. Learned": "10 + int. modifier",
+						"Max. Prepared": "10 + int. modifier"
+					},
 					"Spell Slots per Slot Level": {
 						"1st": 3,
 						"2nd": 3,
@@ -304,8 +354,10 @@
 				},
 				{
 					"Level": 6,
-					"Max. Spells Learned": "12 + int. modifier",
-					"Max. Spells Prepared": "12 + int. modifier",
+					"Wizard Spells": {
+						"Max. Learned": "12 + int. modifier",
+						"Max. Prepared": "12 + int. modifier"
+					},
 					"Spell Slots per Slot Level": {
 						"1st": 4,
 						"2nd": 3,
@@ -314,8 +366,10 @@
 				},
 				{
 					"Level": 7,
-					"Max. Spells Learned": "13 + int. modifier",
-					"Max. Spells Prepared": "13 + int. modifier",
+					"Wizard Spells": {
+						"Max. Learned": "13 + int. modifier",
+						"Max. Prepared": "13 + int. modifier"
+					},
 					"Spell Slots per Slot Level": {
 						"1st": 4,
 						"2nd": 3,
@@ -325,8 +379,10 @@
 				},
 				{
 					"Level": 8,
-					"Max. Spells Learned": "14 + int. modifier",
-					"Max. Spells Prepared": "14 + int. modifier",
+					"Wizard Spells": {
+						"Max. Learned": "14 + int. modifier",
+						"Max. Prepared": "14 + int. modifier"
+					},
 					"Spell Slots per Slot Level": {
 						"1st": 4,
 						"2nd": 4,
@@ -336,8 +392,10 @@
 				},
 				{
 					"Level": 9,
-					"Max. Spells Learned": "15 + int. modifier",
-					"Max. Spells Prepared": "15 + int. modifier",
+					"Wizard Spells": {
+						"Max. Learned": "15 + int. modifier",
+						"Max. Prepared": "15 + int. modifier"
+					},
 					"Spell Slots per Slot Level": {
 						"1st": 4,
 						"2nd": 4,
@@ -348,8 +406,10 @@
 				},
 				{
 					"Level": 10,
-					"Max. Spells Learned": "17 + int. modifier",
-					"Max. Spells Prepared": "17 + int. modifier",
+					"Wizard Spells": {
+						"Max. Learned": "17 + int. modifier",
+						"Max. Prepared": "17 + int. modifier"
+					},
 					"Spell Slots per Slot Level": {
 						"1st": 4,
 						"2nd": 4,
@@ -360,8 +420,10 @@
 				},
 				{
 					"Level": 11,
-					"Max. Spells Learned": "20 + int. modifier",
-					"Max. Spells Prepared": "20 + int. modifier",
+					"Wizard Spells": {
+						"Max. Learned": "20 + int. modifier",
+						"Max. Prepared": "20 + int. modifier"
+					},
 					"Spell Slots per Slot Level": {
 						"1st": 4,
 						"2nd": 4,
@@ -373,8 +435,10 @@
 				},
 				{
 					"Level": 12,
-					"Max. Spells Learned": "22 + int. modifier",
-					"Max. Spells Prepared": "22 + int. modifier",
+					"Wizard Spells": {
+						"Max. Learned": "22 + int. modifier",
+						"Max. Prepared": "22 + int. modifier"
+					},
 					"Spell Slots per Slot Level": {
 						"1st": 4,
 						"2nd": 4,
@@ -386,8 +450,10 @@
 				},
 				{
 					"Level": 13,
-					"Max. Spells Learned": "23 + int. modifier",
-					"Max. Spells Prepared": "23 + int. modifier",
+					"Wizard Spells": {
+						"Max. Learned": "23 + int. modifier",
+						"Max. Prepared": "23 + int. modifier"
+					},
 					"Spell Slots per Slot Level": {
 						"1st": 4,
 						"2nd": 4,
@@ -400,8 +466,10 @@
 				},
 				{
 					"Level": 14,
-					"Max. Spells Learned": "24 + int. modifier",
-					"Max. Spells Prepared": "24 + int. modifier",
+					"Wizard Spells": {
+						"Max. Learned": "24 + int. modifier",
+						"Max. Prepared": "24 + int. modifier"
+					},
 					"Spell Slots per Slot Level": {
 						"1st": 4,
 						"2nd": 4,
@@ -414,8 +482,10 @@
 				},
 				{
 					"Level": 15,
-					"Max. Spells Learned": "25 + int. modifier",
-					"Max. Spells Prepared": "25 + int. modifier",
+					"Wizard Spells": {
+						"Max. Learned": "25 + int. modifier",
+						"Max. Prepared": "25 + int. modifier"
+					},
 					"Spell Slots per Slot Level": {
 						"1st": 4,
 						"2nd": 4,
@@ -429,8 +499,10 @@
 				},
 				{
 					"Level": 16,
-					"Max. Spells Learned": "27 + int. modifier",
-					"Max. Spells Prepared": "27 + int. modifier",
+					"Wizard Spells": {
+						"Max. Learned": "27 + int. modifier",
+						"Max. Prepared": "27 + int. modifier"
+					},
 					"Spell Slots per Slot Level": {
 						"1st": 4,
 						"2nd": 4,
@@ -444,8 +516,10 @@
 				},
 				{
 					"Level": 17,
-					"Max. Spells Learned": "30 + int. modifier",
-					"Max. Spells Prepared": "30 + int. modifier",
+					"Wizard Spells": {
+						"Max. Learned": "30 + int. modifier",
+						"Max. Prepared": "30 + int. modifier"
+					},
 					"Spell Slots per Slot Level": {
 						"1st": 4,
 						"2nd": 4,
@@ -460,8 +534,10 @@
 				},
 				{
 					"Level": 18,
-					"Max. Spells Learned": "32 + int. modifier",
-					"Max. Spells Prepared": "32 + int. modifier",
+					"Wizard Spells": {
+						"Max. Learned": "32 + int. modifier",
+						"Max. Prepared": "32 + int. modifier"
+					},
 					"Spell Slots per Slot Level": {
 						"1st": 4,
 						"2nd": 4,
@@ -476,8 +552,10 @@
 				},
 				{
 					"Level": 19,
-					"Max. Spells Learned": "33 + int. modifier",
-					"Max. Spells Prepared": "33 + int. modifier",
+					"Wizard Spells": {
+						"Max. Learned": "33 + int. modifier",
+						"Max. Prepared": "33 + int. modifier"
+					},
 					"Spell Slots per Slot Level": {
 						"1st": 4,
 						"2nd": 4,
@@ -493,8 +571,10 @@
 				},
 				{
 					"Level": 20,
-					"Max. Spells Learned": "34 + int. modifier",
-					"Max. Spells Prepared": "34 + int. modifier",
+					"Wizard Spells": {
+						"Max. Learned": "34 + int. modifier",
+						"Max. Prepared": "34 + int. modifier"
+					},
 					"Spell Slots per Slot Level": {
 						"1st": 4,
 						"2nd": 4,
