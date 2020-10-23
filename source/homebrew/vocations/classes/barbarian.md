@@ -54,14 +54,7 @@ You can make a barbarian quickly by following these suggestions.
 First, put your highest ability score in Strength, followed by Constitution.
 Second, choose the outlander background.
 
----
-
-# Class Features
-`{( class-features )}`
-
----
-
-# Addendum
+# Barbarian Addendum
 - **Xanathar's Guide to Everything:** p8
 > "I have witnessed the indomitable performance of barbarians on the field of battle, and it makes me wonder what force lies at the heart of their rage."
 >

@@ -53,14 +53,7 @@ If you plan to join the School of Enchantment, make Charisma your next-best scor
 Second, choose the sage background.
 Third, choose the mage hand, light, and ray of frost cantrips, along with the following 1st-level spells for your spellbook: burning hands, charm person, feather fall, mage armor, magic missile, and sleep.
 
----
-
-# Class Features
-`{( class-features )}`
-
----
-
-# Addendum
+# Wizard Addendum
 - **Xanathar's Guide to Everything:** p58
 
 > "Wizardry requires understanding.

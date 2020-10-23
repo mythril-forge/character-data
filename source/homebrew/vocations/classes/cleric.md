@@ -54,14 +54,7 @@ You can make a cleric quickly by following these suggestions.
 First, Wisdom should be your highest ability score, followed by Strength or Constitution.
 Second, choose the acolyte background.
 
----
-
-# Class Features
-`{( class-features )}`
-
----
-
-# Addendum
+# Cleric Addendum
 - **Xanathar's Guide to Everything:** p17
 
 > "To become a cleric is to become a messenger of the gods.

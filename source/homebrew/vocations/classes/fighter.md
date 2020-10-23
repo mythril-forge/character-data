@@ -53,14 +53,7 @@ First, make Strength or Dexterity your highest ability score, depending on wheth
 Your next-highest score should be Constitution, or Intelligence if you plan to adopt the Eldritch Knight martial archetype.
 Second, choose the soldier background.
 
----
-
-# Class Features
-`{( class-features )}`
-
----
-
-# Addendum
+# Fighter Addendum
 - **Xanathar's Guide to Everything:** p27
 > "Let me know when you're all done talking."
 >

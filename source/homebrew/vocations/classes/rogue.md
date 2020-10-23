@@ -54,14 +54,7 @@ Make Intelligence your next-highest if you want to excel at Investigation or pla
 Choose Charisma instead if you plan to emphasize deception and social interaction.
 Second, choose the charlatan background.
 
----
-
-# Class Features
-`{( class-features )}`
-
----
-
-# Addendum
+# Rogue Addendum
 - **Xanathar's Guide to Everything:** p44
 
 > "People forget that the entire point of venturing down into a dusty tomb is to bring back the prizes hidden away there.
