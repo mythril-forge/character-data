@@ -10,7 +10,7 @@
 				}
 			],
 			"children": [
-				"full-casting",
+				"full-caster-progression",
 				"spellcasting-ability",
 				"spell-slots-and-casting-spells",
 				"learning-spells",
@@ -31,7 +31,7 @@
 				}
 			],
 			"children": [
-				"full-casting",
+				"full-caster-progression",
 				"spellcasting-ability",
 				"spell-slots-and-casting-spells",
 				"learning-spells",
